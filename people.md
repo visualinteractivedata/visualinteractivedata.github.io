@@ -60,7 +60,7 @@
    </tr>
 </table>
 
-## PhD and Reserach Students
+## PhD and Research Students
 
 <table>
 <tr>
@@ -121,7 +121,7 @@
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/vebjorn.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-  <a><b>Vebjørn Halvfjerdvik</b></a>, Master by Reserach Student on Natural Language Processing and Visualization. 
+  <a><b>Vebjørn Halvfjerdvik</b></a>, Master by Research Student on Natural Language Processing and Visualization. 
       <br/>
     </td>
   </tr> 
