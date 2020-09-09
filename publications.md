@@ -3,12 +3,13 @@
 
 # Publications
 
-## 2020
+## 2021
 ![](figures/wang2020stats.png)
 **[Data Comics for Reporting Controlled User Studies in Human-Computer Interaction](papers/wang2020stats.pdf)**:
 Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, Benjamin Bach
-*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2020 (IEEE VIS, 2020))* 
+*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* 
 
+## 2020
 ![](figures/Xie2020measureflow.png)
 **[Interactive Time-Series of Measures for Exploring Dynamic Networks](papers/Xie2020measureflow.pdf)**:
 Liwenhan Xie, James O'Donnel, Benjamin Bach, Jean-Daniel Fekete
