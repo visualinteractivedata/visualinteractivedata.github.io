@@ -7,7 +7,7 @@
 ![](figures/wang2020stats.png)
 **[Data Comics for Reporting Controlled User Studies in Human-Computer Interaction](papers/wang2020stats.pdf)**:
 Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, Benjamin Bach
-*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* [Project Website](https://statscomics.github.io/) [Video](https://youtu.be/k9kM30ThPg4)
+*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://statscomics.github.io/) / [Video](https://youtu.be/k9kM30ThPg4)**
 
 ## 2020
 ![](figures/Xie2020measureflow.png)
