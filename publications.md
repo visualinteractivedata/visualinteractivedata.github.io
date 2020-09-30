@@ -5,17 +5,17 @@
 
 ## 2021
 ![](figures/wang2020stats.png)
-###[Data Comics for Reporting Controlled User Studies in Human-Computer Interaction](papers/wang2020stats.pdf):
+### [Data Comics for Reporting Controlled User Studies in Human-Computer Interaction](papers/wang2020stats.pdf):
 Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, Benjamin Bach
 *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://statscomics.github.io/) / [Video](https://youtu.be/k9kM30ThPg4)**
 
 ![](figures/Lekschas2020.png)
-###[A Generic Framework and Library for Exploration of Small Multiples through Interactive Piling](https://arxiv.org/pdf/2005.00595.pdf):
+### [A Generic Framework and Library for Exploration of Small Multiples through Interactive Piling](https://arxiv.org/pdf/2005.00595.pdf):
 Fritz Lekschas, Xinyi Zhou, Wei Chen, Nils Gehlenborg, Benjamin Bach, and Hanspeter Pfister
 *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://github.com/flekschas/piling.js)
 
 ![](figures/Shu2020.png)
-###[What Makes a Data-GIF Understandable?](https://arxiv.org/pdf/2008.07227.pdf):
+### [What Makes a Data-GIF Understandable?](https://arxiv.org/pdf/2008.07227.pdf):
 Xinhuan Shu, Aoyu Wu, Junxiu Tang, Benjamin Bach, Yingcai Wu, and Huamin Qu
 *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))*
 
