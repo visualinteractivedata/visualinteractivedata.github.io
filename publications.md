@@ -15,7 +15,7 @@ Fritz Lekschas, Xinyi Zhou, Wei Chen, Nils Gehlenborg, Benjamin Bach, and Hanspe
 *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://github.com/flekschas/piling.js)
 
 ![](figures/Shu2020.png)
-### [What Makes a Data-GIF Understandable?](https://arxiv.org/pdf/2008.07227.pdf):
+**[What Makes a Data-GIF Understandable?](https://arxiv.org/pdf/2008.07227.pdf)**:
 Xinhuan Shu, Aoyu Wu, Junxiu Tang, Benjamin Bach, Yingcai Wu, and Huamin Qu
 *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))*
 
