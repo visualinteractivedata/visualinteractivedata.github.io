@@ -26,7 +26,7 @@ Xinhuan Shu, Aoyu Wu, Junxiu Tang, Benjamin Bach, Yingcai Wu, and Huamin Qu
 **[The VisTools Marketplace:
 An Activity to Understand the Landscape of Visualisation Tools](papers/ridley2020vistools.pdf)**:
 Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach
-*Workshop on Vis Activities @ IEEE VIS conference, 2020* 
+*Workshop on Vis Activities @ IEEE VIS conference, 2020* [Web](http://vistools.net)
 
 ![](figures/Xie2020measureflow.png)
 **[Interactive Time-Series of Measures for Exploring Dynamic Networks](papers/Xie2020measureflow.pdf)**:
