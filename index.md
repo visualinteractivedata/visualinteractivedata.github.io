@@ -17,11 +17,6 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 * *Oct 2020:* Co-organizing [IEEE VIS Workshop on Guidelines in Visualiztion: VisGuides](https://nms.kcl.ac.uk/c4pgv).
 * *Oct 2020:* Co-organizing [IEEE VIS Workshop on Visualization Education: VisActitivies](http://visactivities.github.io).
 * [..more](news.html)
-<!--
-* *June 2020:* Two [papers](publications.html) accepted at [AVI 2020](https://sites.google.com/unisa.it/avi2020/home)!
-* *June 2020:* <span class="red">Devanjan Bhattacharya</span> joins as a post-doc, working on map applications for peace analysis.
-* *May 2020:* <span class="red">James Scott-Brown</span> (postdoc) and <span class="red">Arran Ridley</span> (research assistant) join the team!
--->
 
 [More news...](news.html)
 
