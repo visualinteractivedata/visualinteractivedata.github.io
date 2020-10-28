@@ -1,3 +1,6 @@
+![](figures/Doctors_Covid19.jpg)
+
+
 # PhD in Visualising Complex Care Pathways in Later Life
 
 ## Project Summary
@@ -17,10 +20,10 @@ Evaluate how our novel visualisation approach can support understanding, explora
 
 ## Supervisor Team
 
-[Dr. Benjamin Bach](http://benjbach.me) is a Lecturer in Design Informatics and Visualization at the School of Informatics and the Institute of Design Informatics. He is leading the [Visual+Interactive Data group](http://visualinteractivedata.github.io) who does research in information visualization, data-driven storytelling, immersive interfaces, and cross disciplinary visualization. Ben with help with doing research in interactive information visualization, data-driven storytelling, and immersive interfaces. Ben will help with data visualization,illustration, graphics, UI, adn HCI issues. 
-[Dr. Areti Manataki](http://www.homepages.ed.ac.uk/amanatak/) is a health data scientist, employing artificial intelligence methods to improve healthcare processes. She collaborates with academic and industrial partners, including NHS clinicians, social scientists and IT companies. Areti will help with the necessary background in health and health data science.
-[Dr. Beatrice Alex](http://homepages.inf.ed.ac.uk/balex) is Chancellor’s Fellow and Turing Fellow at the University of Edinburgh and is an expert in text mining and natural language processing with applications in the healthcare sector. She leads the Edinburgh Language Technology group and co-leads the Edinburgh Clinical NLP Research Group with Dr. Honghan Wu with whom she will be leading the NLP work associated with the ACRC work package 3.  Dr. Alex will support this project by providing advice on the NLP aspects of the research.
-Prof. Bruce Guthrie is Professor of General Practice and a mixed-methods health services researcher interested in multimorbidity, polypharmacy and healthcare quality/safety. He chaired the guideline development group for the NICE Multimorbidity Guideline, and is a member of the SAGE Social Care Subgroup. He is the principal investigator of the ACRC programme and will provide the clinical expertise as part of this project.
+* [Dr. Benjamin Bach](http://benjbach.me) is a Lecturer in Design Informatics and Visualization at the School of Informatics and the Institute of Design Informatics. He is leading the [Visual+Interactive Data group](http://visualinteractivedata.github.io) who does research in information visualization, data-driven storytelling, immersive interfaces, and cross disciplinary visualization. Ben with help with doing research in interactive information visualization, data-driven storytelling, and immersive interfaces. Ben will help with data visualization,illustration, graphics, UI, adn HCI issues. 
+* [Dr. Areti Manataki](http://www.homepages.ed.ac.uk/amanatak/) is a health data scientist, employing artificial intelligence methods to improve healthcare processes. She collaborates with academic and industrial partners, including NHS clinicians, social scientists and IT companies. Areti will help with the necessary background in health and health data science.
+* [Dr. Beatrice Alex](http://homepages.inf.ed.ac.uk/balex) is Chancellor’s Fellow and Turing Fellow at the University of Edinburgh and is an expert in text mining and natural language processing with applications in the healthcare sector. She leads the Edinburgh Language Technology group and co-leads the Edinburgh Clinical NLP Research Group with Dr. Honghan Wu with whom she will be leading the NLP work associated with the ACRC work package 3.  Dr. Alex will support this project by providing advice on the NLP aspects of the research.
+* [Prof. Bruce Guthrie](https://www.ed.ac.uk/profile/bruce-guthrie) is Professor of General Practice and a mixed-methods health services researcher interested in multimorbidity, polypharmacy and healthcare quality/safety. He chaired the guideline development group for the NICE Multimorbidity Guideline, and is a member of the SAGE Social Care Subgroup. He is the principal investigator of the ACRC programme and will provide the clinical expertise as part of this project.
 
 ## Required skills: 
 * Undergraduate or postgraduate in computer science / informatics / information visualizaion / interactive design or related discipline.
