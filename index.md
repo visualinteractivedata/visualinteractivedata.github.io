@@ -12,8 +12,8 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 
 
 # News 
-* *Oct 2020* [PhD Scholarship](phd-graphics-medicine.md.html) in Visualising Complex Care Pathways in Later Life. 
-* *Oct 2020* Three full [papers](publications.html) accepted at [IEEE VIS 2020](http://ieeevis.org)!
+* *Oct 2020:* [PhD Scholarship](phd-graphics-medicine.md.html) in Visualising Complex Care Pathways in Later Life. 
+* *Oct 2020:* Three full [papers](publications.html) accepted at [IEEE VIS 2020](http://ieeevis.org)!
 * *Oct 2020:* Co-organizing [IEEE VIS Workshop on Guidelines in Visualiztion: VisGuides](https://nms.kcl.ac.uk/c4pgv).
 * *Oct 2020:* Co-organizing [IEEE VIS Workshop on Visualization Education: VisActitivies](http://visactivities.github.io).
 * [..more](news.html)
