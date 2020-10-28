@@ -43,3 +43,4 @@ Evaluate how our novel visualisation approach can support understanding, explora
 * years 2-4 are dedicated to the PhD reserach
 * No teaching or other duties are required.
 * Applications will open soon, but talk to [Ben](bbach@inf.ed.ac.uk) if you are interested.
+* start is Sept 2021
