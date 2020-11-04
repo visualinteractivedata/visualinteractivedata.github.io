@@ -9,14 +9,15 @@ Health care in later life is complex and hard to navigate. We aim to apply a com
 
 ## Aim
 
-To visualise individual care pathways to individuals in later life to help understand, explore, and discuss with doctors and family members.
+To visualise personalised care pathways to individuals in later life to help understand, explore, and discuss with doctors and family members.
 
 ## Objectives
-Develop innovative methods for depicting, visualising, and discovering
+* Develop innovative methods for depicting, visualising, and discovering
 complex care pathways in later life, drawing on process modelling and interactive data visualisation.
-Employ Natural Language Processing methods to extract key information regarding care pathways from medical guidelines and other data, e.g., EHRs.
-Investigate the needs of people in later life with respect to visualising and communicating complex care pathways.
-Evaluate how our novel visualisation approach can support understanding, exploration, and discussion by working closely with people in later life.
+* Employ Natural Language Processing methods to extract key information regarding care pathways from medical guidelines and other data, e.g., electronic health records.
+* Investigate the needs of people in later life with respect to visualising and communicating complex care pathways.
+* Evaluate how our novel visualisation approach can support understanding, exploration, and discussion by working closely with people in later life.
+
 
 ## Supervisor Team
 
@@ -26,21 +27,30 @@ Evaluate how our novel visualisation approach can support understanding, explora
 * [Prof. Bruce Guthrie](https://www.ed.ac.uk/profile/bruce-guthrie) is Professor of General Practice and a mixed-methods health services researcher interested in multimorbidity, polypharmacy and healthcare quality/safety. He chaired the guideline development group for the NICE Multimorbidity Guideline, and is a member of the SAGE Social Care Subgroup. He is the principal investigator of the ACRC programme and will provide the clinical expertise as part of this project.
 
 ## Required skills: 
-* Undergraduate or postgraduate in computer science / informatics / information visualizaion / interactive design or related discipline.
+* Undergraduate or postgraduate in computer science / informatics or related discipline
+
 
 ## Relevant skills
-* Strong interest in health and health data, data vis, illustration, and natural language processing
+* Strong interest in health and health data 
 * Experience of interdisciplinary collaborations 
 * Web and visualization development
-* Graphics design, data visualization, communication 
+* Good understanding of graphics design, data visualization, communication 
 * Basic understanding of applied natural language processing (NLP)
+* Basic understanding of process modelling methods
 * Human-centered design
+
 
 ## Funding and Program Information 
 * The scholarship covers a stipend for 4 years. 
 * The program is a 3+1 center for doctoral training at the University of Edinburgh
-* the first year is meant to contain some taught causes, while starting to get to grips with the reserach topic
+* the first year is meant to contain some taught courses, while starting to get to grips with the reserach topic
 * years 2-4 are dedicated to the PhD reserach
-* No teaching or other duties are required.
+* No teaching or other duties are required
 * Applications will open soon, but talk to [Ben](bbach@inf.ed.ac.uk) if you are interested.
 * start is Sept 2021
+
+## Relevant References
+* Wang, Z., Ritchie, J., Zhou, J., Chevalier, F. and Bach, B., 2020. Data Comics for Reporting Controlled User Studies inHuman-Computer Interaction.
+* Wang, Zezhong, Harvey Dingwall, and Benjamin Bach. "Teaching data visualization and storytelling with data comic workshops." In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems, pp. 1-9. 2019.
+* Bach, B., Stefaner, D., Boy, J., Drucker, S., Bartram, L., Wood, J., Ciuccarelli, P., Engelhardt, Y., Koeppen, U. and Tversky, B., 2018. Narrative design patterns for data-driven storytelling. In Data-Driven Storytelling (pp. 107-133). CRC Press.
+* Grando, A., Manataki, A., Furniss, S. K., Duncan, B., Solomon, A., Kaufman, D., ... & Burton, M. M. (2018). Multi-method study of electronic health records workflows. In AMIA Annual Symposium Proceedings (Vol. 2018, p. 498). American Medical Informatics Association.
