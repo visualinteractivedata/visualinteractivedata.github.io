@@ -32,7 +32,7 @@ This PhD is funded by the [Advanced Care Research Center (ACRC)](http://www.edin
 - the first year is typically dedicates to taught courses and preparing the PhD research proposal
 - the last 3 years are dedicated to the actual PhD research. 
 
-While all of the research for this project will be done at the [School of Informatics](https://www.ed.ac.uk/informatics) and the [Usher Institute](https://www.ed.ac.uk/usher), the successful candidate will graduate from the [School of Engineering](https://www.eng.ed.ac.uk).
+While all of the research for this project will be done at the [School of Informatics](https://www.ed.ac.uk/informatics) and the [Usher Institute](https://www.ed.ac.uk/usher), the successful candidate will graduate from the [School of Engineering](https://www.eng.ed.ac.uk). The PhD candidate will also be part of the [Visual+Interactive Data group](http://visualinteractivedata.github.io) and [https://www.designinformatics.org]() and invited to join any group and reading group meetings. We strongly encourage collaborations within the group and our wide network of collaborators. The principal supervisor plans to meet weekly with the PhD candidate to assure close supervision and support. 
 
 ## Required skills: 
 * Undergraduate or postgraduate in computer science / informatics or related discipline
