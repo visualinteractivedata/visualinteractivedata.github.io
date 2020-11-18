@@ -26,6 +26,14 @@ complex care pathways in later life, drawing on process modelling and interactiv
 * [Dr. Beatrice Alex](http://homepages.inf.ed.ac.uk/balex) is Chancellor’s Fellow and Turing Fellow at the University of Edinburgh and is an expert in text mining and natural language processing with applications in the healthcare sector. She leads the Edinburgh Language Technology group and co-leads the Edinburgh Clinical NLP Research Group with Dr. Honghan Wu with whom she will be leading the NLP work associated with the ACRC work package 3.  Dr. Alex will support this project by providing advice on the NLP aspects of the research.
 * [Prof. Bruce Guthrie](https://www.ed.ac.uk/profile/bruce-guthrie) is Professor of General Practice and a mixed-methods health services researcher interested in multimorbidity, polypharmacy and healthcare quality/safety. He chaired the guideline development group for the NICE Multimorbidity Guideline, and is a member of the SAGE Social Care Subgroup. He is the principal investigator of the ACRC programme and will provide the clinical expertise as part of this project.
 
+## Context
+
+This PhD is funded by the [Advanced Care Research Center (ACRC)](http://www.edin.care) at the Usher Institite, Edinburgh. All applications will go through ACRC but we strongly encourage to [get in touch with the supervisor team](mailto:bbach@inf.ed.ac.uk) before applying. The ACRC runs a 1+3 program, which means that
+- the first year is typically dedicates to taught courses and preparing the PhD research proposal
+- the last 3 years are dedicated to the actual PhD research. 
+
+While all of the research for this project will be done at the [School of Informatics](https://www.ed.ac.uk/informatics) and the [Usher Institute](https://www.ed.ac.uk/usher), the successful candidate will graduate from the [School of Engineering](https://www.eng.ed.ac.uk).
+
 ## Required skills: 
 * Undergraduate or postgraduate in computer science / informatics or related discipline
 
