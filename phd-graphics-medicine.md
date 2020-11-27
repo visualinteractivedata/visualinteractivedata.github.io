@@ -49,7 +49,7 @@ While all of the research for this project will be done at the [School of Inform
 
 
 ## Funding and Program Information 
-* The scholarship covers a stipend for 4 years. 
+* The scholarship covers a stipend for 4 years with £16,500 pa. 
 * The program is a 3+1 center for doctoral training at the University of Edinburgh
 * the first year is meant to contain some taught courses, while starting to get to grips with the reserach topic
 * years 2-4 are dedicated to the PhD reserach
