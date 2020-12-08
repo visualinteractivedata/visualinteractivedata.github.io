@@ -5,19 +5,17 @@
 
 ## Project Summary
 
-Health care in later life is complex and hard to navigate. We aim to apply a combination of data visualisation, natural language processing, and process modelling to medical guidelines and patient care data, so as to visualise care pathways that are personalised to individual patients and easy to understand. Our ambition is that these interactive visualisations can help people in later life gain a deeper understanding of their trajectories of care, as well as enable discussions with specialists and family members around adapting care to their wishes, priorities and needs.
+Health care in later life is complex and hard to navigate. We aim to apply **a combination of data visualisation, illustration, natural language processing, and process modelling** to medical guidelines and patient care data, so as to visualise care pathways that are personalised to individual patients and easy to understand. Our ambition is that these interactive visualisations can help people in later life gain a deeper understanding of their trajectories of care, as well as enable discussions with specialists and family members around adapting care to their wishes, priorities and needs.
 
 ## Aim
 
 To visualise personalised care pathways to individuals in later life to help understand, explore, and discuss with doctors and family members.
 
 ## Objectives
-* Develop innovative methods for depicting, visualising, and discovering
-complex care pathways in later life, drawing on process modelling and interactive data visualisation.
+* Develop innovative methods for depicting, visualising, and discovering complex care pathways in later life, drawing on process modelling and interactive data visualisation.
 * Employ Natural Language Processing methods to extract key information regarding care pathways from medical guidelines and other data, e.g., electronic health records.
 * Investigate the needs of people in later life with respect to visualising and communicating complex care pathways.
 * Evaluate how our novel visualisation approach can support understanding, exploration, and discussion by working closely with people in later life.
-
 
 ## Supervisor Team
 
@@ -29,10 +27,10 @@ complex care pathways in later life, drawing on process modelling and interactiv
 ## Context
 
 This PhD is funded by the [Advanced Care Research Center (ACRC)](http://www.edin.care) at the Usher Institite, Edinburgh. All applications will go through ACRC but we strongly encourage to [get in touch with the supervisor team](mailto:bbach@inf.ed.ac.uk) before applying. The ACRC runs a 1+3 program, which means that
-- the first year is typically dedicates to taught courses and preparing the PhD research proposal
+- the first year is typically dedicated to taught courses and preparing the PhD research proposal
 - the last 3 years are dedicated to the actual PhD research. 
 
-While all of the research for this project will be done at the [School of Informatics](https://www.ed.ac.uk/informatics) and the [Usher Institute](https://www.ed.ac.uk/usher), the successful candidate will graduate from the [School of Engineering](https://www.eng.ed.ac.uk). The PhD candidate will also be part of the [Visual+Interactive Data group](http://visualinteractivedata.github.io) and [https://www.designinformatics.org]() and invited to join any group and reading group meetings. We strongly encourage collaborations within the group and our wide network of collaborators. The principal supervisor plans to meet weekly with the PhD candidate to assure close supervision and support. 
+While all of the research for this project will be done at the [School of Informatics](https://www.ed.ac.uk/informatics) and the [Usher Institute](https://www.ed.ac.uk/usher), the successful candidate will graduate from the [School of Engineering](https://www.eng.ed.ac.uk). The PhD candidate will also be part of the [Visual+Interactive Data group](http://visualinteractivedata.github.io) and [https://www.designinformatics.org](https://www.designinformatics.org) and invited to join any group and reading group meetings. We strongly encourage collaborations within the group and our wide network of collaborators. The principal supervisor plans to meet weekly with the PhD candidate to assure close supervision and support. 
 
 ## Required skills: 
 * Undergraduate or postgraduate in computer science / informatics or related discipline
@@ -40,7 +38,7 @@ While all of the research for this project will be done at the [School of Inform
 ## Relevant skills
 * Strong interest in health and health data 
 * Experience of interdisciplinary collaborations 
-* Web and visualization development
+* Web and visualization design and development
 * Good understanding of graphics design, data visualization, communication 
 * Basic understanding of applied natural language processing (NLP)
 * Basic understanding of process modelling methods
@@ -48,6 +46,7 @@ While all of the research for this project will be done at the [School of Inform
 
 ## Funding and Program Information 
 * The scholarship covers a stipend for 4 years with £16,500 pa. 
+* Successful candidates must live in the UK.
 * The program is a 3+1 center for doctoral training at the University of Edinburgh
 * the first year is meant to contain some taught courses, while starting to get to grips with the reserach topic
 * years 2-4 are dedicated to the PhD reserach
@@ -57,11 +56,15 @@ While all of the research for this project will be done at the [School of Inform
 
 ## Application
 
-It is strongly advised to [contact us](bbach@inf.ed.ac.uk) before application with 
+**Deadline for applications will be around late January 2021**.
+
+It is strongly advised to [contact us](mailto:bbach@inf.ed.ac.uk) before application with 
 * CV
 * brief research statement (why are you interested in this, what are you planning to do).
 
-[https://www.ed.ac.uk/usher/advanced-care-research-centre/academy/how-to-apply](https://www.ed.ac.uk/usher/advanced-care-research-centre/academy/how-to-apply).
+The final decision of acceptance will be made through the CDT. 
+
+**Apply here**: [https://www.ed.ac.uk/usher/advanced-care-research-centre/academy/how-to-apply](https://www.ed.ac.uk/usher/advanced-care-research-centre/academy/how-to-apply).
 
 ## Relevant References
 * Wang, Z., Ritchie, J., Zhou, J., Chevalier, F. and Bach, B., 2020. Data Comics for Reporting Controlled User Studies inHuman-Computer Interaction.
