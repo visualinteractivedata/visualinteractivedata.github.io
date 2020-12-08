@@ -37,7 +37,6 @@ While all of the research for this project will be done at the [School of Inform
 ## Required skills: 
 * Undergraduate or postgraduate in computer science / informatics or related discipline
 
-
 ## Relevant skills
 * Strong interest in health and health data 
 * Experience of interdisciplinary collaborations 
@@ -47,7 +46,6 @@ While all of the research for this project will be done at the [School of Inform
 * Basic understanding of process modelling methods
 * Human-centered design
 
-
 ## Funding and Program Information 
 * The scholarship covers a stipend for 4 years with £16,500 pa. 
 * The program is a 3+1 center for doctoral training at the University of Edinburgh
@@ -56,6 +54,14 @@ While all of the research for this project will be done at the [School of Inform
 * No teaching or other duties are required
 * Applications will open soon, but talk to [Ben](bbach@inf.ed.ac.uk) if you are interested.
 * start is Sept 2021
+
+## Application
+
+It is strongly advised to [contact us](bbach@inf.ed.ac.uk) before application with 
+* CV
+* brief research statement (why are you interested in this, what are you planning to do).
+
+[https://www.ed.ac.uk/usher/advanced-care-research-centre/academy/how-to-apply](https://www.ed.ac.uk/usher/advanced-care-research-centre/academy/how-to-apply).
 
 ## Relevant References
 * Wang, Z., Ritchie, J., Zhou, J., Chevalier, F. and Bach, B., 2020. Data Comics for Reporting Controlled User Studies inHuman-Computer Interaction.
