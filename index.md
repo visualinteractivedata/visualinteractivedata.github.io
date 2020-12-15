@@ -11,7 +11,7 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 
 
 # News 
-* *Dec 2020:* [Lecturer/Reader](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/313/?utm_medium=jobshare) in Data visualisation. 
+* *Dec 2020:*   WE'RE HIRING: [Lecturer/Reader](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/313/?utm_medium=jobshare) in Data visualisation. 
 * *Dec 2020:* Four full papers accepted at ACM CHI 2021 (to come)!
 * *Oct 2020:* [PhD Scholarship](phd-graphics-medicine.html) in Visualising Complex Care Pathways in Later Life. 
 * *Oct 2020:* Three full [papers](publications.html) accepted at [IEEE VIS 2020](http://ieeevis.org)!
