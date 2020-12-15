@@ -1,4 +1,4 @@
-__Visual<b style="color:red;">+</b>Interactive Data__ group is researching interactive, exploratory and explanatory visualizations across environments such as screen, tangible, and immersion to support interdisciplinary research to understand and communicate complex data. _Visual+Interactive Data_ is based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). Our research includes, but is not limited to areas in 
+The __VisHub__ is and interdisciplinary research group working on interactive, exploratory and explanatory visualizations across environments such as screen, tangible, and immersion to support interdisciplinary research to understand and communicate complex data. We are based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). Our research includes, but is not limited to:
 
 * data-driven storytelling, 
 * network and spatio-temporal visualization, 
@@ -7,7 +7,7 @@ __Visual<b style="color:red;">+</b>Interactive Data__ group is researching inter
 * visualization education
 * data visualization and NLP
 
-Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). [Get in touch with us](mailto:bbach@ed.ac.uk) if you want to become involved.
+We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). [Get in touch with us](mailto:bbach@ed.ac.uk) if you want to become involved.
 
 
 # News 
