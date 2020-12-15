@@ -1,18 +1,18 @@
 __Visual<b style="color:red;">+</b>Interactive Data__ group is researching interactive, exploratory and explanatory visualizations across environments such as screen, tangible, and immersion to support interdisciplinary research to understand and communicate complex data. _Visual+Interactive Data_ is based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). Our research includes, but is not limited to areas in 
 
-* network and spatio-temporal visualization, 
 * data-driven storytelling, 
-* visualization in augmented and virtual reality (Immersive Analytics), 
-* non-digital and physical visualization, and 
-* teaching and learning visualization. 
+* network and spatio-temporal visualization, 
+* Immersive Analytics, 
+* physical visualization,
+* visualization education
+* data visualization and NLP
 
 Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). [Get in touch with us](mailto:bbach@ed.ac.uk) if you want to become involved.
 
 
-
-
 # News 
 * *Dec 2020:* [Lecturer/Reader](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/313/?utm_medium=jobshare) in Data visualisation. 
+* *Dec 2020:* Four full papers accepted at ACM CHI 2021 (to come)!
 * *Oct 2020:* [PhD Scholarship](phd-graphics-medicine.html) in Visualising Complex Care Pathways in Later Life. 
 * *Oct 2020:* Three full [papers](publications.html) accepted at [IEEE VIS 2020](http://ieeevis.org)!
 * *Oct 2020:* Co-organizing [IEEE VIS Workshop on Guidelines in Visualiztion: VisGuides](https://nms.kcl.ac.uk/c4pgv).
@@ -25,6 +25,11 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 
 
 # Selected Projects ([more](publications.html))
+
+## Visualiztion Education
+![](figures/vistools.png)
+Designing visualization activities and teaching resouces for education with visualization 
+[Web](http://vistools.net)
 
 ## Text Analysis for Clinical Guidelines
 ![](figures/covid-browser-2.png)
