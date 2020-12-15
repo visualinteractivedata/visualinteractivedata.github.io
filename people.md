@@ -20,14 +20,6 @@
   </tr>
   
   <tr>
-    <td style="vertical-align:top;width:100px;"><img src="people/dave.png"/></td>
-    <td style="vertical-align:top;">
-      <b><a href="http://dave.murray-rust.org/">Dave Murray-Rust</a></b>, Lecturer and researcher and creative practitioner at the University of Edinburgh, working in human-algorithm interaction - exploring the messy terrain between people, data and things through a combination of making and thinking.
-      <br/>
-      <a href="https://scholar.google.com/citations?user=tncrPCIAAAAJ&hl=en&oi=ao">Google Scholar</a>
-    </td>
-  </tr>
-  <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/larissa.jpg"/></td>
     <td style="vertical-align:top;">
       <b><a href="http://entretags.de/">Larissa Pschetz</a></b>, interaction designer, researcher and lecturer at the University of Edinburgh. Research through design, Technology for social development, Internet of Things (IoT), Temporal design, Biodesign
@@ -136,6 +128,9 @@
 
 
 # Alumni
+
+## Facilty 
+Dave Murray-Rust
 
 ## Visiting Researchers
 
