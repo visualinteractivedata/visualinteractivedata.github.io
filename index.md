@@ -24,9 +24,9 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 
 
 
-# Selected Projects ([more](publications.html))
+# Topics & Projects ([> Publications](publications.html))
 
-## Visualiztion Education
+## Visualization Education
 ![](figures/vistools.png)
 Designing visualization activities and teaching resouces for education with visualization 
 [Web](http://vistools.net)
