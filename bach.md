@@ -82,19 +82,22 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 (Not including conference presentations)
 
-* January 2020---Keynote to Dealing with Data conference (Edinburgh): [Dealing vis Data](pdfs/dealing_vis_data_keynote.pdf)  
-* June 2019---Edinburgh Futures Seminar: Visualizing Peace and Conflicts
-* May 2019---Kings College, London: Data visualization for exploration, explanation and beyond.
-* December 2018---Shonan Seminar to Immersive Analytics (Tokio): Visualizing Space-Time Cubes in AR.
-* October 2018---Tuto@Mate (online webinar): Interactive Visualization for Dynamic, Multivariate, and Geographic Networks.
-* September 2018---University of Tilburg (Netherlands): Data Comics for Data-Driven Storytelling
-* September 2018---Design Informatics Seminar Series (University of Edinburgh): Perspectives on Data Visualization.
-* May 2018---Keynote for Workshop on Big Data Analytics and Business Applications, AVI Conference (Casteglione della Pescaia): Interaction Literacy for Data Visualization.
-* May 2018---Tesco Bank: Data Visualization for Exploration, Explanation, and Engagement
-* May 2018---OpenVis Conference (Paris): Drawing into the AR-Canvas: Designing Embedded Visualizations for Augmented Reliaty.
-* March 2018---DataTech Fest Edinburgh: [Tools for Data Visualization](https://www.youtube.com/watch?v=ofsts_nfF_0) 
-* March 2018---Alan Turing Institute: Visualization for Interactive Data Exploration
-* February 2018---Controversies in the Data Society Talk Series, (Edinburgh): Seven Myths about Data Visualization
+* December 2020: The Immersive Canvas: Information Visualization in Immersive Environments, Keynote to Workshop ImAna at IEEE AIVR
+* November 2020: Data Comics, Data Stories Symposium, Kings College London 
+* October 2020: Data Comics Guest Lecture, Kings College London
+* January 2020: Keynote to Dealing with Data conference (Edinburgh): [Dealing vis Data](pdfs/dealing_vis_data_keynote.pdf)  
+* June 2019: Edinburgh Futures Seminar: Visualizing Peace and Conflicts
+* May 2019: Kings College, London: Data visualization for exploration, explanation and beyond.
+* December 2018: Shonan Seminar to Immersive Analytics (Tokio): Visualizing Space-Time Cubes in AR.
+* October 2018: Tuto@Mate (online webinar): Interactive Visualization for Dynamic, Multivariate, and Geographic Networks.
+* September 2018: University of Tilburg (Netherlands): Data Comics for Data-Driven Storytelling
+* September 2018: Design Informatics Seminar Series (University of Edinburgh): Perspectives on Data Visualization.
+* May 2018: Keynote for Workshop on Big Data Analytics and Business Applications, AVI Conference (Casteglione della Pescaia): Interaction Literacy for Data Visualization.
+* May 2018: Tesco Bank: Data Visualization for Exploration, Explanation, and Engagement
+* May 2018: OpenVis Conference (Paris): Drawing into the AR-Canvas: Designing Embedded Visualizations for Augmented Reliaty.
+* March 2018: DataTech Fest Edinburgh: [Tools for Data Visualization](https://www.youtube.com/watch?v=ofsts_nfF_0) 
+* March 2018: Alan Turing Institute: Visualization for Interactive Data Exploration
+* February 2018: Controversies in the Data Society Talk Series, (Edinburgh): Seven Myths about Data Visualization
 * ... 
 
 ## Scientific Workshops
