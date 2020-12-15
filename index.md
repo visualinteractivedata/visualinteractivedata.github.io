@@ -1,10 +1,10 @@
-The __VisHub__ is and interdisciplinary research group working on interactive, exploratory and explanatory visualizations across environments such as screen, tangible, and immersion to support interdisciplinary research to understand and communicate complex data. We are based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). Our research includes, but is not limited to:
+The __VisHub__ is and interdisciplinary research group working on interactive, exploratory and explanatory visualizations across domains and environments (e.g., screen, physical, immersion) to understand and communicate complex data. We are based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). Our research includes, but is not limited to:
 
 * data-driven storytelling, 
-* network and spatio-temporal visualization, 
-* Immersive Analytics, 
-* physical visualization,
 * visualization education
+* immersive Analytics, 
+* network and spatio-temporal visualization, 
+* physical visualization,
 * data visualization and NLP
 
 We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). [Get in touch with us](mailto:bbach@ed.ac.uk) if you want to become involved.
