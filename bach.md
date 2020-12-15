@@ -52,11 +52,12 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 * Zezhong Wang (since 2018)
 * John Harper-Lee (since 2018), 2nd 
-* Mashael Alkadi (since 2019)
-* Tobias Kauer (since 2019)
-* Ryan Bowler (since 2019)
+* Mashael Alkadi (since 2019), 1st
+* Tobias Kauer (since 2019), 1st
+* Ryan Bowler (since 2019), 1st
 * Lucy Heavens (since 2020), 2nd 
 * Kun-Ting Chen (since 2020), 3rd 
+* Sarah Schöttler (since 2021), 1st
 
 ## Professional Activities
 
