@@ -82,6 +82,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 (Not including conference presentations)
 
+* Jan 2021: [Visualization Empowerment](https://docs.google.com/presentation/d/1E1wco5dnvhcsPntCc40yu0caFS7dZOPTOp3GhSJ5_Xc/edit?usp=sharing), Open Lab, Newcastle University. 
 * December 2020: The Immersive Canvas: Information Visualization in Immersive Environments, Keynote to Workshop ImAna at IEEE AIVR
 * November 2020: Data Comics, Data Stories Symposium, Kings College London 
 * October 2020: Data Comics Guest Lecture, Kings College London
