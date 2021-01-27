@@ -4,6 +4,11 @@
 # Publications
 
 ## 2021
+![](figures/chen2021wrap.png)
+**[I t’s a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding](papers/chen2021wrap.pdf)**:
+Kun-Ting Chen, Tim Dwyer, Benjamin Bach, Kim Marriotth
+*ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+
 ![](figures/kauer2021public.png)
 **[The Public Life of Data:
 Investigating Reactions to Visualizations on Reddit](papers/kauer2021public.pdf)**:
