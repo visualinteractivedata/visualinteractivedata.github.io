@@ -4,14 +4,20 @@
 # Publications
 
 ## 2021
+
+
+![](figures/zheng2021sketchnote.png)
+**[Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking](papers/zheng2021sketchnote.pdf)**:
+Rebecca Zheng, Marina Fernández Camporro, Hugo Romat, Nathalie Henry Riche, Benjamin Bach, Fanny Chevalier, Ken Hinckley, Nicolai Marquardt
+*ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+
 ![](figures/chen2021wrap.png)
-**[I t’s a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding](papers/chen2021wrap.pdf)**:
-Kun-Ting Chen, Tim Dwyer, Benjamin Bach, Kim Marriotth
+**[It’s a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding](papers/chen2021wrap.pdf)**:
+Kun-Ting Chen, Tim Dwyer, Benjamin Bach, Kim Marriott
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
 
 ![](figures/kauer2021public.png)
-**[The Public Life of Data:
-Investigating Reactions to Visualizations on Reddit](papers/kauer2021public.pdf)**:
+**[The Public Life of Data: Investigating Reactions to Visualizations on Reddit](papers/kauer2021public.pdf)**:
 Tobias Kauer, Arran Ridley, Marian Dörk, Benjamin Bach
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
 
