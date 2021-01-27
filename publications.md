@@ -4,6 +4,12 @@
 # Publications
 
 ## 2021
+![](figures/kauer2021public.png)
+**[The Public Life of Data:
+Investigating Reactions to Visualizations on Reddit](papers/kauer2021public.pdf)**:
+Tobias Kauer, Arran Ridley, Marian Dörk, Benjamin Bach
+*ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+
 ![](figures/wang2020stats.png)
 **[Data Comics for Reporting Controlled User Studies in Human-Computer Interaction](papers/wang2020stats.pdf)**:
 Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, Benjamin Bach
@@ -79,7 +85,7 @@ Maxime Cordeil, Andrew Cunningham, Benjamin Bach, Christophe Hurter, Bruce H. Th
 
 ![](figures/havens2019paxvis.png)
 **[PaxVis: Visualizing Peace Agreements](papers/havens2019paxvis.pdf)**:
-Lucy Havens, Mengting Bao, Larissa Pschetz, Benjamin Bach, Christine Bell. 
+Lucy Havens, Mengting Bao, Larissa Pschetz, Benjamin Bach, Christine Bell.
 *ACM Conference on Human Factors in Computing Systems (CHI) (2019).*
 
 [Weblink](https://sarah37.github.io/pax/timeandspace)
