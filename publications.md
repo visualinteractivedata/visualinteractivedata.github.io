@@ -4,7 +4,10 @@
 # Publications
 
 ## 2021
-
+![](figures/2021grandchallenges.png)
+**[Grand Challenges in Immersive Analytics](papers/2021grandchallenges.pdf)**:
+Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett, Arnaud Prouzeau, Christoph Anthes, Wolfgang Büschel, Cody Dunne, Tim Dwyer, Jens Grubert, Jason H. Haga, Nurit Kirshenbaum, Dylan Kobayashi, Tica Lin, Monsurat Olaosebikan, Fabian Pointecker, David Saffo, Nazmus Saquib, Dieter Schmalstieg, Danielle Albers Szafir, Matthew Whitlock, Yalong Yang
+*ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
 
 ![](figures/zheng2021sketchnote.png)
 **[Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking](papers/zheng2021sketchnote.pdf)**:
