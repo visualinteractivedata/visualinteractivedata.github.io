@@ -8,36 +8,44 @@
 **[Grand Challenges in Immersive Analytics](papers/2021grandchallenges.pdf)**:
 Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett, Arnaud Prouzeau, Christoph Anthes, Wolfgang Büschel, Cody Dunne, Tim Dwyer, Jens Grubert, Jason H. Haga, Nurit Kirshenbaum, Dylan Kobayashi, Tica Lin, Monsurat Olaosebikan, Fabian Pointecker, David Saffo, Nazmus Saquib, Dieter Schmalstieg, Danielle Albers Szafir, Matthew Whitlock, Yalong Yang
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+<br/><br/>
+
 
 ![](figures/zheng2021sketchnote.png)
 **[Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking](papers/zheng2021sketchnote.pdf)**:
 Rebecca Zheng, Marina Fernández Camporro, Hugo Romat, Nathalie Henry Riche, Benjamin Bach, Fanny Chevalier, Ken Hinckley, Nicolai Marquardt
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+<br/><br/>
 
 ![](figures/chen2021wrap.png)
 **[It’s a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding](papers/chen2021wrap.pdf)**:
 Kun-Ting Chen, Tim Dwyer, Benjamin Bach, Kim Marriott
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+<br/><br/>
 
 ![](figures/kauer2021public.png)
 **[The Public Life of Data: Investigating Reactions to Visualizations on Reddit](papers/kauer2021public.pdf)**:
 Tobias Kauer, Arran Ridley, Marian Dörk, Benjamin Bach
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+<br/><br/>
 
 ![](figures/wang2020stats.png)
 **[Data Comics for Reporting Controlled User Studies in Human-Computer Interaction](papers/wang2020stats.pdf)**:
 Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, Benjamin Bach
 *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://statscomics.github.io/) / [Video](https://youtu.be/k9kM30ThPg4)**
+<br/><br/>
 
 ![](figures/Lekschas2020.png)
 **[A Generic Framework and Library for Exploration of Small Multiples through Interactive Piling](https://arxiv.org/pdf/2005.00595.pdf)**:
 Fritz Lekschas, Xinyi Zhou, Wei Chen, Nils Gehlenborg, Benjamin Bach, and Hanspeter Pfister
-*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://github.com/flekschas/piling.js)
+*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://github.com/flekschas/piling.js)**
+<br/><br/>
 
 ![](figures/Shu2020.png)
 **[What Makes a Data-GIF Understandable?](https://arxiv.org/pdf/2008.07227.pdf)**:
 Xinhuan Shu, Aoyu Wu, Junxiu Tang, Benjamin Bach, Yingcai Wu, and Huamin Qu
 *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))*
+<br/><br/>
 
 
 
