@@ -19,7 +19,11 @@ The below advice is collected from many recurring errors in students' writings.
 
 * Try to avoid implicit references such as 'this'  or 'as discussed above' or alike. Use explicit references by repeating the term you're referencing.
 * Label your figures and include meaningful captions that explain the figure in sufficient detail.
-* There is a blank ' ' before any opening bracket. 
+* In English, there is a blank ' ' before any opening bracket; there is no blank ' ' before : (as it is in French)
+* By early August you should spend more time writing than implementing. - Keep some of the polishing bits to the end when you're done writing. 
+* Keep in mind to demonstrate your solution: this includes figures and can be videos, too. 
+* the report is what the reviewer will see. They will not know about our discussions nor anything else. Anything you do not mention 'did not happen'
+* at the same time, do not bore with details. Do not explain any little change during your iterations. Only add the information relevant to understand and assess your contribution / solution / research question. I will not be able to tell you what that is. You will have to decide that. 
 
 ## Possible Outline and Section Content
 

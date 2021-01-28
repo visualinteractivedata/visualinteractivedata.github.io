@@ -18,15 +18,7 @@
       <a href="https://scholar.google.com/citations?user=yv5H92AAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
-  
-  <tr>
-    <td style="vertical-align:top;width:100px;"><img src="people/dave.png"/></td>
-    <td style="vertical-align:top;">
-      <b><a href="http://dave.murray-rust.org/">Dave Murray-Rust</a></b>, Lecturer and researcher and creative practitioner at the University of Edinburgh, working in human-algorithm interaction - exploring the messy terrain between people, data and things through a combination of making and thinking.
-      <br/>
-      <a href="https://scholar.google.com/citations?user=tncrPCIAAAAJ&hl=en&oi=ao">Google Scholar</a>
-    </td>
-  </tr>
+
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/larissa.jpg"/></td>
     <td style="vertical-align:top;">
@@ -48,16 +40,30 @@
       <a href="https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw">Google Scholar</a>
     </td>
    </tr>
-  
+
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/james-scottbrown.png"/></td>
     <td style="vertical-align:top;">
-      <b><a href="http://jamesscottbrown.com/"> James Scott-Brown</a></b>, Post-doctoral researcher on visual browing interfaces for document collections. 
-      <a href="https://scholar.google.com/citations?user=2CciQUsAAAAJ&hl=en&oi=ao">Google Scholar</a>
+      <b><a href="http://jamesscottbrown.com/"> James Scott-Brown</a></b>, Post-doctoral researcher on visual browing interfaces for document collections.
       <br/>
-      <a href="https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=2CciQUsAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
    </tr>
+
+   <tr>
+    <td style="vertical-align:top;width:100px;"><img src="people/arran-ridley.png"/></td>
+    <td style="vertical-align:top;">
+      <b><a href="https://ahc.leeds.ac.uk/media/pgr/1617/arran-l-ridley">Arran Ridley</a></b>, Research Assistant on visualization tools and measuring engagement.
+    </td>
+   </tr>
+
+   <tr>
+    <td style="vertical-align:top;width:100px;"><img src="people/devanjan.png"/></td>
+    <td style="vertical-align:top;">
+      <b><a href="https://sites.google.com/site/bhattacharyadevanjan/home">Devanjan Bhattacharya</a></b> is working with the PSRP and PeaceTech in School of Law, focussing on collaborative map visualisations for participation and mediation in peace processes, along with the School of Informatics and the School of Design.
+    </td>
+   </tr>
+
 </table>
 
 ## PhD and Research Students
@@ -68,17 +74,17 @@
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b>, PhD student working on <i>Methods for Creating and Teaching Data Comics</i>.
       <br/>
-      <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.designinformatics.org%2Fperson%2Fzezhong-wang%2F&sa=D&sntz=1&usg=AFQjCNHzUyBbeidHdj8inLnByMelDz7tjg">Personal website</a>
+      <a href="https://www.designinformatics.org/person/zezhong-wang/">Personal website</a>
       <br/>
       <a href="https://scholar.google.com/citations?user=EJ8drhwAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
   <tr>
-   <td style="vertical-align:top;width:100px;"><img src="people/kauer.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/kauer.jpg" style="width:150px;float:left"/></td>
     <td style="vertical-align:top;">
       <b>Tobias Kauer</b>, PhD student working on <i>Discursive Data Visualization</i>.
       <br/>
-      <a href="https://twitter.com/tobi_vierzwo">Personal website</a>      
+      <a href="https://tobiaskauer.org/">Personal website</a>      
       <br/>
       <a href="https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
@@ -107,38 +113,44 @@
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/LucyHavens.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-  <a href="https://ljhavens.myportfolio.com"><b>Lucy Havens</b></a>, PhD Student on Retrieving Bias in Cultural Collections using Natural Language Processing and Visualization. 
-      <br/>
-    </td>
-  </tr> 
-    <tr>
-   <td style="vertical-align:top;width:100px;"><img src="people/jingtao.png" style="width:150px;float:left;margin-left:10px"/></td>
-    <td style="vertical-align:top;">
-  <a href="https://www.tzingtao.com/"><b>Jingtao Zhou</b></a>, visiting students from Tianjin University and working on data comics creation. 
+  <a href="https://ljhavens.myportfolio.com"><b>Lucy Havens</b></a>, PhD Student on Retrieving Bias in Cultural Collections using Natural Language Processing and Visualization.
       <br/>
     </td>
   </tr>
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/vebjorn.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-  <a><b>Vebjørn Halvfjerdvik</b></a>, Master by Research Student on Natural Language Processing and Visualization. 
+  <a><b>Vebjørn Halvfjerdvik</b></a>, Master by Research Student on Natural Language Processing and Visualization.
       <br/>
     </td>
-  </tr> 
+  </tr>
+  <tr>
+   <td style="vertical-align:top;width:100px;"><img src="people/schoettler.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+    <td style="vertical-align:top;">
+      <b>Sarah Schoettler</b>, PhD student working on <i>non-map-based ways of visualizing geographic data</i>.
+      <br/>
+      <a href="https://sarahschoettler.com/">Personal website</a>
+    </td>
+  </tr>
 </table>
 
 
 # Alumni
+
+## Facilty
+Dave Murray-Rust
 
 ## Visiting Researchers
 
 [Renaud Blach](httpshttp://iihm.imag.fr/en/member/blanch), Université Grenoble Alpes (2020)
 
 ## PhD Interns
-
 [Zhutian Chen](https://chenzhutian.org/)Honkong University (2019)
 
-## MRes 
+## Other interns
+[Jingtao Zhou](http://www.tzingtao.com)
+
+## MRes
 Qiuyuan Ren (2018)
 
 ## Master Students
@@ -147,24 +159,24 @@ Xinyu Du (MSc),
 Junxian Meng (MSc),
 Qinru Zhu (MSc),
 Yixin Liu (MA),
-__2018:__ Finn Ickler (MSc), 
-Xudong Jiang (MSc), 
-Ilyas Zholdasbayev (MSc), 
-Yiwei Sun (MSc), 
+__2018:__ Finn Ickler (MSc),
+Xudong Jiang (MSc),
+Ilyas Zholdasbayev (MSc),
+Yiwei Sun (MSc),
 Yan Wu (MSc),
 Iqbal Rosiadi (MSc),
 __2017:__
-Edson Alcala (MSc), 
-Parul Sharma (MSc), 
-Ruobing Hao (MA), 
-Xian Tang (MSc), 
+Edson Alcala (MSc),
+Parul Sharma (MSc),
+Ruobing Hao (MA),
+Xian Tang (MSc),
 Zezhong Wang (MSc).
 
 ## BHons
-James O’Donell, 
-Charles Shraples, 
-Hirsh Agarwal; 
-Alexander Olson, 
+James O’Donell,
+Charles Shraples,
+Hirsh Agarwal;
+Alexander Olson,
 Veronika Dimitrova;
 
 ## Research Interns
