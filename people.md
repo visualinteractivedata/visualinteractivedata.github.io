@@ -80,7 +80,7 @@
     </td>
   </tr>
   <tr>
-   <td style="vertical-align:top;width:100px;"><img src="people/kauer.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/kauer.jpg" style="width:150px;float:left"/></td>
     <td style="vertical-align:top;">
       <b>Tobias Kauer</b>, PhD student working on <i>Discursive Data Visualization</i>.
       <br/>
