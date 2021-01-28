@@ -1,6 +1,6 @@
 # Work with us: Open Positions
 
-<!--* __[PostDoc / PhD intern / research assistant](jobs-cheatsheets.html)__ on [Interactive Visualization Cheatsheets](http://visualizationcheatsheets.github.io)-->
-<!--* __[PostDoc / PhD intern / research assistant on Covid19 guidelines](jobs-covid19guidelines.html)__ Helping with an urgent project on supporting querying, browsing, and visulalizing Covid19 guidelines.-->
-* Competitive __[PhD scholarships](phd-edinburgh.html)__ are available in November-March, but external funding might be around all year. 
+* **[Lecturer/Reader in Data Visualization](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/313/?utm_medium=jobshare)**, tenured (deadline: Jan 12, 2021)
+* __[PhD scholarship](phd-graphics-medicine.html)__ in Visualising Complex Care Pathways in Later Life (Deadline: end Jan 2021, Start: Sept 2021)
+<!---* Competitive __[PhD scholarships](phd-edinburgh.html)__ are available in November-March, but external funding might be around all year. -->
 * Visiting students (contact us directly)

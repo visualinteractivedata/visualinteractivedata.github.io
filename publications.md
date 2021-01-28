@@ -1,9 +1,57 @@
-[2020](#2020) | [2019](#2019) |  [2018](#2018) |  [2017](#2017) |  [2016](#2016) |  [2015](#2015) |  [2014](#2014) |  [2013](#2013)
+[2021](#2021) | [2020](#2020) | [2019](#2019) |  [2018](#2018) |  [2017](#2017) |  [2016](#2016) |  [2015](#2015) |  [2014](#2014) |  [2013](#2013)
 
 
 # Publications
 
+## 2021
+![](figures/2021grandchallenges.png)
+**[Grand Challenges in Immersive Analytics](papers/2021grandchallenges.pdf)**:
+Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett, Arnaud Prouzeau, Christoph Anthes, Wolfgang Büschel, Cody Dunne, Tim Dwyer, Jens Grubert, Jason H. Haga, Nurit Kirshenbaum, Dylan Kobayashi, Tica Lin, Monsurat Olaosebikan, Fabian Pointecker, David Saffo, Nazmus Saquib, Dieter Schmalstieg, Danielle Albers Szafir, Matthew Whitlock, Yalong Yang
+*ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+
+![](figures/zheng2021sketchnote.png)
+**[Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking](papers/zheng2021sketchnote.pdf)**:
+Rebecca Zheng, Marina Fernández Camporro, Hugo Romat, Nathalie Henry Riche, Benjamin Bach, Fanny Chevalier, Ken Hinckley, Nicolai Marquardt
+*ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+
+![](figures/chen2021wrap.png)
+**[It’s a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding](papers/chen2021wrap.pdf)**:
+Kun-Ting Chen, Tim Dwyer, Benjamin Bach, Kim Marriott
+*ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+
+![](figures/kauer2021public.png)
+**[The Public Life of Data: Investigating Reactions to Visualizations on Reddit](papers/kauer2021public.pdf)**:
+Tobias Kauer, Arran Ridley, Marian Dörk, Benjamin Bach
+*ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
+
+![](figures/wang2020stats.png)
+**[Data Comics for Reporting Controlled User Studies in Human-Computer Interaction](papers/wang2020stats.pdf)**:
+Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, Benjamin Bach
+*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://statscomics.github.io/) / [Video](https://youtu.be/k9kM30ThPg4)**
+
+![](figures/Lekschas2020.png)
+**[A Generic Framework and Library for Exploration of Small Multiples through Interactive Piling](https://arxiv.org/pdf/2005.00595.pdf)**:
+Fritz Lekschas, Xinyi Zhou, Wei Chen, Nils Gehlenborg, Benjamin Bach, and Hanspeter Pfister
+*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://github.com/flekschas/piling.js)
+
+![](figures/Shu2020.png)
+**[What Makes a Data-GIF Understandable?](https://arxiv.org/pdf/2008.07227.pdf)**:
+Xinhuan Shu, Aoyu Wu, Junxiu Tang, Benjamin Bach, Yingcai Wu, and Huamin Qu
+*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))*
+
+
+
 ## 2020
+![](figures/ridley2020vistools.png)
+**[The VisTools Marketplace:
+An Activity to Understand the Landscape of Visualisation Tools](papers/ridley2020vistools.pdf)**:
+Arran Ridley, Sarah Schöttler, Aba-Sah Dadzie, Benjamin Bach
+*Workshop on Vis Activities @ IEEE VIS conference, 2020* [Web](http://vistools.net)
+
+![](figures/Xie2020measureflow.png)
+**[Interactive Time-Series of Measures for Exploring Dynamic Networks](papers/Xie2020measureflow.pdf)**:
+Liwenhan Xie, James O'Donnel, Benjamin Bach, Jean-Daniel Fekete
+*International Confernce on Advances Interfaces (AVI) (2020).* BEST PAPER HONORABLE MENTION
 
 ![](figures/Vogogias2020visual.png)
 **[Visual Encodings for Networks with Multiple Edge Types](papers/Vogogias2020visual.pdf)**:
@@ -14,6 +62,7 @@ Athanasios Vogogias, Daniel Archambault, Benjamin Bach, Jessie Kennedy
 **[Cheat Sheets for Data Visualization Techniques](papers/wang2020cheat.pdf)**:
 Zezhong Wang, Lovisa Sundin, Dave Murray-Rust, Benjamin Bach
 *ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
+[Recorded Talk](https://www.youtube.com/watch?v=LCvsXpyY0vs&t=49s)
 
 ![](figures/cordeil2020embodied.png)
 **[Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces](papers/cordeil2020embodied.pdf)**:
@@ -37,7 +86,7 @@ Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenbo
 
 ## 2019
 ![publication](figures/schoettler2019geographic.png)
-**[Geographic Network Visualization Techniques: A Work-In-Progress Taxonomy](https://www.google.com/url?q=https%3A%2F%2Fgeographic-networks.github.io%2Fabstract.pdf&sa=D&sntz=1&usg=AFQjCNE14-21ZgF1E9MSvOJI2LrMlgSNIg)**:
+**[Geographic Network Visualization Techniques: A Work-In-Progress Taxonomy](papers/Schoettler2019geonetworks.pdf)**:
 Sarah Schöttler, Tobias Kauer, Benjamin Bach: *Poster at Graph Drawing, (2019)*
 
 [Weblink](https://geographic-networks.github.io)
@@ -50,7 +99,7 @@ Maxime Cordeil, Andrew Cunningham, Benjamin Bach, Christophe Hurter, Bruce H. Th
 
 ![](figures/havens2019paxvis.png)
 **[PaxVis: Visualizing Peace Agreements](papers/havens2019paxvis.pdf)**:
-Lucy Havens, Mengting Bao, Larissa Pschetz, Benjamin Bach, Christine Bell. 
+Lucy Havens, Mengting Bao, Larissa Pschetz, Benjamin Bach, Christine Bell.
 *ACM Conference on Human Factors in Computing Systems (CHI) (2019).*
 
 [Weblink](https://sarah37.github.io/pax/timeandspace)

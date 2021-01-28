@@ -13,7 +13,7 @@
 
 # Benjamin Bach
 
-Benjamin is a Lecturer (Assistant Prof.) in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
+Benjamin is a Lecturer in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
 
 ## Contact
 **Office:** [Informatics Forum (IF 4.30), 10 Crichton St, Edinburgh](https://www.google.com/maps/place/10+Crichton+St,+Edinburgh+EH8+9AB,+UK/data=!4m2!3m1!1s0x4887c78381f1372f:0x8f0142034b156141?sa=X&ved=2ahUKEwjljc_o9NnmAhVj7nMBHX0QBJAQ8gEwAHoECAsQAQ)
@@ -21,10 +21,6 @@ Benjamin is a Lecturer (Assistant Prof.) in Design Informatics and Visualization
 **Email:** [bbach@inf.ed.ac.uk](mailtp:bbach@inf.ed.ac.uk)
 
 **Twitter:** [@benjbach](https://twitter.com/benjbach)
-
-<i style="color:#b00;">We are searching for a new [Chair in Design Informatics](https://www.ed.ac.uk/informatics/news-events/stories/2019/informatics-searching-for-new-chair-design-inf)!</i>
-
-<i style="color:#b00;">We are searching for a [University Teacher / postdoc](job-datavista) to help with an online course in data visualization for professionals and participate in reserch on novel teaching methods and material!</i>
 
 ## Research Interest
 
@@ -44,53 +40,6 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 [Publications](publications.html)
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ)
 
-### Recent Publications
-
-## 2020
-
-![publication](figures/lekschas2020scalable.png)
-**[Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets](https://vcg.seas.harvard.edu/publications/pattern-driven-navigation-in-2d-multiscale-visualizations-with-scalable-insets)**
-Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenborg, Hanspeter Pfister, *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2020 (IEEE VIS, 2019))*  
-
-
-## 2019
-![publication](figures/schoettler2019geographic.png)
-**[Geographic Network Visualization Techniques: A Work-In-Progress Taxonomy](https://www.google.com/url?q=https%3A%2F%2Fgeographic-networks.github.io%2Fabstract.pdf&sa=D&sntz=1&usg=AFQjCNE14-21ZgF1E9MSvOJI2LrMlgSNIg)**
-Sarah Schöttler, Tobias Kauer, Benjamin Bach: *Poster at Graph Drawing, (2019)*
-
-[Weblink](https://geographic-networks.github.io)
-
-![](figures/cordeil2019iatk.png)
-**[IATK: An Immersive Analytics Toolkit](https://hal-enac.archives-ouvertes.fr/hal-02288638/file/IATK_IEEE_VR.pdf)**
-Maxime Cordeil, Andrew Cunningham, Benjamin Bach, Christophe Hurter, Bruce H. Thomas, Kim Mariott, Tim Dwyer, IEEE VR (2019)  
-
-[Weblink](https://research.monash.edu/en/publications/iatk-an-immersive-analytics-toolkit)
-
-![](figures/havens2019paxvis.png)
-**[PaxVis: Visualizing Peace Agreements](papers/havens2019paxvis.pdf)**
-Lucy Havens, Mengting Bao, Larissa Pschetz, Benjamin Bach, Christine Bell. 
-*ACM Conference on Human Factors in Computing Systems (CHI) (2019).*
-
-[Weblink](https://sarah37.github.io/pax/timeandspace)
-
-
-![](figures/wang2019comparing.png)
-**[Comparing Effectiveness and Engagement of Data Comics and Infographics](https://www.researchgate.net/profile/Benjamin_Bach2/publication/331357753_Comparing_Effectiveness_and_Engagement_of_Data_Comics_and_Infographics/links/5cb859aaa6fdcc1d499cc3b1/Comparing-Effectiveness-and-Engagement-of-Data-Comics-and-Infographics.pdf)**
-Zezong Wang, Shunming Wang, Matteo Farinella, Dave Murray-Rust, Nathalie Henry Riche.  *ACM Conference on Human Factors in Computing Systems (CHI)  (2019).*
-
-
-![](figures/kim2019datatoon.png)
-**[DataToon: Drawing Data Comics About DynamicNetworks with Pen + Touch Interaction](https://www.researchgate.net/profile/Benjamin_Bach2/publication/332231214_DataToon_Drawing_Data_Comics_About_Dynamic_Networks_with_Pen_Touch_Interaction/links/5ca78456299bf118c4b57dd7/DataToon-Drawing-Data-Comics-About-Dynamic-Networks-with-Pen-Touch-Interaction.pdf)**
-Nam Wook Kim, Nathalie Henry Riche, Benjamin Bach, Guanpeng Xu, Matthew Brehmer, Ken Hinckley, Michel Pahud, Haijun Xia, Michael J. McGuffin, Hanspeter Pfister. *ACM Conference on Human Factors in Computing Systems (CHI) (2019).*
-
-![](figures/wang2019teaching.png)
-**[Teaching Data Visualization and Storytelling with Data Comic Workshops](papers/wang2019teaching.pdf)**
-Zezhong Wang, Harvey Dingwal, Benjamin Bach.  ACM Conference on Human Factors in Computing Systems (CHI), Extended Abstracts (2019).
-
-![](figures/sicat2019dxr.png)
-**[DXR: A Toolkit for Building Immersive Data Visualizations](papers/sicat2019dxr.pdf)**
-Sicat, Ronell, Jiabao Li, JunYoung Choi, Maxime Cordeil, Won-Ki Jeong, Benjamin Bach, and Hanspeter Pfister. *IEEE transactions on visualization and computer graphics (2019) (IEEE VIS 2018).*
-
 ## Awards
 
 * 2019 Eurographics Young Researcher Award.
@@ -98,6 +47,17 @@ Sicat, Ronell, Jiabao Li, JunYoung Choi, Maxime Cordeil, Won-Ki Jeong, Benjamin 
 * 2014 VGTC Best Ph.D. Thesis 2014, Honorable Mention
 * 2013 IEEE VIS Best Poster Award: Visualizing Dense Dynamic Networks with Matrix Cubes
 * 2013 ACH CHI Best Paper Award: Weighted graph comparison techniques for brain connectivity analysis
+
+## PhD Students
+
+* Zezhong Wang (since 2018)
+* John Harper-Lee (since 2018), 2nd 
+* Mashael Alkadi (since 2019), 1st
+* Tobias Kauer (since 2019), 1st
+* Ryan Bowler (since 2019), 1st
+* Lucy Heavens (since 2020), 2nd 
+* Kun-Ting Chen (since 2020), 3rd 
+* Sarah Schöttler (since 2021), 1st
 
 ## Professional Activities
 
@@ -122,19 +82,23 @@ Sicat, Ronell, Jiabao Li, JunYoung Choi, Maxime Cordeil, Won-Ki Jeong, Benjamin 
 
 (Not including conference presentations)
 
-* January 2020---Keynote to Dealing with Data conference (Edinburgh): [Dealing vis Data](pdfs/dealing_vis_data_keynote.pdf)  
-* June 2019---Edinburgh Futures Seminar: Visualizing Peace and Conflicts
-* May 2019---Kings College, London: Data visualization for exploration, explanation and beyond.
-* December 2018---Shonan Seminar to Immersive Analytics (Tokio): Visualizing Space-Time Cubes in AR.
-* October 2018---Tuto@Mate (online webinar): Interactive Visualization for Dynamic, Multivariate, and Geographic Networks.
-* September 2018---University of Tilburg (Netherlands): Data Comics for Data-Driven Storytelling
-* September 2018---Design Informatics Seminar Series (University of Edinburgh): Perspectives on Data Visualization.
-* May 2018---Keynote for Workshop on Big Data Analytics and Business Applications, AVI Conference (Casteglione della Pescaia): Interaction Literacy for Data Visualization.
-* May 2018---Tesco Bank: Data Visualization for Exploration, Explanation, and Engagement
-* May 2018---OpenVis Conference (Paris): Drawing into the AR-Canvas: Designing Embedded Visualizations for Augmented Reliaty.
-* March 2018---DataTech Fest Edinburgh: [Tools for Data Visualization](https://www.youtube.com/watch?v=ofsts_nfF_0) 
-* March 2018---Alan Turing Institute: Visualization for Interactive Data Exploration
-* February 2018---Controversies in the Data Society Talk Series, (Edinburgh): Seven Myths about Data Visualization
+* Jan 2021: [Visualization Empowerment](https://docs.google.com/presentation/d/1E1wco5dnvhcsPntCc40yu0caFS7dZOPTOp3GhSJ5_Xc/edit?usp=sharing), Open Lab, Newcastle University. 
+* December 2020: The Immersive Canvas: Information Visualization in Immersive Environments, Keynote to Workshop ImAna at IEEE AIVR
+* November 2020: Data Comics, Data Stories Symposium, Kings College London 
+* October 2020: Data Comics Guest Lecture, Kings College London
+* January 2020: Keynote to Dealing with Data conference (Edinburgh): [Dealing vis Data](pdfs/dealing_vis_data_keynote.pdf)  
+* June 2019: Edinburgh Futures Seminar: Visualizing Peace and Conflicts
+* May 2019: Kings College, London: Data visualization for exploration, explanation and beyond.
+* December 2018: Shonan Seminar to Immersive Analytics (Tokio): Visualizing Space-Time Cubes in AR.
+* October 2018: Tuto@Mate (online webinar): Interactive Visualization for Dynamic, Multivariate, and Geographic Networks.
+* September 2018: University of Tilburg (Netherlands): Data Comics for Data-Driven Storytelling
+* September 2018: Design Informatics Seminar Series (University of Edinburgh): Perspectives on Data Visualization.
+* May 2018: Keynote for Workshop on Big Data Analytics and Business Applications, AVI Conference (Casteglione della Pescaia): Interaction Literacy for Data Visualization.
+* May 2018: Tesco Bank: Data Visualization for Exploration, Explanation, and Engagement
+* May 2018: OpenVis Conference (Paris): Drawing into the AR-Canvas: Designing Embedded Visualizations for Augmented Reliaty.
+* March 2018: DataTech Fest Edinburgh: [Tools for Data Visualization](https://www.youtube.com/watch?v=ofsts_nfF_0) 
+* March 2018: Alan Turing Institute: Visualization for Interactive Data Exploration
+* February 2018: Controversies in the Data Society Talk Series, (Edinburgh): Seven Myths about Data Visualization
 * ... 
 
 ## Scientific Workshops
@@ -158,9 +122,12 @@ Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett
 * [**Data Visualisation**](https://datavis2020.github.io), semester 2 (postgraduate)
 
 ### Past
+* **[Data Visualization for Professionals](https://datavis-online.github.io)**
 * **The Human Factor**
 
 ## Research Grants
+* 2021 EPSRC (PI): Visovery:  Semi-automatic  Data  Tours  to  Support  Data  Exploration and Visualisation Literacy £320,000
+* 2020 MRC (Co-I): COVID-19: ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC-4C) Workpackage £60,000
 * 2019 Scottish Founding Council (SCF): Data Visualization Online Course for Upskilling, £80,000
 * 2019 Global Challenges Research Fund (GCRF): Peacetech Initiative: partnership for interactive mediation, £46,000
 * 2018 EPSRC Capital Grant: VisHub: A Collaborative Data Visualization Space for Interdisciplinary Research, Teaching, and Public Engagement, £200,000
