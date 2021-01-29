@@ -1,4 +1,4 @@
-![](images/viscovery.jpg)
+![](images/viscovery.png)
 
 The Viscovery project is looking for a postdoc (up to 2 years) at the University of Edinburgh. 
 
