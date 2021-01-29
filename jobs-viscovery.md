@@ -4,7 +4,7 @@ The Viscovery project is looking for a postdoc (up to 2 years) at the University
 
 ## Project
 
-This project aims to create a visualisation tool (*Viscovery*) that automatically guides novice-analysts through their data (networks), using methods from recommender systems and data-driven storytelling (e.g. [Data comics](datacomics.org)). The result will be a concept that mimics a human demonstrator/analyst walking domain scientists who are novel to data analysis through findings in their data. Our specific focus is to provide researchers in the humanities and network science with an effective way to learn novel interactive visualisation techniques for understanding complex geo-spatial networks. 
+This project aims to create a visualisation tool (*Viscovery*) that automatically guides novice-analysts through their data (networks), using methods from recommender systems and data-driven storytelling (e.g. [Data comics](datacomics.net)). The result will be a concept that mimics a human demonstrator/analyst walking domain scientists who are novel to data analysis through findings in their data. Our specific focus is to provide researchers in the humanities and network science with an effective way to learn novel interactive visualisation techniques for understanding complex geo-spatial networks. 
 
 Our research will provide a better understanding of the feasibility and success of automatically presenting and walking novice analysts through their data. Results of our research include novel visualisation and interaction techniques, an open visualisation platform, design guidelines, evaluation results, open-source
 code, case studies, design patterns, etc. Publications are aimed to be presented at top-tier international
