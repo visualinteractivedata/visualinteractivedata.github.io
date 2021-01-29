@@ -23,6 +23,7 @@ The PI will take personal care to help the postdoc with career planning, network
 * **Start:** as soon as possible
 * **Eligibility:** PhD in visualization or related areas
 * **Fields of expertise/interest:** storytelling, network analysis, data comics, human-computer interaction, web-development
+* **Duration:** up to 2 years
 
 ## Contact
 
