@@ -25,6 +25,8 @@ The PI will take personal care to help the postdoc with career planning, network
 * **Fields of expertise/interest:** storytelling, network analysis, data comics, human-computer interaction, web-development
 * **Duration:** up to 2 years
 
+For the time being, remove work is possible but relocation is preferred whenever lab life returns.
+
 ## Contact
 
 For questions and application details e-mail [Benjamin Bach, bbach@ed.ac.uk](mailto:bbach@ed.ac.uk).
