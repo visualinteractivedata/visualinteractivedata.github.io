@@ -1,20 +1,28 @@
-# Resources
+# Specific Resources
 
 * [Visualization Collections](res-collections.html)
 * [Visualization Tools](res-tools.html)
 * [Visualization Books](res-books.html)
 * [Visualization Design](res-visdesign.html)
 
-# Tutorials and Learning Resources: 
+# Tutorials: 
 
-## D3
+More tools and links to tutorials be found on [VisTools.net](https://vistools.net)
+
+* [How to make a \<insert-chart-here> @ Flowing Data Tutorials](https://flowingdata.com/category/tutorials)
+
+## Applications
+* [Charticulator](https://charticulator.com/docs/getting-started.html)
+* [Data Illustrator](http://data-illustrator.com/tutorial.php)
+* [Tableau Training Videos](https://www.tableau.com/en-gb/learn/training/20204)
+
+## Programming Libraries
 * [D3 Graph library](https://www.d3-graph-gallery.com/). D3 code for many types of visualizations and with different features. 
 * [Idacity D3 tutorials](https://www.udacity.com/course/data-visualization-and-d3js--ud507). D3 video tutorials.
-
-## Others 
 * [Python Graph Gallery](https://python-graph-gallery.com/). Python code for many types of visualizations and with different features. 
 * [R Graph Gallery](https://www.r-graph-gallery.com/). R code for many types of visualizations and with different features. 
-
+* [R Studio](https://education.rstudio.com)
+* [Vega-Lite](https://vega.github.io/vega-lite/tutorials/getting_started.html)
 
 # References
 * [Collection of Data Visualization Pitfalls](http://www.google.com/url?q=http%3A%2F%2Fflowingdata.com%2F2018%2F08%2F08%2Fcollection-of-data-visualization-pitfalls%2F&sa=D&sntz=1&usg=AFQjCNE1ZKpKSTUtFbTgotyhuQMnrZWVuQ)
