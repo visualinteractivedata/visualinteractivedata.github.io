@@ -1,5 +1,7 @@
 # Visualization Tools
 
+A more up to date collection can be found on [VisTools.net](http://vistools.net).
+
 ## General Purpose
 * [Google Fusion tables](https://sites.google.com/site/fusiontablestalks/stories): for very simple graphs, networks, and maps; supports some data cleaning and transformation (e.g., automatic recognition of location names and transformation into latitude and longitude).
 * [Tableau](https://www.tableau.com:): A powerful commercial tool for visualizing data; does not support network or text visualization. Free 2-week trial and free versions for students available.
