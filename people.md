@@ -138,7 +138,7 @@
 # Alumni
 
 * [Dave Murray-Rust](http://dave.murray-rust.org), Faculty (2020)
-* [Renaud Blach](httpshttp://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
+* [Renaud Blanch](http://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
 * [Zhutian Chen](https://chenzhutian.org/), PhD Intern, Honkong University (2019)
 * [Jingtao Zhou](http://www.tzingtao.com), Research Intern,  2020
 * Qiuyuan Ren, MRes student (2018)
