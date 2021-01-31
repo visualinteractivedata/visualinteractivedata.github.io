@@ -137,30 +137,30 @@
 
 # Alumni
 
-[Dave Murray-Rust](http://dave.murray-rust.org), Faculty (2020)
-[Renaud Blach](httpshttp://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
-[Zhutian Chen](https://chenzhutian.org/), PhD Intern, Honkong University (2019)
-[Jingtao Zhou](http://www.tzingtao.com), Research Intern,  2020
-Qiuyuan Ren, MRes student (2018)
-Liwenhan Xie, Research Intern, Peking University (2019)
-Armand Pons, Research Intern, Université de Lyon (2019)
-Punpikorn Rannanawirojkul, Research Intern, University of Edinburgh (2018)
-Shunming Wang, Research Intern, Peking University (2018)
+* [Dave Murray-Rust](http://dave.murray-rust.org), Faculty (2020)
+* [Renaud Blach](httpshttp://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
+* [Zhutian Chen](https://chenzhutian.org/), PhD Intern, Honkong University (2019)
+* [Jingtao Zhou](http://www.tzingtao.com), Research Intern,  2020
+* Qiuyuan Ren, MRes student (2018)
+* Liwenhan Xie, Research Intern, Peking University (2019)
+* Armand Pons, Research Intern, Université de Lyon (2019)
+* Punpikorn Rannanawirojkul, Research Intern, University of Edinburgh (2018)
+* Shunming Wang, Research Intern, Peking University (2018)
 
 
 ## Master Students
-__2019:__ Sarah Schoettler (MSc),
+* __2019:__ Sarah Schoettler (MSc),
 Xinyu Du (MSc),
 Junxian Meng (MSc),
 Qinru Zhu (MSc),
 Yixin Liu (MA),
-__2018:__ Finn Ickler (MSc),
+* __2018:__ Finn Ickler (MSc),
 Xudong Jiang (MSc),
 Ilyas Zholdasbayev (MSc),
 Yiwei Sun (MSc),
 Yan Wu (MSc),
 Iqbal Rosiadi (MSc),
-__2017:__
+* __2017:__
 Edson Alcala (MSc),
 Parul Sharma (MSc),
 Ruobing Hao (MA),
