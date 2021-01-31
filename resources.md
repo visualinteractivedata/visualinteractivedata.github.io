@@ -7,9 +7,9 @@
 
 # Tutorials: 
 
-More tools and links to tutorials be found on [VisTools.net](https://vistools.net)
+More tools and links to tutorials be found on [VisTools.net](https://vistools.net). 
 
-* [How to make a \<insert-chart-here> @ Flowing Data Tutorials](https://flowingdata.com/category/tutorials)
+* [How to make a \<insert-chart-here> @ Flowing Data Tutorials](https://flowingdata.com/category/tutorials). Explanatinos how to make specific charts in R, Excel, and other environments. Requires login.
 
 ## Applications
 * [Charticulator](https://charticulator.com/docs/getting-started.html)
