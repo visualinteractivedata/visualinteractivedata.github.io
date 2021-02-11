@@ -32,7 +32,7 @@
 ## Research and Teaching
 
 <table>
-    <tr>
+<!--     <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/aba-sah.png"/></td>
     <td style="vertical-align:top;">
       <b>Aba-Sah Dadzie</b>, University Teacher in Data Visualisation, at the University of Edinburgh. With a background in user- and task-centred visual analytics, Aba-Sah's research focuses on the design and construction of interactive visualisations and visualisation-driven tools that enable value creation through interaction with data and technology at work and in personal, social lives. She has applied her work to exploratory information discovery and knowledge management in industry sectors including civil aerospace, FMCG, arts & culture, and in technology-enhanced learning.
@@ -40,7 +40,7 @@
       <a href="https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw">Google Scholar</a>
     </td>
    </tr>
-
+ -->
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/james-scottbrown.png"/></td>
     <td style="vertical-align:top;">
@@ -49,14 +49,14 @@
       <a href="https://scholar.google.com/citations?user=2CciQUsAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
    </tr>
-
+<!-- 
    <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/arran-ridley.png"/></td>
     <td style="vertical-align:top;">
       <b><a href="https://ahc.leeds.ac.uk/media/pgr/1617/arran-l-ridley">Arran Ridley</a></b>, Research Assistant on visualization tools and measuring engagement.
     </td>
    </tr>
-
+-->
    <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/devanjan.png"/></td>
     <td style="vertical-align:top;">
@@ -66,7 +66,7 @@
 
 </table>
 
-## PhD and Reserach Students
+## PhD and Research Students
 
 <table>
 <tr>
@@ -120,7 +120,7 @@
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/vebjorn.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-  <a><b>Vebjørn Halvfjerdvik</b></a>, Master by Reserach Student on Natural Language Processing and Visualization.
+  <a><b>Vebjørn Halvfjerdvik</b></a>, Master by Research Student on Natural Language Processing and Visualization.
       <br/>
     </td>
   </tr>
@@ -137,35 +137,30 @@
 
 # Alumni
 
-## Facilty
-Dave Murray-Rust
+* [Dave Murray-Rust](http://dave.murray-rust.org), Faculty (2020)
+* [Renaud Blanch](http://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
+* [Zhutian Chen](https://chenzhutian.org/), PhD Intern, Honkong University (2019)
+* [Jingtao Zhou](http://www.tzingtao.com), Research Intern,  2020
+* Qiuyuan Ren, MRes student (2018)
+* Liwenhan Xie, Research Intern, Peking University (2019)
+* Armand Pons, Research Intern, Université de Lyon (2019)
+* Punpikorn Rannanawirojkul, Research Intern, University of Edinburgh (2018)
+* Shunming Wang, Research Intern, Peking University (2018)
 
-## Visiting Researchers
-
-[Renaud Blach](httpshttp://iihm.imag.fr/en/member/blanch), Université Grenoble Alpes (2020)
-
-## PhD Interns
-[Zhutian Chen](https://chenzhutian.org/)Honkong University (2019)
-
-## Other interns
-[Jingtao Zhou](http://www.tzingtao.com)
-
-## MRes
-Qiuyuan Ren (2018)
 
 ## Master Students
-__2019:__ Sarah Schoettler (MSc),
+* __2019:__ Sarah Schoettler (MSc),
 Xinyu Du (MSc),
 Junxian Meng (MSc),
 Qinru Zhu (MSc),
 Yixin Liu (MA),
-__2018:__ Finn Ickler (MSc),
+* __2018:__ Finn Ickler (MSc),
 Xudong Jiang (MSc),
 Ilyas Zholdasbayev (MSc),
 Yiwei Sun (MSc),
 Yan Wu (MSc),
 Iqbal Rosiadi (MSc),
-__2017:__
+* __2017:__
 Edson Alcala (MSc),
 Parul Sharma (MSc),
 Ruobing Hao (MA),
@@ -178,9 +173,3 @@ Charles Shraples,
 Hirsh Agarwal;
 Alexander Olson,
 Veronika Dimitrova;
-
-## Research Interns
-Liwenhan Xie, Peking University (2019)
-Armand Pons, Université de Lyon (2019)
-Punpikorn Rannanawirojkul, University of Edinburgh (2018)
-Shunming Wang, Peking University (2018)

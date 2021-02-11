@@ -46,7 +46,7 @@ Data Visualization Cheat Sheets are aimed at supporting learning and teaching of
 
 ## Data Comics
 ![](figures/datacomics.png)
-Data Comicscombine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material. [http://datacomics.net](datacomics.net)  
+Data Comicscombine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material. [http://datacomics.net](http://datacomics.net)  
 
 ## Immersive Anlytics
 ![](figures/immersiveanalytics.png)
@@ -54,7 +54,7 @@ The **[Edinburgh VisHub](http://edinburghvishub.github.io)** is an university-wi
 
 ## The Vistorian: Network Visualization
 ![](figures/vistorian.png)
-The Vistorian is an Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. [http://vistorian.net](vistorian.net)
+The Vistorian is an Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. [http://vistorian.net](http://vistorian.net)
 
 ## Survey on Geographical Networks
 ![](figures/schoettler2019geographic.png)
