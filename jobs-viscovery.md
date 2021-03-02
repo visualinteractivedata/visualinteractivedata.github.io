@@ -16,7 +16,7 @@ The project is lead by [Benjamin Bach](http://benjbach.me). We will collaborate 
 
 ## Environment
 
-Both positions are hosted by the [VisHub](visualinteractivedata.github.io) at the University of Edinburgh. The Vishub is a new and thriving interdisciplinary visualization group including faculty, postdocs, PhD students, and master students in Design Informatics (winter to summer). It is engaged in collaborations in public health, NLP, history, social sciences, international law, industry and visualization researchers across the globe. The succesful candidates can engage in both PhD and MSc/MA supervision as well as teaching (extra pay). 
+Both positions are hosted by the [VisHub](visualinteractivedata.github.io) at the University of Edinburgh. The Vishub is a new and thriving interdisciplinary visualization group including faculty, postdocs, PhD students, and master students in Design Informatics (winter to summer). It is engaged in collaborations in public health, NLP, history, social sciences, international law, industry and visualization researchers across the globe. The Vishub is embedded within the [School of Informatics](https://www.ed.ac.uk/informatics) as well as the [Institute for Design Informatis](https://www.designinformatics.org/) spanning both Informatics and the School of Design. The succesful candidates are invited to both PhD and MSc/MA supervision as well as teaching (extra pay). 
 
 The School of Informatics at the University of Edinburgh is **ranked 12th** in the latest global QS rankings and offers many possiblities for interdiscipliny collaborations. Edinburgh is a beautiful, international, and academic place amidst the Scottish nature and close to islands and Highlands. 
 
