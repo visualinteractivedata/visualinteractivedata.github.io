@@ -1,4 +1,4 @@
-![](figures/viscovery.png)
+![](figures/vistorian.png)
 
 The Viscovery project is looking for a postdoc (up to 2 years) and a research engineer/postdoc at the University of Edinburgh. 
 
