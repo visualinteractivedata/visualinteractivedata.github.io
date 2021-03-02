@@ -56,3 +56,6 @@ analytics. In Proc. of ACM SIGMOD (2012).
 generation of fact sheets from tabular data. IEEE TVCG (2019).
 * WONGSUPHASAWAT, K., MORITZ, D., ANAND, A., MACKINLAY, J., HOWE, B., AND HEER, J. Voyager:
 Exploratory analysis via faceted browsing of visualization recommendations. IEEE TVCG (2015).
+
+
+![](figures/epsrc-logo.png | width=100)
