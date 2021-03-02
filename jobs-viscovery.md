@@ -12,7 +12,7 @@ The Viscovery project is looking for a postdoc (up to 2 years) and a research en
 
 Our research aims to provide new ways to support interactive exploration for network data as well as training novice-analysts in data and visualization literacy. A research engineer role will support the development of the [Vistorian](http://vistorian.net) platform for network analysis. Publications are aimed to be presented at top-tier international conferences (CHI, VIS, EuroVis).
 
-The project is lead by [Benjamin Bach](http://benjbach.me). We will collaborate with researchers in network analysis, archeology, and history in the UK, across Europe, and beyond.
+The project is lead by [Benjamin Bach](http://benjbach.me). We will collaborate with researchers in visualization and HCI at Microsoft Research as well as in network analysis, archeology, and history in the UK, across Europe, and beyond. 
 
 ## Environment
 
