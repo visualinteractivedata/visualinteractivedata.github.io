@@ -60,4 +60,4 @@ generation of fact sheets from tabular data. IEEE TVCG (2019).
 Exploratory analysis via faceted browsing of visualization recommendations. IEEE TVCG (2015).
 
 
-<img src="figues/epsrc-logo.png" width="100px">
+<img src="figures/epsrc-logo.png" width="100px">
