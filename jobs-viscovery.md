@@ -28,7 +28,7 @@ The following includes both roles, postdoc(s) and research engineer
 
 * **Start:** as soon as possible
 * **Duration:** up to 2 years
-* * **Visa:** Required for all non-UK applicants and organized by the Unversity.
+* **Visa:** Required for all non-UK applicants and organized by the Unversity.
 * **Eligibility postdoc:** PhD in visualization or related areas 
 * **Eligibility research engineer:** strong web and visualization development skills, PhD and interest in research preferred. 
 * **Fields of expertise/interest:** exploratory visualization, data-driven storytelling, network analysis, human-computer interaction, web-development
