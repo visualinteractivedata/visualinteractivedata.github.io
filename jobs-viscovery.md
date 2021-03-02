@@ -2,21 +2,19 @@
 
 ![](figures/vistorian.png)
 
-The Viscovery project is looking for a postdoc (up to 2 years) and a research engineer/postdoc at the University of Edinburgh. 
+The Viscovery project is looking for a postdoc (up to 2 years) and a research engineer (no phd) or postdoc (with phd) at the University of Edinburgh. 
 
 ## Project
 
-This project aims to create a *Viscovery*, a platform to guide novice analysts in visual networks analysis data. The project will explore methods from recommender systems and interactive data-driven storytelling (e.g. [Data comics](datacomics.net)) to mimic a human demonstrators walking a domain scientist through findings in their data. Our focus is on researchers in the humanities and network science with an effective way to learn novel interactive visualisation techniques for understanding complex geo-spatial and temporal networks. We will strongly build on concepts from data comics and The Vistorian ([Vistorian](datacomics.net))
+This project aims to develop visualizations, interfaces, and systems to guide analysts in their exploration of geo-temporal network data within the humanities (history, social science, archaeology, etc.). To that end, we will get inspiration from interactive data-driven storytelling (e.g. [Data comics](datacomics.net)) and recommender systems to mimic a human demonstrators walking the domain scientist through findings. Our research aims to provide new ways to support interactive exploration for network data as well as training novice-analysts in data and visualization literacy. A research engineer role will support the development of the Vistorian platform for network analysis. Publications are aimed to be presented at top-tier international conferences (CHI, VIS, EuroVis).
 
-Our research will provide a better understanding of the feasibility and success of automatically presenting and walking novice analysts through their data. Results of our research include novel visualisation and interaction techniques, an open visualisation platform, design guidelines, evaluation results, open-source
-code, case studies, design patterns, etc. Publications are aimed to be presented at top-tier international
-conferences (CHI, VIS, EuroVis) and journals (TVCG).
-
-The project is lead by [Benjamin Bach](http://benjbach.me). We will collaborate with researchers in network analysis, archeology, and history in the UK and across Europe.
+The project is lead by [Benjamin Bach](http://benjbach.me). We will collaborate with researchers in network analysis, archeology, and history in the UK, across Europe, and beyond.
 
 ## Environment
 
-The [VisHub](visualinteractivedata.github.io) is an interdisciplinary visualization group comprising faculty, postdocs, PhD students, and master students in Design Informatics (winter to summer). The succesful candidates are encouraged to engage in both PhD and MSc supervision as well as teaching (extra pay). The School of Informatics at the University of Edinburgh is ranked 12th in the latest global QS rankings and offers many possiblities for interdiscipliny collaborations across the school and country. Edinburgh is a beautiful, international, and academic place amidst the Scottish nature and close to the wild Islands and Highlands. 
+Both positions are hosted by the [VisHub](visualinteractivedata.github.io) at the University of Edinburgh. The Vishub is an interdisciplinary visualization group including faculty, postdocs, PhD students, and master students in Design Informatics (winter to summer) and collaborations in public health, NLP, history, social sciences, international law, and industry. The succesful candidates can engage in both PhD and MSc/MA supervision as well as teaching (extra pay). 
+
+The School of Informatics at the University of Edinburgh is ranked 12th in the latest global QS rankings and offers many possiblities for interdiscipliny collaborations. Edinburgh is a beautiful, international, and academic place amidst the Scottish nature and close to islands and Highlands. 
 
 The PI will help the postdoc and research engineer with career planning, networking, and teaching relevant research skills relevant to the project and beyond (methodolgy, proposal writing, etc.).
 
