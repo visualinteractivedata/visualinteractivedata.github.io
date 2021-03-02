@@ -8,7 +8,7 @@ The Viscovery project is looking for a postdoc (up to 2 years) and a research en
 
 ## Project
 
-**This project aims to develop visualizations, interfaces, and systems to guide analysts in their exploration of geo-temporal network data within the humanities** (history, social science, archaeology, etc.). To that end, we will get inspiration from **interactive data-driven storytelling (e.g. [Data comics](datacomics.net))** and recommender systems to mimic a human demonstrators walking the domain scientist through findings. 
+**This EPSRC-funded project aims to develop visualizations, interfaces, and systems to guide analysts in their exploration of geo-temporal network data within the humanities** (history, social science, archaeology, etc.). To that end, we will get inspiration from **interactive data-driven storytelling (e.g. [Data comics](datacomics.net))** and recommender systems to mimic a human demonstrators walking the domain scientist through findings. 
 
 Our research aims to provide new ways to support interactive exploration for network data as well as training novice-analysts in data and visualization literacy. A research engineer role will support the development of the [Vistorian](http://vistorian.net) platform for network analysis. Publications are aimed to be presented at top-tier international conferences (CHI, VIS, EuroVis).
 
@@ -60,4 +60,4 @@ generation of fact sheets from tabular data. IEEE TVCG (2019).
 Exploratory analysis via faceted browsing of visualization recommendations. IEEE TVCG (2015).
 
 
-<img src="https://your-image-url.type" width="100px">
+<img src="figues/epsrc-logo.png" width="100px">
