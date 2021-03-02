@@ -1,8 +1,10 @@
 # Postdocs / research engineer
 
+The Viscovery project is looking for a postdoc (up to 2 years) and a research engineer (no phd) or postdoc (with phd) at the University of Edinburgh. 
+
+
 ![](figures/vistorian.png)
 
-The Viscovery project is looking for a postdoc (up to 2 years) and a research engineer (no phd) or postdoc (with phd) at the University of Edinburgh. 
 
 ## Project
 
