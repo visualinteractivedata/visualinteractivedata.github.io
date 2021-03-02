@@ -18,7 +18,7 @@ The project is lead by [Benjamin Bach](http://benjbach.me). We will collaborate 
 
 Both positions are hosted by the [VisHub](visualinteractivedata.github.io) at the University of Edinburgh. The Vishub is a new and thriving interdisciplinary visualization group including faculty, postdocs, PhD students, and master students in Design Informatics (winter to summer) and collaborations in public health, NLP, history, social sciences, international law, and industry. The succesful candidates can engage in both PhD and MSc/MA supervision as well as teaching (extra pay). 
 
-The School of Informatics at the University of Edinburgh is ranked 12th in the latest global QS rankings and offers many possiblities for interdiscipliny collaborations. Edinburgh is a beautiful, international, and academic place amidst the Scottish nature and close to islands and Highlands. 
+The School of Informatics at the University of Edinburgh is **ranked 12th** in the latest global QS rankings and offers many possiblities for interdiscipliny collaborations. Edinburgh is a beautiful, international, and academic place amidst the Scottish nature and close to islands and Highlands. 
 
 The PI will help the postdoc and research engineer with career planning, networking, and teaching relevant research skills relevant to the project and beyond (methodolgy, proposal writing, etc.).
 
