@@ -77,6 +77,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * TVCG: since 2011
 * EuroVis: since 2012
 * Graph Drawing
+* Creativity & Cognition 2021
 
 ## Recent Invited Talks
 
@@ -120,14 +121,13 @@ Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett
 ### Ongoing
 * **Data Science for Design**, semester 1 (postgraduate)
 * [**Data Visualisation**](https://datavis2020.github.io), semester 2 (postgraduate)
-
-### Past
-* **[Data Visualization for Professionals](https://datavis-online.github.io)**
 * **The Human Factor**
+* **[Data Visualization for Professionals](https://datavis-online.github.io)**
 
 ## Research Grants
-* 2021 EPSRC (PI): Visovery:  Semi-automatic  Data  Tours  to  Support  Data  Exploration and Visualisation Literacy £320,000
-* 2020 MRC (Co-I): COVID-19: ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC-4C) Workpackage £60,000
+* 2021 EPSRC (CoI): RAMP VIS: Making Visual Analytics an Integral Part of the Technological Infrastructure for Combating COVID-19, ~£427,000
+* 2021 EPSRC (PI): Visovery:  Semi-automatic  Data  Tours  to  Support  Data  Exploration and Visualisation Literacy, ~£320,000
+* 2020 MRC (CoI): COVID-19: ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC-4C) Workpackage, £60,000
 * 2019 Scottish Founding Council (SCF): Data Visualization Online Course for Upskilling, £80,000
 * 2019 Global Challenges Research Fund (GCRF): Peacetech Initiative: partnership for interactive mediation, £46,000
 * 2018 EPSRC Capital Grant: VisHub: A Collaborative Data Visualization Space for Interdisciplinary Research, Teaching, and Public Engagement, £200,000
