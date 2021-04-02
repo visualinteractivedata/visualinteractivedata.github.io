@@ -1,6 +1,6 @@
 [2021](#2021) | [2020](#2020) | [2019](#2019) |  [2018](#2018) |  [2017](#2017) |  [2016](#2016) |  [2015](#2015) |  [2014](#2014) |  [2013](#2013)
 
-
+<div id="publications">
 # Publications
 
 ## 2021
@@ -377,3 +377,5 @@ Transactions on Visualization and Computer Graphics (TVCG), 1-1
 **[Weighted graph comparison techniques for brain connectivity analysis](https://hal.inria.fr/hal-00780999/document)**
 B Alper, B Bach, N Henry Riche, T Isenberg, JD Fekete
 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+</div>
