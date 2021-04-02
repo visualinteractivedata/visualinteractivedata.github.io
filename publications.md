@@ -13,7 +13,7 @@ Sarah Schöttler, Yalong Yang, Hanspeter Pfister, Benjamin Bach
 [WEB](https://geonetworks.github.io)
 <br/><br/><br/><br/>
 
-![pubImage long](figures/2021grandchallenges.png)
+![pubImage xlong](figures/2021grandchallenges.png)
 **[Grand Challenges in Immersive Analytics](papers/2021grandchallenges.pdf)**:
 Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett, Arnaud Prouzeau, Christoph Anthes, Wolfgang Büschel, Cody Dunne, Tim Dwyer, Jens Grubert, Jason H. Haga, Nurit Kirshenbaum, Dylan Kobayashi, Tica Lin, Monsurat Olaosebikan, Fabian Pointecker, David Saffo, Nazmus Saquib, Dieter Schmalstieg, Danielle Albers Szafir, Matthew Whitlock, Yalong Yang
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
@@ -189,7 +189,7 @@ Corneli, Joseph, Dave Murray-Rust, and Benjamin Bach. *In Proceedings of Cyberne
 ![pubImage](figures/hullman2018graphical.png)
 **[Picturing Science: Design Patterns in Graphical Abstracts](https://www.google.com/url?q=https%3A%2F%2Faviz.fr%2F~bbach%2Fpapers%2FHullman2018graphical.pdf&sa=D&sntz=1&usg=AFQjCNFYn4DvM-jmQBOUUn58VqoKHncpPA)**
 Hullman, Jessica, and Benjamin Bach. *International Conference on Theory and Application of Diagrams. Springer, Cham, 2018.*
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ![pubImage long](figures/romat2018animated.png)
@@ -245,7 +245,7 @@ Evaluation in the Crowd. Crowdsourcing and Human-Centered Experiments, 96-138
 **[The Emerging Genre of Data Comics](https://www.researchgate.net/profile/Benjamin_Bach2/publication/316497056_The_Emerging_Genre_of_Data_Comics/links/5b22526ca6fdcc69745ee6a7/The-Emerging-Genre-of-Data-Comics.pdf)**
 Benjamin Bach, Nathalie Henry Riche, Sheelagh Carpendale, Hanspeter Pfister
 IEEE Computer Graphics and Applications 38 (3), 6-13
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ![pubImage](figures/cordeil2017spatio.png)
 **[A Design Space for Spatio-Data Coordination: Tangible Interaction Devices for Immersive Information Visualisation]()**
@@ -277,7 +277,7 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG)
 ## 2016
 
 ![pubImage long](figures/bach2016telling.png)
-**[Telling Stories about Dynamic Networks with Graph Comics]](https://hal.inria.fr/hal-01256099/document)**
+**[Telling Stories about Dynamic Networks with Graph Comics](https://hal.inria.fr/hal-01256099/document)**
 Benjamin Bach, Nathalie Kerracher, Kyle W. Hall, Sheelagh Carpendale, Jessie Kennedy, Nathalie Henry Riche
 Proceedings of the Conference on Human Factors in Information Systems (CHI)
 <br/><br/><br/><br/>
@@ -332,7 +332,7 @@ Journal of Grid Computing 3 (13), 309-327.(2015)
 A Review of Temporal Data Visualizations Based on Space-Time Cube Operations
 B Bach, P Dragicevic, D Archambault, C Hurter, S Carpendale
 Eurographics Conference on Visualization
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## 2014
 
