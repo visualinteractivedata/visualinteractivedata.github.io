@@ -11,7 +11,7 @@ h2 {
 img[alt~=people]{
 	width: 150px;
 }
-#publications img{
-	width: 150px;
+img[alt="pubImage"]{
+	width: 200px;
 	float: left;
 }
