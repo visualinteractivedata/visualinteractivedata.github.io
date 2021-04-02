@@ -6,9 +6,12 @@
 ## 2021
 
 ![](figures/schoettler2021geonetworks.png)
-**[Grand Challenges in Immersive Analytics](https://arxiv.org/pdf/2101.06322.pdf)**:
+**[Visualizing and Interacting with Geospatial Networks:
+A Survey and Design Space](https://arxiv.org/pdf/2101.06322.pdf)**:
 Sarah Schöttler, Yalong Yang, Hanspeter Pfister, Benjamin Bach
-*EG/IEEE Computer Graphics Forum, 2021.*
+*EG/IEEE Computer Graphics Forum, 2021.* 
+<br/>
+[WEB](https://geonetworks.github.io)
 <br/><br/><br/><br/>
 
 ![](figures/2021grandchallenges.png)
