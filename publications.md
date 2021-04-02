@@ -13,14 +13,14 @@ Sarah Schöttler, Yalong Yang, Hanspeter Pfister, Benjamin Bach
 [WEB](https://geonetworks.github.io)
 <br/><br/><br/><br/>
 
-![pubImage](figures/2021grandchallenges.png)
+![pubImage,long](figures/2021grandchallenges.png)
 **[Grand Challenges in Immersive Analytics](papers/2021grandchallenges.pdf)**:
 Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett, Arnaud Prouzeau, Christoph Anthes, Wolfgang Büschel, Cody Dunne, Tim Dwyer, Jens Grubert, Jason H. Haga, Nurit Kirshenbaum, Dylan Kobayashi, Tica Lin, Monsurat Olaosebikan, Fabian Pointecker, David Saffo, Nazmus Saquib, Dieter Schmalstieg, Danielle Albers Szafir, Matthew Whitlock, Yalong Yang
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
 <br/><br/><br/><br/>
 
 
-![pubImage](figures/zheng2021sketchnote.png)
+![pubImage,long](figures/zheng2021sketchnote.png)
 **[Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking](https://www.dropbox.com/s/4ezcdwkrs80uvsl/CHI2021-Sketchnoting.pdf?dl=0)**:
 Rebecca Zheng, Marina Fernández Camporro, Hugo Romat, Nathalie Henry Riche, Benjamin Bach, Fanny Chevalier, Ken Hinckley, Nicolai Marquardt
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
@@ -46,7 +46,7 @@ Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, Benjamin Bach
 <br/><br/><br/><br/>
 
 
-![pubImage](figures/Lekschas2020.png)
+![pubImage,long](figures/Lekschas2020.png)
 **[A Generic Framework and Library for Exploration of Small Multiples through Interactive Piling](https://arxiv.org/pdf/2005.00595.pdf)**:
 Fritz Lekschas, Xinyi Zhou, Wei Chen, Nils Gehlenborg, Benjamin Bach, and Hanspeter Pfister
 *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* **[Project Website](https://github.com/flekschas/piling.js)**
@@ -114,12 +114,6 @@ Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenbo
 
 
 ## 2019
-![publication](figures/schoettler2019geographic.png)
-**[Geographic Network Visualization Techniques: A Work-In-Progress Taxonomy](papers/Schoettler2019geonetworks.pdf)**:
-Sarah Schöttler, Tobias Kauer, Benjamin Bach: *Poster at Graph Drawing, (2019)*
-[Weblink](https://geographic-networks.github.io)
-<br/><br/><br/><br/>
-
 ![pubImage](figures/cordeil2019iatk.png)
 **[IATK: An Immersive Analytics Toolkit](https://hal-enac.archives-ouvertes.fr/hal-02288638/file/IATK_IEEE_VR.pdf)**:
 Maxime Cordeil, Andrew Cunningham, Benjamin Bach, Christophe Hurter, Bruce H. Thomas, Kim Mariott, Tim Dwyer, IEEE VR (2019)  
@@ -140,7 +134,7 @@ Zezong Wang, Shunming Wang, Matteo Farinella, Dave Murray-Rust, Nathalie Henry R
 <br/><br/><br/><br/>
 
 
-![pubImage](figures/kim2019datatoon.png)
+![pubImage,long](figures/kim2019datatoon.png)
 **[DataToon: Drawing Data Comics About DynamicNetworks with Pen + Touch Interaction](https://www.researchgate.net/profile/Benjamin_Bach2/publication/332231214_DataToon_Drawing_Data_Comics_About_Dynamic_Networks_with_Pen_Touch_Interaction/links/5ca78456299bf118c4b57dd7/DataToon-Drawing-Data-Comics-About-Dynamic-Networks-with-Pen-Touch-Interaction.pdf)**:
 Nam Wook Kim, Nathalie Henry Riche, Benjamin Bach, Guanpeng Xu, Matthew Brehmer, Ken Hinckley, Michel Pahud, Haijun Xia, Michael J. McGuffin, Hanspeter Pfister. *ACM Conference on Human Factors in Computing Systems (CHI) (2019).*
 <br/><br/><br/><br/>
@@ -157,7 +151,7 @@ Sicat, Ronell, Jiabao Li, JunYoung Choi, Maxime Cordeil, Won-Ki Jeong, Benjamin 
 
 ## 2018
 
-![](figures/mccormack2018multisensorial.png)
+![pubImage](figures/mccormack2018multisensorial.png)
 **[Multisensory immersive analytics](https://research.bangor.ac.uk/portal/files/22078708/immersiveAnalyticsRobertsChapter.pdf)**
 McCormack, Jon, Jonathan C. Roberts, Benjamin Bach, Carla Dal Sasso Freitas, Takayuki Itoh, Christophe Hurter, and Kim Marriott. *In Immersive Analytics, pp. 57-94. Springer, Cham, 2018.*
 <br/><br/><br/><br/>
@@ -175,7 +169,7 @@ Bach, Benjamin, Charles Perin, Qiuyuan Ren, and Pierre Dragicevic. *In TransImag
 <br/><br/><br/><br/>
 
 
-![pubImage](figures/bach2018narrative.png)
+![pubImage,long](figures/bach2018narrative.png)
 **[Narrative Design Patterns for Data-Driven Storytelling](https://www.taylorfrancis.com/books/e/9781315281575/chapters/10.1201/9781315281575-5)**
 Bach, Benjamin, Moritz Stefaner, Jeremy Boy, Steven Drucker, Lyn Bartram, Jo Wood, Paolo Ciuccarelli, Yuri Engelhardt, Ulrike Koeppen, and Barbara Tversky. *In Data-Driven Storytelling, pp. 125-152. AK Peters/CRC Press, 2018.*
 
@@ -195,10 +189,10 @@ Corneli, Joseph, Dave Murray-Rust, and Benjamin Bach. *In Proceedings of Cyberne
 ![pubImage](figures/hullman2018graphical.png)
 **[Picturing Science: Design Patterns in Graphical Abstracts](https://www.google.com/url?q=https%3A%2F%2Faviz.fr%2F~bbach%2Fpapers%2FHullman2018graphical.pdf&sa=D&sntz=1&usg=AFQjCNFYn4DvM-jmQBOUUn58VqoKHncpPA)**
 Hullman, Jessica, and Benjamin Bach. *International Conference on Theory and Application of Diagrams. Springer, Cham, 2018.*
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 
-![pubImage](figures/romat2018animated.png)
+![pubImage,long](figures/romat2018animated.png)
 **[Animated Edge Textures in Node-Link Diagrams: a Design Space and Initial Evaluation](https://hal.inria.fr/hal-01726358/document)**
 Romat, Hugo, Caroline Appert, Benjamin Bach, Nathalie Henry-Riche, and Emmanuel Pietriga. *In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, p. 187. ACM, 2018.*
 <br/><br/><br/><br/>
@@ -214,7 +208,7 @@ Kim, Nam Wook, Benjamin Bach, Hyejin Im, Sasha Schriber, Markus Gross, and Hansp
 <br/><br/><br/><br/>
 
 
-![pubImage](figures/bach2018hologram.png)
+![pubImage,long](figures/bach2018hologram.png)
 **[The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?](https://vcg.seas.harvard.edu/publications/the-hologram-in-my-hand-how-effective-is-interactive-exploration-of-3d-visualizations-in-immersive-tangible-augmented-reality/paper)**
 Bach, Benjamin, Ronell Sicat, Johanna Beyer, Maxime Cordeil, and Hanspeter Pfister. *IEEE Transactions on Visualization & Computer Graphics 1 (2018): 1-1.*
 <br/><br/><br/><br/>
@@ -240,12 +234,12 @@ Verena S. Molinero, Benjamin Bach, Catherine Plaisant, Nicole Dufournaud, Jean-D
 Rita Borgo, Bongshin Lee, Benjamin Bach, Sara Fabrikant, Radu Jianu, Andreas Kerren, Stephen Kobourov, Fintan McGee, Luana Micallef, Tatiana von Landesberger, Katrin Ballweg, Stephan Diehl, Paolo Simonetto, Michelle Zhou
 <br/><br/><br/><br/>
 
-![pubImage](figures/bach2017drawing.png)
+![pubImage,long](figures/bach2017drawing.png)
 **[Drawing into the AR-CANVAS: Designing Embedded Visualizations for Augmented Reality](https://vcg.seas.harvard.edu/publications/drawing-into-the-ar-canvas-designing-embedded-visualizations-for-augmented-reality)**
 Benjamin Bach, Ronell Sicat, Hanspeter Pfister, Aaron Quigley
 IEEE VIS, Workshop on Immersive Analytics
 Evaluation in the Crowd. Crowdsourcing and Human-Centered Experiments, 96-138
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 ![pubImage](figures/bach2017emerging.png)
 **[The Emerging Genre of Data Comics](https://www.researchgate.net/profile/Benjamin_Bach2/publication/316497056_The_Emerging_Genre_of_Data_Comics/links/5b22526ca6fdcc69745ee6a7/The-Emerging-Genre-of-Data-Comics.pdf)**
@@ -282,7 +276,7 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG)
 
 ## 2016
 
-![pubImage](figures/bach2016telling.png)
+![pubImage,long](figures/bach2016telling.png)
 **[Telling Stories about Dynamic Networks with Graph Comics]](https://hal.inria.fr/hal-01256099/document)**
 Benjamin Bach, Nathalie Kerracher, Kyle W. Hall, Sheelagh Carpendale, Jessie Kennedy, Nathalie Henry Riche
 Proceedings of the Conference on Human Factors in Information Systems (CHI)
@@ -322,12 +316,12 @@ B Bach, NH Riche, R Fernandez, E Giannisakis, B Lee, JD Fekete
 Proceedings of IEEE VIS Conference, posters
 <br/><br/><br/><br/>
 
-![pubImage](figures/bach2015smallmultipiles.png)
+![pubImage,long](figures/bach2015smallmultipiles.png)
 **[Small MultiPiles: Piling Time to Explore Temporal Patterns in Dynamic Networks](https://hal.inria.fr/hal-01158987/document)**
 B Bach, N Henry Riche, T Dwyer, T Madhyastha, JD Fekete, T Grabowski
 Eurographics Conference on Visualization (EuroVis)
 
-[Weblink](https://aviz.fr/~bbach/multipiles)
+[WEB](https://aviz.fr/~bbach/multipiles)
 <br/><br/><br/><br/>
 
 Visual and Audio Monitoring of Island Based Parallel Evolutionary Algorithms
@@ -342,7 +336,7 @@ Eurographics Conference on Visualization
 
 ## 2014
 
-![pubImage](figures/bach2014matrixcubes.png.png)
+![pubImage],long(figures/bach2014matrixcubes.png)
 **[Visualizing Dynamic Networks with Matrix Cubes](https://hal.inria.fr/hal-00931911v1/document)**
 Benjamin Bach, Emmauel Pietriga, Jean-Daniel Fekete
 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI). 2014
@@ -368,7 +362,7 @@ Journal of Grid Computing, 1-19
 **[GraphDiaries: Animated Transitions and Temporal Navigation for Dynamic Networks](https://aviz.fr/~bbach/graphdiaries/Bach2013GraphDiaries.pdf)**
 B Bach, E Pietriga, JD Fekete
 Transactions on Visualization and Computer Graphics (TVCG), 1-1
-
+<br/><br/><br/><br/>
 
 ## 2013
 
