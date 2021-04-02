@@ -4,6 +4,13 @@
 # Publications
 
 ## 2021
+
+![](figures/schoettler2021geonetworks.png)
+**[Grand Challenges in Immersive Analytics](https://arxiv.org/pdf/2101.06322.pdf)**:
+Sarah Schöttler, Yalong Yang, Hanspeter Pfister, Benjamin Bach
+*EG/IEEE Computer Graphics Forum, 2021.*
+<br/><br/><br/><br/>
+
 ![](figures/2021grandchallenges.png)
 **[Grand Challenges in Immersive Analytics](papers/2021grandchallenges.pdf)**:
 Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett, Arnaud Prouzeau, Christoph Anthes, Wolfgang Büschel, Cody Dunne, Tim Dwyer, Jens Grubert, Jason H. Haga, Nurit Kirshenbaum, Dylan Kobayashi, Tica Lin, Monsurat Olaosebikan, Fabian Pointecker, David Saffo, Nazmus Saquib, Dieter Schmalstieg, Danielle Albers Szafir, Matthew Whitlock, Yalong Yang
