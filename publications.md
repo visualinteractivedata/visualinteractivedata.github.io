@@ -1,11 +1,10 @@
 [2021](#2021) | [2020](#2020) | [2019](#2019) |  [2018](#2018) |  [2017](#2017) |  [2016](#2016) |  [2015](#2015) |  [2014](#2014) |  [2013](#2013)
 
-<div id="publications"></div>
 # Publications
 
 ## 2021
 
-![](figures/schöttler2021geonetworks.png)
+![pubImage](figures/schöttler2021geonetworks.png)
 **[Visualizing and Interacting with Geospatial Networks:
 A Survey and Design Space](https://arxiv.org/pdf/2101.06322.pdf)**:
 Sarah Schöttler, Yalong Yang, Hanspeter Pfister, Benjamin Bach
@@ -14,7 +13,7 @@ Sarah Schöttler, Yalong Yang, Hanspeter Pfister, Benjamin Bach
 [WEB](https://geonetworks.github.io)
 <br/><br/><br/><br/>
 
-![](figures/2021grandchallenges.png)
+![pubImage](figures/2021grandchallenges.png)
 **[Grand Challenges in Immersive Analytics](papers/2021grandchallenges.pdf)**:
 Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett, Arnaud Prouzeau, Christoph Anthes, Wolfgang Büschel, Cody Dunne, Tim Dwyer, Jens Grubert, Jason H. Haga, Nurit Kirshenbaum, Dylan Kobayashi, Tica Lin, Monsurat Olaosebikan, Fabian Pointecker, David Saffo, Nazmus Saquib, Dieter Schmalstieg, Danielle Albers Szafir, Matthew Whitlock, Yalong Yang
 *ACM Conference on Human Factors in Computing Systems (CHI) (2021).*
