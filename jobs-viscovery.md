@@ -39,6 +39,12 @@ Due to Covid-19, remote work is possible but relocation is preferred whenever la
 
 For questions and application details e-mail [Benjamin Bach, bbach@ed.ac.uk](mailto:bbach@ed.ac.uk).
 
+## Application
+
+**Deadline is April 21st**
+
+[https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/796/?utm_medium=jobshare](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/796/?utm_medium=jobshare)
+
 ## Relevant References
 
 * Bach, B., et al.: Telling stories about dynamic networks with graph comics. In Proc. of ACM CHI (2016).
