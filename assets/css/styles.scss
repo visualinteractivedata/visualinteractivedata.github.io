@@ -11,7 +11,9 @@ h2 {
 img[alt~=people]{
 	width: 150px;
 }
-img[alt~="pubImage"]{
-	width: 200px;
-	float: left;
+img[alt~=pubImage]{
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 100px
 }
