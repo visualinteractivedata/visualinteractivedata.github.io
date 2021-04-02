@@ -5,7 +5,7 @@
 
 ## 2021
 
-![](figures/schöttler2021geonetworks.png)
+![](figures/schöttler2021geonetworks.png)
 **[Visualizing and Interacting with Geospatial Networks:
 A Survey and Design Space](https://arxiv.org/pdf/2101.06322.pdf)**:
 Sarah Schöttler, Yalong Yang, Hanspeter Pfister, Benjamin Bach
