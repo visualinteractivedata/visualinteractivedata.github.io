@@ -1,4 +1,4 @@
-The __VisHub__ is and interdisciplinary research group seekinc creative ways to interactive, exploratory and explanatory visualizations across domains and environments (e.g., screen, physical, immersion) to understand and communicate complex data. Our goal is to make data visualiztion and data analytics understandable by everyone. We are based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). Our research includes, but is not limited to:
+The __VisHub__ is and interdisciplinary research lab seeking creative ways to interactive, exploratory and explanatory data visualizations across domains and environments (e.g., screen, physical, immersion). Our goal is to make data visualiztion and data analytics understandable by everyone. We are based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). Our research includes, but is not limited to:
 
 * data-driven storytelling, 
 * visualization education
@@ -11,7 +11,7 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 
 
 # News 
-* *March 2020:* Hiring for 3 (three!) postdoc positions on [networks, storytelling and vis literacy](jobs-viscovery.html) as well as [vis in health](jobs-health). (https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/313/?utm_medium=jobshare) in Data visualisation. 
+* *March 2020:* Hiring for 3 (three!) postdoc positions on [networks, storytelling and vis literacy](jobs-viscovery.html) as well as [vis in health](jobs-health.html). (https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/313/?utm_medium=jobshare) in Data visualisation. 
 * *Dec 2020:* Four full papers accepted at ACM CHI 2021 (to come)!
 * *Oct 2020:* [PhD Scholarship](phd-graphics-medicine.html) in Visualising Complex Care Pathways in Later Life. 
 * *Oct 2020:* Three full [papers](publications.html) accepted at [IEEE VIS 2020](http://ieeevis.org)!
@@ -20,7 +20,6 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 * [..more](news.html)
 
 [More news...](news.html)
-
 
 
 
