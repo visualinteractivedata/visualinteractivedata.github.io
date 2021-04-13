@@ -23,7 +23,7 @@ Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesl
 ![pubImage long](figures/zheng2021sketchnote.png)
 **[Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking](https://www.dropbox.com/s/4ezcdwkrs80uvsl/CHI2021-Sketchnoting.pdf?dl=0)**:
 Rebecca Zheng, Marina Fernández Camporro, Hugo Romat, Nathalie Henry Riche, Benjamin Bach, Fanny Chevalier, Ken Hinckley, Nicolai Marquardt
-*ACM Conference on Human Factors in Computing Systems (CHI) (2021).* **CHI BEST PAPER HONORABLE MENTION**
+*ACM Conference on Human Factors in Computing Systems (CHI) (2021).* **CHI BEST PAPER HONORABLE MENTION** 
 <br/>
 **[VIDEO](https://www.dropbox.com/s/jll7m1oyztnf62a/CHI%202021%20Sketchnoting%20Presentation.mp4?dl=0)**
 <br/><br/><br/><br/>
