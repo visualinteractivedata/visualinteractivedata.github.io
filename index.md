@@ -11,8 +11,8 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 
 
 # News 
-* *March 2020:* >> WE'RE HIRING for 3 (three!) postdoc positions on [networks, storytelling and vis literacy](jobs-viscovery.html) as well as [vis in health](jobs-health.html). (https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/313/?utm_medium=jobshare) in Data visualisation. 
-* *Dec 2020:* Four full papers accepted at ACM CHI 2021 (to come)!
+* *March 2020:* >> **WE'RE HIRING** for 3(!) postdoc and engineer positions on [networks, storytelling and vis literacy](jobs-viscovery.html) as well as [vis in health](jobs-health.html). (https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/313/?utm_medium=jobshare) in Data visualisation. 
+* *Dec 2020:* **Four full [papers](publications.html)** accepted at ACM CHI 2021!!
 * *Oct 2020:* [PhD Scholarship](phd-graphics-medicine.html) in Visualising Complex Care Pathways in Later Life. 
 * *Oct 2020:* Three full [papers](publications.html) accepted at [IEEE VIS 2020](http://ieeevis.org)!
 * *Oct 2020:* Co-organizing [IEEE VIS Workshop on Guidelines in Visualiztion: VisGuides](https://nms.kcl.ac.uk/c4pgv).
