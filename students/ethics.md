@@ -35,7 +35,7 @@ How do you ensure confidentiality? Describe your procedures for anonymisation / 
 
 Example response: _No personal data will be recorded at any time. Voice recordings will be stored on an encrypted HD for the duration of the study and erased afterwards._
 
-### 5. Paricipant data
+### 5. Participant data
 
 What information about participants or data subjects will you collect or use? 
 
