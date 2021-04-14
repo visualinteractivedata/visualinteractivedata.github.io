@@ -1,5 +1,6 @@
 # Resources for Students
 
-* [Technical writing](technical-writing.html)
-* [Project planning](project-planning.html)
-* [Ethics approval proceedure](ethics.html)
+* [Project planning](students/project-planning.html)
+* [Literature Research](students/literature.html)
+* [Technical writing](students/technical-writing.html)
+* [Ethics approval proceedure](students/ethics.html)
