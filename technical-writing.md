@@ -13,16 +13,15 @@ The below is a rather loose list of thoughts stemming from my own experience as 
 * **G5—Inform**. The objective of technical writing is not to entertain the reader, but to inform. Readers are not reading your work to bridge their time, but invest their time to read your work. Hence, be to the point and help them saving time. The less it takes them to understand your work, the longer their will read it (and cite!).
 * **G7—Detail your methodology**. Your methodology is everything the reader has to assess your credibility. Without methodology, you might as well have made up all the results and created the pictures in photoshop. Where are your results and conclusions coming from? A strong methodology adds credibility to your results. Having asked 1,000,000 people about whom they will vote for gives a much stronger result than having asked 10; having asked people in different parts of the country will be stronger than having asked your best friendsl; having designed 5 prototypes implies you have learned more than having designed 1, etc. Thus, a good methodology explains the details (details are important and show that you have really done it and thought it through), highlights the strong points (how many participants, what background, etc..), and explains why each step was necessary (and not another one).
 
-## Random Things
+## Random Notes
 
 The below advice is collected from many recurring errors in students' writings.
 
 * Try to avoid implicit references such as 'this'  or 'as discussed above' or alike. Use explicit references by repeating the term you're referencing.
 * Label your figures and include meaningful captions that explain the figure in sufficient detail.
 * In English, there is a blank ' ' before any opening bracket; there is no blank ' ' before : (as it is in French)
-* By early August you should spend more time writing than implementing. - Keep some of the polishing bits to the end when you're done writing. 
 * Keep in mind to demonstrate your solution: this includes figures and can be videos, too. 
-* the report is what the reviewer will see. They will not know about our discussions nor anything else. Anything you do not mention 'did not happen'
+* the report is what the reviewer will see. They will not know about our discussions or anything else. Anything you do not mention in the report 'did not happen'.
 * at the same time, do not bore with details. Do not explain any little change during your iterations. Only add the information relevant to understand and assess your contribution / solution / research question. I will not be able to tell you what that is. You will have to decide that. 
 
 ## Possible Outline and Section Content
@@ -78,43 +77,8 @@ Discussions have two purposes: reflection and outlook. Reflections critically di
 
 
 ### Conclusion/Summary
-This can be short, summarizing your achievement and tell what others can do with your great work.
-
-
-## Literature Search
-Reading papers and keeping track of it can be overwhelming as there are so many papers out there the internet will give you access to tons of results and even more links to related ones, and most papers sound relevant in the first place. Below are my personal notes and strategies to cope with the flood of potential literature. Try to read as much as you can but do not be afraid if you have not read everything. You need a good feeling for what is relevant and what is not. Not everything you read will be relevant for inclusion into your paper/thesis.
-
-### Where to Find Papers?
-* Use key terms in [Google Scholar](https://scholar.google.com)
-* Look at forward citations, i.e. papers that cite a relevant paper
-* Look at backward citations, i.e. papers referenced in a relevant paper
-* Look at recent conference proceedings (for us that’s mostly likely IEEE VIS, EuroVis, PacificVis, ACM CHI).
-
-### How to keep track of papers:
-* keep one google document
-* list all the papers you find interesting to potentially read, ordered by some means (e.g. years, first author last name, title etc.)
-start reading the most relevant. You don’t need to read the entire paper. Start with the abstract, then intro and go as far as you like. Take notes for each paper you read in the gdoc under the respective title.
-* Include the URL for the paper in the gdoc.
-* if you come across interesting papers referenced in the paper you read, add their title into the gdoc.
-* once finished reading a paper, pick a new one and so on.
-* To me, this provides a good overview of the papers I have already read, and the ones I potentially want to read. Looking at the listed titles, I can decide which ones are the most important to read next. Also when I add a new title to the collection, I sometimes add two types of brief comments
-* how relevant I think the paper is, at the moment where I find it, and
-* if I find a paper references in another paper, I usually add a comment what that paper said about the referenced paper (e.g. a study showing X). That, too, helps deciding later how relevant that paper is to be read.
-* You can use citation management systems such as [Zotero](https://www.zotero.org/).
-
-# Evaluation
-* high-level question
-* hypotheses and questions (H1, H2, H3, ...)
-* conditions and techniques being tested
-* Tasks for participants to do
-* study design: what is your study protocol: first, we did X, then we did Y, for X minutes, ... 
-* participants and demographics whatever is helpful for your resarch
-* Results. This is very objective analytics. Don't inculude interpretations or discussions
-* Discussion
-
-
+This can be short, summarizing your achievement and tell what others can do with your great work. What is your high-level take home message?
 
  
-
 
 
