@@ -137,6 +137,7 @@
 
 # Alumni
 
+* [Arran Ridley](https://uclab.fh-potsdam.de/people/arran-ridley/), Research Assistant (2020)
 * [Dave Murray-Rust](http://dave.murray-rust.org), Faculty (2020)
 * [Renaud Blanch](http://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
 * [Zhutian Chen](https://chenzhutian.org/), PhD Intern, Honkong University (2019)
