@@ -76,14 +76,21 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * IEEE InfoVis/Vast: since 2012
 * TVCG: since 2011
 * EuroVis: since 2012
-* Graph Drawing
+* Graph Drawing 
+* Computer Graphics and Applications
 * Creativity & Cognition 2021
+* ISMAR 2021
+* UIST 2021
+* Workshop on Machine Learning and Visualization (EuroVis) 2020, 2021
+* Vis4DH 2020
+* Computer and Graphics 2021
 
 ## Recent Invited Talks
 
 (Not including conference presentations)
 
-* Jan 2021: [Visualization Empowerment](https://docs.google.com/presentation/d/1E1wco5dnvhcsPntCc40yu0caFS7dZOPTOp3GhSJ5_Xc/edit?usp=sharing), Open Lab, Newcastle University. 
+* April 2021: [Visualization Empowerment](https://docs.google.com/presentation/d/1E1wco5dnvhcsPntCc40yu0caFS7dZOPTOp3GhSJ5_Xc/edit?usp=sharing), iLab University of Calgary, AB
+* Jan 2021: [Visualization Empowerment](https://docs.google.com/presentation/d/1E1wco5dnvhcsPntCc40yu0caFS7dZOPTOp3GhSJ5_Xc/edit?usp=sharing), Open Lab, Newcastle University, UK. 
 * December 2020: The Immersive Canvas: Information Visualization in Immersive Environments, Keynote to Workshop ImAna at IEEE AIVR
 * November 2020: Data Comics, Data Stories Symposium, Kings College London 
 * October 2020: Data Comics Guest Lecture, Kings College London
