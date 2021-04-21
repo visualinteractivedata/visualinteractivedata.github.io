@@ -37,7 +37,7 @@ For questions and application details e-mail [Benjamin Bach, bbach@ed.ac.uk](mai
 
 ## Application
 
-**Deadline is April 21st**
+**Deadline is April 28th**
 
 [https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/796/?utm_medium=jobshare](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/796/?utm_medium=jobshare)
 
