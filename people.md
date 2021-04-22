@@ -32,7 +32,7 @@
 ## Research and Teaching
 
 <table>
-<!--     <tr>
+<tr>
     <td style="vertical-align:top;width:100px;"><img src="people/aba-sah.png"/></td>
     <td style="vertical-align:top;">
       <b>Aba-Sah Dadzie</b>, University Teacher in Data Visualisation, at the University of Edinburgh. With a background in user- and task-centred visual analytics, Aba-Sah's research focuses on the design and construction of interactive visualisations and visualisation-driven tools that enable value creation through interaction with data and technology at work and in personal, social lives. She has applied her work to exploratory information discovery and knowledge management in industry sectors including civil aerospace, FMCG, arts & culture, and in technology-enhanced learning.
@@ -40,7 +40,6 @@
       <a href="https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw">Google Scholar</a>
     </td>
    </tr>
- -->
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/james-scottbrown.png"/></td>
     <td style="vertical-align:top;">
