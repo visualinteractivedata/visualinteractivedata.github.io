@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 logo: "figures/logo-j.png"
+repository: visualinteractivedata/visualinteractivedata.github.io
+github: [metadata]
 relative_links:
   enabled: true
   collections: true
