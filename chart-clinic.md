@@ -6,7 +6,7 @@ No sign-up required, just drop in, bring your visualisation and questions. We'll
 
 ## How to join
 
-Since this is a pilot, the ChartClinic is currently only open only to University staff and graduat(e/ing) students working on their theses. To join a session, join our Chart **Clinic Team on Microsoft Teams** by 
+Since this is a pilot, the ChartClinic is currently only open only to University staff and graduat(e/ing) students working on their theses. To join a session, join our **Chart Clinic Team on Microsoft Teams** by 
 * navigate to _Teams_, 
 * select _Join or create a team_ and 
 * enter the following code under _Join a team with a code_:
