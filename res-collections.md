@@ -3,7 +3,7 @@
 ## Data Visualization Designers and Artists
 ### The Modern:
 * [Moritz Stefaner](https://truth-and-beauty.net/projects)
-* [Jan Willem Tulp](http://tulpinteractive.com\)
+* [Jan Willem Tulp](http://tulpinteractive.com)
 * [Maarten Lambrechts](http://www.maartenlambrechts.be)
 * [Kim Albrecht](https://kimalbrecht.com/vis)
 * [Stefanie Posavec](http://www.stefanieposavec.com)
