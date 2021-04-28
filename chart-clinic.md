@@ -19,3 +19,10 @@ Since this is a pilot, the ChartClinic is currently only open only to University
 -   June 25, 2021 (Zezhong Wang)
 -   July 30, 2021 (tbd)
 -   August 27, 2021 (tbd)
+
+## Resources
+
+Feel free to browse some of our resources: books, blogs, and collections on visulization. 
+
+* [Books](res-books.html)
+* [Blogs and Collections](res-collections.html)
