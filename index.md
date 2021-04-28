@@ -11,7 +11,8 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 
 # News
 
--   _April 2020:_ >> **WE'RE HIRING** for 3(!) postdoc and engineer positions on [networks, storytelling and vis literacy](jobs-viscovery.html) as well as [vis in health](jobs-health.html).
+- _May 2021:_ Starting the 2nd turn of our [Online Data Visualization Course for Professionals](https://datavis-online.github.io) on May 4th.
+-  _April 2020:_ >> **WE'RE HIRING** for 3(!) postdoc and engineer positions on [networks, storytelling and vis literacy](jobs-viscovery.html) as well as [vis in health](jobs-health.html).
 -   _Dec 2020:_ **Four full [papers](publications.html)** accepted at ACM CHI 2021!!
 -   _Oct 2020:_ [PhD Scholarship](phd-graphics-medicine.html) in Visualising Complex Care Pathways in Later Life.
 -   _Oct 2020:_ Three full [papers](publications.html) accepted at [IEEE VIS 2020](http://ieeevis.org)!
