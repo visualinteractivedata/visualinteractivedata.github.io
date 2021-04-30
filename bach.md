@@ -111,11 +111,12 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * ... 
 
 ## Scientific Workshops
-
-* **[Envisioning Future Productivity for Immersive Analytics](http://immersiveanalytics.io/)**: Barrett Ens,
-Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett
+* **[2nd IEEE VIS Workshop on Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing](https://visactivities.github.io/)**, Samuel Huron, Benjamin Bach, Uta Hinrichs, Sheelagh Carpendale, IEEE VIS 2021
+* **[IEEE VIS Workshop on Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing](https://visactivities.github.io/)**, Samuel Huron, Benjamin Bach, Uta Hinrichs, Sheelagh Carpendale, IEEE VIS 2020
+* **[3rd Workshop on the Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization](https://nms.kcl.ac.uk/c4pgv)** Alfie Abdul-Rahman, Alexandra Diehl, Benjamin Bach, IEEE VIS 2020
+* **[Envisioning Future Productivity for Immersive Analytics](http://immersiveanalytics.io/)**: Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett, CHI 2020
 * **Interactive Visualization of Dynamic Multivariate Networks with the Vistorian:Benjamin Bach, Workshop at The Connected Past**, University of Oxford, 2018
-* **[VisGuides: 2nd Workshop on the Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization](http://www.google.com/url?q=http%3A%2F%2Fworkshop.visguides.org%2F&sa=D&sntz=1&usg=AFQjCNGaxxHnV84G4rnAPHCAfDY1cFuvbQ**): Alexandra Diehl, Benjamin Bach, Alfie Abdul-Rahman, IEEE VIS 2018, Berlin
+* **[VisGuides: 2nd Workshop on the Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization](http://www.google.com/url?q=http%3A%2F%2Fworkshop.visguides.org%2F&sa=D&sntz=1&usg=AFQjCNGaxxHnV84G4rnAPHCAfDY1cFuvbQ)**: Alexandra Diehl, Benjamin Bach, Alfie Abdul-Rahman, IEEE VIS 2018, Berlin
 * **Storyboards for Science: Combining the Visual and Verbal to Create Engaging Communication**: David Rogers, Francesca Samsel, Sean Cunningham, Benjamin Bach, IEEE VIS 2018, Berlin
 * **Interactive Visualization of Dynamic Multivariate Networks with the Vistorian**: Benjamin Bach, Jean-Daniel Fekete, Nicole Dufournaud, Open workshop, EHESS, Paris, 2018
 * **Interactive Visualization of Dynamic Multivariate Networks with the Vistorian:Benjamin Bach**, Workshop at CAA conference, University of Tübingen, 2018
