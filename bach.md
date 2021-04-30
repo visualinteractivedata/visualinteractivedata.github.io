@@ -89,6 +89,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 (Not including conference presentations)
 
+* April 2021: Data Comics for Data-driven storytellng, DataViz Meetup, Toulouse, FR 
 * April 2021: [Visualization Empowerment](https://docs.google.com/presentation/d/1E1wco5dnvhcsPntCc40yu0caFS7dZOPTOp3GhSJ5_Xc/edit?usp=sharing), iLab University of Calgary, AB
 * Jan 2021: [Visualization Empowerment](https://docs.google.com/presentation/d/1E1wco5dnvhcsPntCc40yu0caFS7dZOPTOp3GhSJ5_Xc/edit?usp=sharing), Open Lab, Newcastle University, UK. 
 * December 2020: The Immersive Canvas: Information Visualization in Immersive Environments, Keynote to Workshop ImAna at IEEE AIVR
