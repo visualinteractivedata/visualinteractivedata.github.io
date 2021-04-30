@@ -135,6 +135,8 @@ Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett
 ## Research Grants
 * 2021 EPSRC (CoI): RAMP VIS: Making Visual Analytics an Integral Part of the Technological Infrastructure for Combating COVID-19, ~£427,000
 * 2021 EPSRC (PI): Visovery:  Semi-automatic  Data  Tours  to  Support  Data  Exploration and Visualisation Literacy, ~£320,000
+* 2020 Data Driven Innovation (DDI), Co-I: Outbreak Science and Policy: A Sentiment-based Mathematical Model Repository (SER) for disease emergency decision-making and long-term resilience to future One Health threats; £89,754.30 					
+* 2020 Data Driven Innovation (DDI), Co-I:  Data-driven personalised recovery care pathways after COVID-19, £85,814
 * 2020 MRC (CoI): COVID-19: ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC-4C) Workpackage, £60,000
 * 2019 Scottish Founding Council (SCF): Data Visualization Online Course for Upskilling, £80,000
 * 2019 Global Challenges Research Fund (GCRF): Peacetech Initiative: partnership for interactive mediation, £46,000
