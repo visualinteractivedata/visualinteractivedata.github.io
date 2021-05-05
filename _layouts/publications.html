@@ -2,19 +2,26 @@
 layout: default
 ---
 
-{% assign grouped = site.data.publications | group_by: 'year' %} {% for yr in
-grouped %}
+{% assign grouped = site.data.publications | group_by: 'year' %}
+
+<ul class="menu">
+	{% for yr in grouped %}
+	<li><a href="#{{ yr.name }}">{{ yr.name }}</a></li>
+	{% endfor %}
+</ul>
+
+{% for yr in grouped %}
 
 <h2>{{ yr.name }}</h2>
 
 {% for item in yr.items %}
 
-<div class="row" style="margin-bottom: 15px;">
-	<div class="col-sm-6 col-md-4">
+<div class="pubWrapper">
+	<div class="pubImage">
 		<img src="figures/{{ item.img }}" alt="{{ item.img_alt }}" />
 	</div>
 
-	<div class="col-sm-6 col-md-8">
+	<div class="pubText">
 		<p>
 			<a
 				href="{{ item.paperlink }}"
