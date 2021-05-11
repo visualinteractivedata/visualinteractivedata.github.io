@@ -1,0 +1,58 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+	font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a:hover {
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+img[alt~="people"] {
+	width: 150px;
+}
+
+.menu {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	/*margin: 0 0 25px 0;*/
+	padding: 0;
+	border-bottom: #ccc 1px solid;
+	text-align: justify;
+}
+
+.menu li {
+	display: inline-block;
+	padding: 0 5px;
+}
+
+/* Ensures justification for single lines */
+.menu:after {
+	content: "";
+	width: 100%;
+	height: 0;
+	margin: 0;
+	padding: 0;
+	line-height: 0;
+	display: inline-block;
+}
+
+.pubWrapper {
+	display: grid;
+	grid-template-columns: 40% 1fr;
+	grid-column-gap: 10px;
+	margin-bottom: 15px;
+}
+
+.pubImage {
+	grid-column: 1;
+}
+
+.pubText {
+	grid-column: 2;
+}

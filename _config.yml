@@ -5,3 +5,4 @@ github: [metadata]
 relative_links:
   enabled: true
   collections: true
+plugins: [jekyll-seo-tag]
