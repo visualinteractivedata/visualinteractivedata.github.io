@@ -64,7 +64,7 @@
     </td>
    </tr>
     <tr>
-    <td style="vertical-align:top;width:100px;"><img src="/people/philheslop.png"/></td>
+    <td style="vertical-align:top;width:100px;"><img src="/people/philheslop.jpg"/></td>
     <td style="vertical-align:top;">
       <b><a href="https://scholar.google.co.uk/citations?user=jn5_OLoAAAAJ&hl=en">Phil Heslop</a></b> is a post-doc researcher working on the "Data-driven personalised recovery care pathways after COVID-19" project. He has a background in HCI, medical informatics, educational technology, data visualisation, virtual reality, AI and games.
     </td>
