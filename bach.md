@@ -23,6 +23,9 @@ Benjamin is a Lecturer in Design Informatics and Visualization at the University
 
 **[Full CV](people/bach-cv-may2021.pdf)**
 
+**[Google Scholar](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ)**
+
+
 ## Research Interest
 
 * Network Visualization
@@ -36,10 +39,7 @@ Benjamin is a Lecturer in Design Informatics and Visualization at the University
 
 Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc at Harvard University ([Visual Computing Group](https://www.google.com/url?q=https%3A%2F%2Fvcg.seas.harvard.edu%2F&sa=D&sntz=1&usg=AFQjCNHrOk6QL6lA3f7dQ3s5JLepEn9MiA)), [Monash University](https://ialab.it.monash.edu/), as well as the [Microsoft-Research Inria Joint Centre](https://www.google.com/url?q=https%3A%2F%2Fwww.inria.fr%2Fen%2Fcontent%2Fview%2Ffull%2F4829&sa=D&sntz=1&usg=AFQjCNGBfXkOUQap4XpJvpznhGybg2rRdA). Benjamin was visiting researcher at the University of Washington and Microsoft Research in 2015. He obtained his PhD in 2014 from the Université Paris Sud where he worked at the Aviz Group at Inria. The PhD thesis entitled [Connections, Changes, and Cubes: Unfolding Dynamic Networks for Visual Exploration](https://drive.google.com/file/d/1X3Ockv7Nn3D6x-8BQOeM0rw4ebcySvrL/view?usp=sharing) got awarded an honorable mention as the Best Thesis by the IEEE Visualization Committee. In 2019, Benjamin got awarded the [Eurographics Young Researcher Award](https://www.google.com/url?q=https%3A%2F%2Fwww.eg.org%2Fwp%2Feurographics-awards-programme%2Fthe-young-researcher-award%2F&sa=D&sntz=1&usg=AFQjCNGLooUCw7B6d4RvS-VgDruG9qrC8w) (thanks to all my mentors and collaborators, this is your award!).
 
-## Publications 
-
-[Publications](publications.html)
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ)
+## [Publications](publications.html)
 
 ## Awards
 
