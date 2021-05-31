@@ -10,7 +10,6 @@
 <a href="#teaching">Teaching</a> |
 <a href="#grants">Grants</a>
 
-
 # Benjamin Bach
 
 Benjamin is a Lecturer in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
@@ -21,6 +20,8 @@ Benjamin is a Lecturer in Design Informatics and Visualization at the University
 **Email:** [bbach@inf.ed.ac.uk](mailtp:bbach@inf.ed.ac.uk)
 
 **Twitter:** [@benjbach](https://twitter.com/benjbach)
+
+**[Full CV](people/bach-cv-may2021.pdf)**
 
 ## Research Interest
 
