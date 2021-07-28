@@ -60,14 +60,19 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * Kun-Ting Chen (since 2020), 3rd 
 * Sarah Schöttler (since 2021), 1st
 
+## PhD Examiner
+
+* Catarina Maçãs: Time-Series Visualization: Highligting Patterns and Deviations. Universidate de Coimbra, PT. July 2021 
+
 ## Professional Activities
 
 * ACM ISS Workshop Chair (2020)
 * ACM CHI Paper Associate Chair (2018, 2019)
 * ACM CHI Late Braking Work Associate Chair (2017)
 * ACM CHI Work-in-Progress Program Committee (2015)
-* IEEE InfoVis Program Committee (2018)
-* IEEE VAST Program Committee (2018)
+* IEEE InfoVis Program Committee (since 2018)
+* IEEE InfoVis Organizing Committee (since 2020)
+** IEEE VAST Program Committee (2018)
 * GraphDrawing Program Committee
 * TransImage Conference: Conference Co-chair 2018
 
