@@ -95,7 +95,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 (Not including conference presentations)
 
-* July 2021: [Data Visualization for Exploration, Explnation, and Participation](pfds/Turing-RSE-Summer-School-July-2021.pdf), Turing RSE Summer school, UK 
+* July 2021: [Data Visualization for Exploration, Explnation, and Participation](/pfds/Turing-RSE-Summer-School-July-2021.pdf), Turing RSE Summer school, UK 
 * July 2021: Data-Driven Storytelling with Data Comics, PKUVIS Visualization Summer school, China 
 * April 2021: Data Comics for Data-Driven Storytelling * July 2021: Data-Driven Storytelling with Data Comics, PKUVIS Visualization Summer school, China 
 rytelling, DataViz Meetup, Toulouse, FR 
