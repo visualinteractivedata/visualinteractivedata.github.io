@@ -17,6 +17,7 @@
     -   `weblink`: If there is a companion website for the paper, add the link here.
     -   `videolink`: If there is a recorded talk or other video for the paper, add the link here.
     -   `awards`: If the paper has won any awards, add them here using the text you would like displayed, for example "BEST PAPER HONORABLE MENTION"
+-   **IMPORTANT:** If you are manually editing the CSV file in a text editor, make sure not to add any spaces after the commas, and to "quote" anything that contains a comma. If you add a space between the comma and a quoted item, it will break the file.
 
 ## How to work on this site locally
 
