@@ -67,7 +67,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 ## Professional Activities
 
 * ACM ISS Workshop Chair (2020)
-* ACM CHI Paper Associate Chair (2018, 2019)
+* ACM CHI Paper Associate Chair (2018, 2019, 2021)
 * ACM CHI Late Braking Work Associate Chair (2017)
 * ACM CHI Work-in-Progress Program Committee (2015)
 * IEEE InfoVis Program Committee (since 2018)
