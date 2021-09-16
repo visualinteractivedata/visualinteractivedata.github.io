@@ -1,0 +1,114 @@
+{
+  "Benjamin Bach": {
+    "Google Scholar": "https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao",
+    "Personal Site": "https://visualinteractivedata.github.io/bach",
+    "Bio": "Lecturer (Assistant Prof.) in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.",
+    "Type": "Faculty",
+    "Image": "/people/bach.png"
+  },
+  "Bettina Nissen": {
+    "Google Scholar": "https://scholar.google.com/citations?user=yv5H92AAAAAJ&hl=en&oi=ao",
+    "Personal Site": "http://data-things.com",
+    "Bio": "Lecturer (Assistant Prof.) in Interaction Design and researcher in Design Informatics at the University of Edinburgh. With a background in product and interaction design, digital fabrication and data physicalisation, her practice-based research focuses on engaging audiences with complex technological concepts and data through tangible means and makings. Research through Design, Designing with Data, Data Engagement, Data Physicalisation, Digital Fabrication.",
+    "Type": "Faculty",
+    "Image": "/people/bettina.jpg"
+  },
+  "Larissa Pschetz": {
+    "Google Scholar": "https://scholar.google.com/citations?user=tncrPCIAAAAJ&hl=en&oi=ao",
+    "Personal Site": "http://entretags.de",
+    "Bio": "interaction designer, researcher and lecturer at the University of Edinburgh. Research through design, Technology for social development, Internet of Things (IoT), Temporal design, Biodesign",
+    "Type": "Faculty",
+    "Image": "/people/larissa.jpg"
+  },
+  "Aba-Sah Dadzie": {
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw",
+    "Personal Site": "",
+    "Bio": "University Teacher in Data Visualisation, at the University of Edinburgh. With a background in user- and task-centred visual analytics, Aba-Sah's research focuses on the design and construction of interactive visualisations and visualisation-driven tools that enable value creation through interaction with data and technology at work and in personal, social lives. She has applied her work to exploratory information discovery and knowledge management in industry sectors including civil aerospace, FMCG, arts & culture, and in technology-enhanced learning.",
+    "Type": "Research and Teaching",
+    "Image": "/people/aba-sah.png"
+  },
+  "James Scott-Brown": {
+    "Google Scholar": "https://scholar.google.com/citations?user=2CciQUsAAAAJ&hl=en&oi=ao",
+    "Personal Site": "http://jamesscottbrown.com",
+    "Bio": "Postdoctoral researcher working on network visualization.",
+    "Type": "Research and Teaching",
+    "Image": "/people/james-scottbrown.png"
+  },
+  "Arran Ridley": {
+    "Google Scholar": "https://scholar.google.com/citations?user=GXpMWw8AAAAJ&hl=en&oi=ao",
+    "Personal Site": "https://ahc.leeds.ac.uk/media/pgr/1617/arran-l-ridley",
+    "Bio": "Research Assistant on visualization tools and measuring engagement",
+    "Type": "Research and Teaching",
+    "Image": "/people/arran-ridley.png"
+  },
+  "Devanjan Bhattacharya": {
+    "Google Scholar": "https://sites.google.com/site/bhattacharyadevanjan/home",
+    "Personal Site": "",
+    "Bio": "is working with the PSRP and PeaceTech in School of Law, focussing on collaborative map visualisations for participation and mediation in peace processes, along with the School of Informatics and the School of Design.",
+    "Type": "Research and Teaching",
+    "Image": "/people/devanjan.png"
+  },
+  "Phil Heslop": {
+    "Google Scholar": "https://scholar.google.co.uk/citations?user=jn5_OLoAAAAJ&hl=en",
+    "Personal Site": "",
+    "Bio": "is a post-doc researcher working on the \"Data-driven personalised recovery care pathways after COVID-19\" project. He has a background in HCI, medical informatics, educational technology, data visualisation, virtual reality, AI and games.",
+    "Type": "Research and Teaching",
+    "Image": "/people/philheslop.jpg"
+  },
+  "Zezhong Wang": {
+    "Google Scholar": "https://scholar.google.com/citations?user=EJ8drhwAAAAJ&hl=en&oi=ao",
+    "Personal Site": "https://www.designinformatics.org/person/zezhong-wang/",
+    "Bio": "PhD student working on <i>Methods for Creating and Teaching Data Comics</i>.",
+    "Type": "Research Student",
+    "Image": "/people/wang.jpg"
+  },
+  "Tobias Kauer": {
+    "Google Scholar": "https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao",
+    "Personal Site": "https://tobiaskauer.org/",
+    "Bio": "PhD student working on <i>Discursive Data Visualization</i>.",
+    "Type": "Research Student",
+    "Image": "/people/kauer.jpg"
+  },
+  "Mashael Hamad AlKadi": {
+    "Google Scholar": "",
+    "Personal Site": "",
+    "Bio": "PhD student working on <i>Learning Analytics</i>.",
+    "Type": "Research Student",
+    "Image": "/people/default.png"
+  },
+  "John Harper-Lee": {
+    "Google Scholar": "",
+    "Personal Site": "",
+    "Bio": "working on <i>Biological Data Analysis</i>.",
+    "Type": "Research Student",
+    "Image": "/people/default.jpg"
+  },
+  "Ryan Bowler": {
+    "Google Scholar": "",
+    "Personal Site": "",
+    "Bio": "informatics PhD student researching ways to understand and implement the complexities of human time within Human-Computer-Interactions.",
+    "Type": "Research Student",
+    "Image": "/people/bowler.jpg"
+  },
+  "Lucy Havens": {
+    "Google Scholar": "",
+    "Personal Site": "https://ljhavens.myportfolio.com",
+    "Bio": "PhD Student on Retrieving Bias in Cultural Collections using Natural Language Processing and Visualization.",
+    "Type": "Research Student",
+    "Image": "/people/LucyHavens.jpg"
+  },
+  "Vebjørn Halvfjerdvik": {
+    "Google Scholar": "",
+    "Personal Site": "",
+    "Bio": "Master by Research Student on Natural Language Processing and Visualization.",
+    "Type": "Research Student",
+    "Image": "/people/vebjorn.png"
+  },
+  "Sarah Schoettler": {
+    "Google Scholar": "",
+    "Personal Site": "https://sarahschoettler.com",
+    "Bio": "PhD student working on <i>non-map-based ways of visualizing geographic data</i>.",
+    "Type": "Research Student",
+    "Image": "/people/schoettler.jpg"
+  }
+}

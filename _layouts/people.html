@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+<h1>People</h1>
+
+
+<h2>Faculty</h2>
+
+<table>
+{% for p in site.data.people %}
+    {% if p[1].Type == "Faculty" %}
+    <tr>
+        <td style="vertical-align:top;width:100px;"><img src="{{p[1].Image}}"/></td>
+        <td style="vertical-align:top;">
+            {% if p[1]['Personal Site'] %}
+            <b><a href="/{{p[1]['Personal Site']}}">{{p[0]}}</a></b>,
+            {% else %}
+            <b>{{p[0]}}</b>,
+            {% endif %}
+            {{p[1].Bio}}
+            <br/>
+
+            {% if p[1]['Google Scholar'] %}
+            <a href={{p[1]['Google Scholar']}}>Google Scholar</a>
+            {% endif %}
+        </td>
+    </tr>
+
+    {% endif %}
+{% endfor %}
+</table>
+
+
+<h2>Research and Teaching</h2>
+
+<table>
+{% for p in site.data.people %}
+    {% if p[1].Type == "Research and Teaching" %}
+    <tr>
+        <td style="vertical-align:top;width:100px;"><img src="{{p[1].Image}}"/></td>
+        <td style="vertical-align:top;">
+            {% if p[1]['Personal Site'] %}
+            <b><a href="/{{p[1]['Personal Site']}}">{{p[0]}}</a></b>,
+            {% else %}
+            <b>{{p[0]}}</b>,
+            {% endif %}
+            {{p[1].Bio}}
+            <br/>
+
+            {% if p[1]['Google Scholar'] %}
+            <a href={{p[1]['Google Scholar']}}>Google Scholar</a>
+            {% endif %}
+        </td>
+    </tr>
+
+    {% endif %}
+{% endfor %}
+</table>
+
+
+<h2>PhD and Research Students</h2>
+
+<table>
+{% for p in site.data.people %}
+    {% if p[1].Type == "Research Student" %}
+    <tr>
+        <td style="vertical-align:top;width:100px;"><img src="{{p[1].Image}}"/></td>
+        <td style="vertical-align:top;">
+            {% if p[1]['Personal Site'] %}
+            <b><a href="/{{p[1]['Personal Site']}}">{{p[0]}}</a></b>,
+            {% else %}
+            <b>{{p[0]}}</b>,
+            {% endif %}
+            {{p[1].Bio}}
+            <br/>
+
+            {% if p[1]['Google Scholar'] %}
+            <a href={{p[1]['Google Scholar']}}>Google Scholar</a>
+            {% endif %}
+        </td>
+    </tr>
+
+    {% endif %}
+{% endfor %}
+</table>
+
+
+
+{{content}}
+
