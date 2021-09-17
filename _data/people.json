@@ -22,7 +22,7 @@
   },
   "Aba-Sah Dadzie": {
     "Google Scholar": "https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw",
-    "Personal Site": "",
+    "Personal Site": null,
     "Bio": "University Teacher in Data Visualisation, at the University of Edinburgh. With a background in user- and task-centred visual analytics, Aba-Sah's research focuses on the design and construction of interactive visualisations and visualisation-driven tools that enable value creation through interaction with data and technology at work and in personal, social lives. She has applied her work to exploratory information discovery and knowledge management in industry sectors including civil aerospace, FMCG, arts & culture, and in technology-enhanced learning.",
     "Type": "Research and Teaching",
     "Image": "/people/aba-sah.png"
@@ -50,7 +50,7 @@
   },
   "Phil Heslop": {
     "Google Scholar": "https://scholar.google.co.uk/citations?user=jn5_OLoAAAAJ&hl=en",
-    "Personal Site": "",
+    "Personal Site": null,
     "Bio": "is a post-doc researcher working on the \"Data-driven personalised recovery care pathways after COVID-19\" project. He has a background in HCI, medical informatics, educational technology, data visualisation, virtual reality, AI and games.",
     "Type": "Research and Teaching",
     "Image": "/people/philheslop.jpg"
@@ -70,22 +70,22 @@
     "Image": "/people/kauer.jpg"
   },
   "Mashael Hamad AlKadi": {
-    "Google Scholar": "",
-    "Personal Site": "",
+    "Google Scholar": null,
+    "Personal Site": null,
     "Bio": "PhD student working on <i>Learning Analytics</i>.",
     "Type": "Research Student",
     "Image": "/people/default.png"
   },
   "John Harper-Lee": {
-    "Google Scholar": "",
-    "Personal Site": "",
+    "Google Scholar": null,
+    "Personal Site": null,
     "Bio": "working on <i>Biological Data Analysis</i>.",
     "Type": "Research Student",
     "Image": "/people/default.png"
   },
   "Ryan Bowler": {
-    "Google Scholar": "",
-    "Personal Site": "",
+    "Google Scholar": null,
+    "Personal Site": null,
     "Bio": "informatics PhD student researching ways to understand and implement the complexities of human time within Human-Computer-Interactions.",
     "Type": "Research Student",
     "Image": "/people/bowler.jpg"
@@ -98,14 +98,14 @@
     "Image": "/people/LucyHavens.jpg"
   },
   "Vebjørn Halvfjerdvik": {
-    "Google Scholar": "",
-    "Personal Site": "",
+    "Google Scholar": null,
+    "Personal Site": null,
     "Bio": "Master by Research Student on Natural Language Processing and Visualization.",
     "Type": "Research Student",
     "Image": "/people/vebjorn.png"
   },
   "Sarah Schoettler": {
-    "Google Scholar": "",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=WpKVOq0AAAAJ",
     "Personal Site": "https://sarahschoettler.com",
     "Bio": "PhD student working on <i>non-map-based ways of visualizing geographic data</i>.",
     "Type": "Research Student",
