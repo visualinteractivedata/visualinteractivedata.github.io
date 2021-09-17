@@ -27,7 +27,9 @@ To add a masters student or alumnus, edit the [`people.md`](./people.md) file.
 
 ## Adding a project
 
-To add a new project page, create a new `.md` file in [`projects/](./projects).
+To add a new project page, create a new `.md` file in [`_projects/](./_projects).
+
+You can also edit [`_config.yml`](./_config.yml) to set the order in which projects are listed on the homepage; projects without a specified position will appear at the end of the list.
 
 ## How to work on this site locally
 
