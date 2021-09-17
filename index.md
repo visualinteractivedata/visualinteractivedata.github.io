@@ -25,43 +25,12 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 <!-- to make the nav link work -->
 <h1 id="projects">Topics & Projects (<a href="/publications">> Publications</a>)</h1>
 
-## Visualization Education
+{% for project in site.projects %}
+  <h2><a href="{{project.url }}">{{ project.title }}</a></h2>
 
-![](figures/vistools.png)
-Designing visualization activities and teaching resouces for education with visualization. [vistools.net](http://vistools.net)
+  {% if project.image %}
+  <a href="{{project.url }}"><img src="{{project.image}}" /></a>
+  {% endif %}
 
-## Text Analysis for Clinical Guidelines
-
-![](figures/covid-browser-2.png)
-In this project we are applying a combination of natural language processing and data visualisation to UK hospital guidelines for treating COVID-19 patients.
-[Web](https://www.ltg.ed.ac.uk/projects/covid19-guideline-browser/)
-
-## Online Course Data Visualization for Professionals
-
-![](figures/datavis-course.png)
-Running from June 15 to July 17. [datavis-online.github.io](https://datavis-online.github.io/)
-
-## Data Visualization Cheat Sheets
-
-![](figures/cheatsheets.png)
-Data Visualization Cheat Sheets are aimed at supporting learning and teaching of data visualization techinques and investigate ways to better teach data visualization in general. [visualizationcheatsheets.github.io](http://visualizationcheatsheets.github.io)
-
-## Data Comics
-
-![](figures/datacomics.png)
-Data Comics combine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material. [datacomics.net](http://datacomics.net)
-
-## Immersive Analytics
-
-![](figures/immersiveanalytics.png)
-The **[Edinburgh VisHub](http://edinburghvishub.github.io)** is an university-wide lab for data visualization equipment to foster research, collaboration, learning, and outreach. **[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)** are two toolkits for creating immersive data visualizations in augmented and virtual reality. Check how to participate in our [upcoming workshop at CHI 2020](http://immersiveanalytics.io).
-
-## The Vistorian: Network Visualization
-
-![](figures/vistorian.png)
-The Vistorian is an Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. [vistorian.net](http://vistorian.net)
-
-## Survey on Geospatial Networks
-
-![](figures/schoettler2021geonetworks.png)
-[geonetworks.github.io](https://geonetworks.github.io)
+  <p>{{ project.description | markdownify }}</p>
+{% endfor %}

@@ -6,3 +6,15 @@ relative_links:
   enabled: true
   collections: true
 plugins: [jekyll-seo-tag]
+collections:
+  projects:
+    output: true
+    order:
+      - education
+      - clinical_guidelines
+      - professional_course
+      - cheat_sheets
+      - data_comics
+      - immmersive_analytics
+      - networks
+      - geospatial_networks
