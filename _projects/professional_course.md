@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Online Course Data Visualization for Professionals
+title: Online Course Data Visualization for Professionals. [datavis-online.github.io](https://datavis-online.github.io/)
 image: figures/datavis-course.png
 description:
 people:

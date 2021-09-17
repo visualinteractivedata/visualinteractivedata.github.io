@@ -2,7 +2,7 @@
 layout: project
 title: Education
 image: figures/vistools.png
-description: Designing visualization activities and teaching resources for education with visualization.
+description: Designing visualization activities and teaching resources for education with visualization. [vistools.net](http://vistools.net)
 people:
 - Benjamin Bach
 - Zezhong Wang

@@ -2,7 +2,7 @@
 layout: project
 title: Data Visualization Cheat Sheets
 image: figures/cheatsheets.png
-description: Data Visualization Cheat Sheets are aimed at supporting learning and teaching of data visualization techniques and investigate ways to better teach data visualization in general
+description: Data Visualization Cheat Sheets are aimed at supporting learning and teaching of data visualization techniques and investigate ways to better teach data visualization in general. [visualizationcheatsheets.github.io](http://visualizationcheatsheets.github.io)
 people:
 - Benjamin Bach
 - Zezhong Wang

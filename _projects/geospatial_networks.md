@@ -2,7 +2,7 @@
 layout: project
 title: Geospatial Networks
 image: figures/schoettler2021geonetworks.png
-description:
+description: Survey on geospatial networks. [geonetworks.github.io](https://geonetworks.github.io).
 people:
 - Benjamin Bach
 - Sarah Schoettler 
