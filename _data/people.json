@@ -42,8 +42,8 @@
     "Image": "/people/arran-ridley.png"
   },
   "Devanjan Bhattacharya": {
-    "Google Scholar": "https://sites.google.com/site/bhattacharyadevanjan/home",
-    "Personal Site": "",
+    "Google Scholar": "https://scholar.google.com/citations?user=TEC3pGAAAAAJ&hl=en&oi=ao",
+    "Personal Site": "https://sites.google.com/site/bhattacharyadevanjan/home",
     "Bio": "is working with the PSRP and PeaceTech in School of Law, focussing on collaborative map visualisations for participation and mediation in peace processes, along with the School of Informatics and the School of Design.",
     "Type": "Research and Teaching",
     "Image": "/people/devanjan.png"
@@ -81,7 +81,7 @@
     "Personal Site": "",
     "Bio": "working on <i>Biological Data Analysis</i>.",
     "Type": "Research Student",
-    "Image": "/people/default.jpg"
+    "Image": "/people/default.png"
   },
   "Ryan Bowler": {
     "Google Scholar": "",
@@ -91,7 +91,7 @@
     "Image": "/people/bowler.jpg"
   },
   "Lucy Havens": {
-    "Google Scholar": "",
+    "Google Scholar": "https://scholar.google.com/citations?user=aAgRblUAAAAJ&hl=en&oi=ao",
     "Personal Site": "https://ljhavens.myportfolio.com",
     "Bio": "PhD Student on Retrieving Bias in Cultural Collections using Natural Language Processing and Visualization.",
     "Type": "Research Student",
