@@ -20,6 +20,7 @@ layout: default
     {% endfor %}
 </ul>
 
+{% if page.publications %}
 <h2>Publications</h2>
 
 {% for pub in page.publications %}
@@ -50,4 +51,4 @@ layout: default
 		{% endif %}
 	{% endfor %}
 {% endfor %}
-
+{% endif %}
