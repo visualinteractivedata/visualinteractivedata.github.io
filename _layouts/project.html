@@ -15,21 +15,12 @@ layout: default
 
 <h2>Publications</h2>
 
-
-
-<ul>
-    {% for pub in page.publications %}
-	<li>{{pub}}</li>
-    {% endfor %}
-</ul>
-
-
 {% for pub in page.publications %}
 	{% for item in site.data.publications %}
 		{% if item.title == pub %}
 			<div class="pubWrapper">
 				<div class="pubImage">
-					<img src="figures/{{ item.img }}" alt="{{ item.img_alt }}" />
+					<img src="../figures/{{ item.img }}" alt="{{ item.img_alt }}" />
 				</div>
 
 				<div class="pubText">

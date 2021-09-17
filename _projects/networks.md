@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Network Visualization
+image: figures/vistorian.png
 description:
 people:
 - Benjamin Bach

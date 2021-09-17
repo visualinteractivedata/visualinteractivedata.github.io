@@ -1,7 +1,8 @@
 ---
 layout: project
 title: Online Course Data Visualization for Professionals
-description: Designing visualization activities and teaching resources for education with visualization.
+image: figures/datavis-course.png
+description:
 people:
 - Benjamin Bach
 - Aba-Sah Dadzie
