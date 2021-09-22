@@ -19,8 +19,8 @@ layout: default
 <h2>Research and Teaching</h2>
 
 <table>
-{% for p in site.data.people %}
-    {% if p[1].Type == "Research and Teaching" %}
+{% for person in site.data.people %}
+    {% if person[1].Type == "Research and Teaching" %}
     {% include person.html person=person %}
     {% endif %}
 {% endfor %}
@@ -30,8 +30,8 @@ layout: default
 <h2>PhD and Research Students</h2>
 
 <table>
-{% for p in site.data.people %}
-    {% if p[1].Type == "Research Student" %}
+{% for person in site.data.people %}
+    {% if person[1].Type == "Research Student" %}
     {% include person.html person=person %}
     {% endif %}
 {% endfor %}
