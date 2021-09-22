@@ -17,28 +17,7 @@ layout: default
 <h2>{{ yr.name }}</h2>
 
 {% for item in yr.items %}
+{% include publication.html item=item %}
+{% endfor %}
 
-<div class="pubWrapper">
-	<div class="pubImage">
-		<img src="figures/{{ item.img }}" alt="{{ item.img_alt }}" />
-	</div>
-
-	<div class="pubText">
-		<p>
-			<a
-				href="{{ item.paperlink }}"
-				style="font-weight: bold;"
-				target="_blank"
-				>{{ item.title }}</a
-			>: {{ item.authors }}.
-			<i>{{ item.journal_conf }}.</i>
-			({{ item.year}}). {% if item.weblink %}
-			<a href="{{ item.weblink }}" target="_blank">[WEB]</a>
-			{% endif %} {% if item.videolink %}
-			<a href="{{ item.videolink }}" target="_blank">[VIDEO]</a>
-			{% endif %}
-		</p>
-	</div>
-</div>
-
-{% endfor %} {% endfor %}
+{% endfor %}
