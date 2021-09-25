@@ -60,7 +60,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * Kun-Ting Chen (since 2020), 3rd 
 * Sarah Schöttler (since 2021), 1st
 
-## Master Students (MSc, unles otherwise specified)
+## Master Students (MSc, unless otherwise specified)
 
 - **2021:** 
 Tashfeen Ahmed (MA), 
@@ -77,7 +77,6 @@ Shenshen Ji,
 Chen Chen, 
 Yu Zhao (MFA), 
 Yuhao Zhang.
-
 - **2020:** 
 Jin Xiao, 
 Bibo Tian, 
@@ -88,7 +87,6 @@ Kehan Jiao,
 Vaida Plankyte, 
 Dandi Huang, 
 Nistha Kumar.
- 
 - **2019:** 
  Sarah Schoettler (MSc),
   Xinyu Du (MSc),
