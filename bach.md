@@ -60,6 +60,39 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * Kun-Ting Chen (since 2020), 3rd 
 * Sarah Schöttler (since 2021), 1st
 
+## Master Students (MSc, unles otherwise specified)
+
+- **2021:** Tashfeen Ahmed (MA) , Luna Hu, Boao Huang, Ziyng Lin, Yeru Lin, Yanan Liu, Tamara Lottering, Sarah Olson, Jiangnan Xu, Minjia Zhao, Shenshen Ji, Chen Chen, Yu Zhao (MFA), Yuhao Zhang
+
+- **2020:** Jin Xiao, Bibo Tian, Yu Zhao, Li Haonan, Xue Feng, Kehan Jiao, Vaida Plankyte, Dandi Huang, Nistha Kumar.
+ 
+- **2019:** Sarah Schoettler (MSc),
+  Xinyu Du (MSc),
+  Junxian Meng (MSc),
+  Qinru Zhu (MSc),
+  Yixin Liu (MA),
+- **2018:** Finn Ickler (MSc),
+  Xudong Jiang (MSc),
+  Ilyas Zholdasbayev (MSc),
+  Yiwei Sun (MSc),
+  Yan Wu (MSc),
+  Iqbal Rosiadi (MSc),
+- **2017:**
+  Edson Alcala (MSc),
+  Parul Sharma (MSc),
+  Ruobing Hao (MA),
+  Xian Tang (MSc),
+  Zezhong Wang (MSc).
+
+## BHons Students
+
+James O’Donell,
+Charles Shraples,
+Hirsh Agarwal;
+Alexander Olson,
+Veronika Dimitrova;
+
+
 ## PhD Examiner
 
 * Catarina Maçãs: Time-Series Visualization: Highligting Patterns and Deviations. Universidate de Coimbra, PT. July 2021 
