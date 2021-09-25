@@ -62,16 +62,41 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 ## Master Students (MSc, unles otherwise specified)
 
-- **2021:** Tashfeen Ahmed (MA) , Luna Hu, Boao Huang, Ziyng Lin, Yeru Lin, Yanan Liu, Tamara Lottering, Sarah Olson, Jiangnan Xu, Minjia Zhao, Shenshen Ji, Chen Chen, Yu Zhao (MFA), Yuhao Zhang
+- **2021:** 
+Tashfeen Ahmed (MA), 
+Luna Hu, 
+Boao Huang, 
+Ziyng Lin, 
+Yeru Lin, 
+Yanan Liu, 
+Tamara Lottering, 
+Sarah Olson, 
+Jiangnan Xu, 
+Minjia Zhao, 
+Shenshen Ji, 
+Chen Chen, 
+Yu Zhao (MFA), 
+Yuhao Zhang.
 
-- **2020:** Jin Xiao, Bibo Tian, Yu Zhao, Li Haonan, Xue Feng, Kehan Jiao, Vaida Plankyte, Dandi Huang, Nistha Kumar.
+- **2020:** 
+Jin Xiao, 
+Bibo Tian, 
+Yu Zhao, 
+Li Haonan, 
+Xue Feng, 
+Kehan Jiao, 
+Vaida Plankyte, 
+Dandi Huang, 
+Nistha Kumar.
  
-- **2019:** Sarah Schoettler (MSc),
+- **2019:** 
+ Sarah Schoettler (MSc),
   Xinyu Du (MSc),
   Junxian Meng (MSc),
   Qinru Zhu (MSc),
   Yixin Liu (MA),
-- **2018:** Finn Ickler (MSc),
+- **2018:** 
+Finn Ickler (MSc),
   Xudong Jiang (MSc),
   Ilyas Zholdasbayev (MSc),
   Yiwei Sun (MSc),
