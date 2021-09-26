@@ -147,11 +147,12 @@ Veronika Dimitrova;
 * Vis4DH 2020
 * Computer and Graphics 2021
 
-## Recent Invited Talks
+## Invited Talks
 
 (Not including conference presentations)
 
 * September 2021: [Communicating Research through Data Comics](https://docs.google.com/presentation/d/1KHyjElNBHyXgmOiOvefVZYAVhlFNfMOXdRVsIAiXjME/edit?usp=sharing), Royal Stastistical Society Conference 2021.
+* August 2021: [Visualization Empowerment](https://infovis.fh-potsdam.de/), FH Potsdam, Information+Visualisation Talk series, GER 
 * July 2021: [Data Visualization for Exploration, Explanation, and Participation](/pdfs/Turing-RSE-Summer-School-July-2021.pdf), Turing RSE Summer school, UK 
 * July 2021: Data-Driven Storytelling with Data Comics, PKUVIS Visualization Summer school, China 
 * April 2021: Data Comics for Data-Driven Storytelling, DataViz Meetup, Toulouse, FR 
