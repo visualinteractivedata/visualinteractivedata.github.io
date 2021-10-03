@@ -10,7 +10,7 @@ The **VisHub** is an interdisciplinary research lab researching creative methods
 We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). [Get in touch with us](mailto:bbach@ed.ac.uk) if you want to become involved. Likewise, every last Friday of the month, we're running a [Chart Clinic](chart-clinic.html) for staff and graduat(e/ing) studnets of the University.
 
 # News
-
+- _September 2021:_ [Uta Hinrichs](http://www.utahinrichs.de) is joins the VisHub as a Reader. Welcome Uta!!!
 - _May 2021:_ Starting the 2nd turn of our [Online Data Visualization Course for Professionals](https://datavis-online.github.io) on May 4th.
 -  _April 2020:_ >> **WE'RE HIRING** for 3(!) postdoc and engineer positions on [networks, storytelling and vis literacy](jobs-viscovery.html) as well as [vis in health](jobs-health.html).
 -   _Dec 2020:_ **Four full [papers](publications.html)** accepted at ACM CHI 2021!!
@@ -23,7 +23,7 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 [More news...](news.html)
 
 <!-- to make the nav link work -->
-<h1 id="projects">Topics & Projects (<a href="/publications">> Publications</a>)</h1>
+<h1 id="projects">Topics & Projects</h1>
 
 {% for project in site.projects %}
   <h2><a href="{{project.url }}">{{ project.title }}</a></h2>
