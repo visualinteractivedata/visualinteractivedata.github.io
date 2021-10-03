@@ -28,9 +28,9 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 {% for project in site.projects %}
   <h2><a href="{{project.url }}">{{ project.title }}</a></h2>
 
-  {% if project.image %}
+<!--   {% if project.image %}
   <a href="{{project.url }}"><img src="{{project.image}}" /></a>
   {% endif %}
-
+ -->
   <p>{{ project.description | markdownify }}</p>
 {% endfor %}
