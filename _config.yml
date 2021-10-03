@@ -11,9 +11,10 @@ collections:
     output: true
     order:
       - education.md
-      - clinical_guidelines.md.md
-      - professional_course.md
+      - peace_analytics.md
+      - covid19_vis.md
+      - clinical_guidelines.md
       - data_comics.md
       - immmersive_analytics.md
       - networks.md
-      - geospatial_networks.md
+      - geographic.md
