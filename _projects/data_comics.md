@@ -12,6 +12,8 @@ people:
 publications:
 - "Interactive Data Comics"
 - "Data Comics for Reporting Controlled User Studies in Human-Computer Interaction"
+- "Teaching Data Visualization and Storytelling with Data Comic Workshops"
+- "Comparing Effectiveness and Engagement of Data Comics and Infographics"
 - "Design patterns for data comics"
 - "DataToon: Drawing Data Comics About Dynamic Networks with Pen + Touch Interaction"
 - "The Emerging Genre of Data Comics"
