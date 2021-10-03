@@ -8,6 +8,7 @@ people:
 - James Scott-Brown
 - Sarah Schoettler 
 publications:
+- "Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies"
 - "Visualizing and Interacting with Geospatial Networks: A Survey and Design Space"
 - "It’s a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding"
 - "Visual Encodings for Networks with Multiple Edge Types"
