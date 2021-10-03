@@ -21,4 +21,5 @@ publications:
 ---
 
 
-Use our [interactive browser](https://geonetworks.github.io/) to can interactively explore the geospatial network visualization techniques categorised in our review paper.
+<!-- Use our [interactive browser](https://geonetworks.github.io/) to can interactively explore the geospatial network visualization techniques categorised in our review paper.
+ -->
