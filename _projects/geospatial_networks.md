@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Geospatial Networks
+title: Geographic Visualization
 image: figures/schoettler2021geonetworks.png
 description: Survey on geospatial networks. [geonetworks.github.io](https://geonetworks.github.io).
 people:
