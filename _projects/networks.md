@@ -6,7 +6,7 @@ description:
 people:
 - Benjamin Bach
 - James Scott-Brown
-- Sarah Schoettler 
+- Sarah Schöttler 
 publications:
 - "Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies"
 - "Visualizing and Interacting with Geospatial Networks: A Survey and Design Space"
