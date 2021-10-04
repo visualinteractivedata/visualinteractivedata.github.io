@@ -4,7 +4,7 @@ title: Geographic Visualization
 image: figures/schoettler2021geonetworks.png
 description: Survey on geospatial networks. [geonetworks.github.io](https://geonetworks.github.io).
 people:
-- Sarah Schoettler 
+- Sarah Schöttler 
 - Devanjan Bhattacharya
 - Tobias Kauer
 - Benjamin Bach
