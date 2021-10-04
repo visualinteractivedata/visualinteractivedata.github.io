@@ -16,7 +16,9 @@ layout: default
 
 <ul>
     {% for person in page.people %}
-    <li>{{person}} (<a href="{{site.data.people[person]['Google Scholar']}}">Google Scholar</a>)</li>
+    <li>{{person}} 
+    {% if site.data.people[person]['Google Scholar'] %}(<a href="{{site.data.people[person]['Google Scholar']}}">Google Scholar</a>){% endif %}
+    </li>
     {% endfor %}
 </ul>
 
