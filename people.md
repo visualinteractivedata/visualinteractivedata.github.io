@@ -1,6 +1,6 @@
 ---
 layout: people
-title: "People | visualinteractivedata.github.io"
+title: People
 ---
 
 ## Alumni
