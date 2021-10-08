@@ -1,16 +1,22 @@
-<tr>
-        <td style="vertical-align:top;width:100px;"><img src="{{include.person[1].Image}}"/></td>
-        <td style="vertical-align:top;">
-            {% if include.person[1]['Personal Site'] %}
-            <b><a href="{{include.person[1]['Personal Site']}}">{{include.person[0]}}</a></b>,
-            {% else %}
-            <b>{{include.person[0]}}</b>,
-            {% endif %}
-            {{include.person[1].Bio}}
-            <br/>
+<!-- <tr>
+    <td style="vertical-align: top; width: 100px;"> -->
+<div class="personWrapper">
+    <div class="personImage">
+        <img src="{{include.person[1].Image}}" />
+    </div>
 
-            {% if include.person[1]['Google Scholar'] %}
-            <a href="{{include.person[1]['Google Scholar']}}">Google Scholar</a>
-            {% endif %}
-        </td>
-    </tr>
+    <div class="personText">
+        {% if include.person[1]['Personal Site'] %}
+        <b
+            ><a href="{{include.person[1]['Personal Site']}}"
+                >{{include.person[0]}}</a
+            ></b
+        >, {% else %} <b>{{include.person[0]}}</b>, {% endif %}
+        {{include.person[1].Bio}}
+        <br />
+
+        {% if include.person[1]['Google Scholar'] %}
+        <a href="{{include.person[1]['Google Scholar']}}">Google Scholar</a>
+        {% endif %}
+    </div>
+</div>

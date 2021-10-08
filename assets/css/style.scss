@@ -42,17 +42,26 @@ img[alt~="people"] {
 	display: inline-block;
 }
 
-.pubWrapper {
+.pubWrapper,
+.personWrapper {
 	display: grid;
-	grid-template-columns: 40% 1fr;
 	grid-column-gap: 10px;
 	margin-bottom: 15px;
 }
 
-.pubImage {
+.pubWrapper {
+	grid-template-columns: 40% 1fr;
+}
+.personWrapper {
+	grid-template-columns: 20% 1fr;
+}
+
+.pubImage,
+.personImage {
 	grid-column: 1;
 }
 
-.pubText {
+.pubText,
+.personText {
 	grid-column: 2;
 }
