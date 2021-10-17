@@ -19,3 +19,7 @@ collections:
       - immmersive_analytics.md
       - networks.md
       - geographic.md
+  vishubprojects:
+    output: true
+    order:
+      - datafairs.md
