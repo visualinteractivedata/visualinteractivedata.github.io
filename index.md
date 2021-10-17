@@ -23,10 +23,24 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 [More news...](news.html)
 
 <!-- to make the nav link work -->
-<h1 id="projects">Topics & Projects</h1>
+
+<h1 id="projects">VisHub Projects</h1>
+
+{% for vishubproject in site.vishubprojects %}
+  {% if vishubproject.link %}
+  <h3><a href="{{vishubproject.link }}">{{ vishubproject.title }}</a></h3>
+  {% else %}
+  <h3><a href="{{vishubproject.url }}">{{ vishubproject.title }}</a></h3>  
+  {% endif %}
+
+  <p>{{ vishubproject.description | markdownify }}</p>
+{% endfor %}
+
+
+<h1 id="projects">Research Topics & Projects</h1>
 
 {% for project in site.projects %}
-  <h2><a href="{{project.url }}">{{ project.title }}</a></h2>
+  <h3><a href="{{project.url }}">{{ project.title }}</a></h3>
 
 <!--   {% if project.image %}
   <a href="{{project.url }}"><img src="{{project.image}}" /></a>
