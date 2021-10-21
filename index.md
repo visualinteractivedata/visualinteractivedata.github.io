@@ -23,8 +23,7 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 [More news...](news.html)
 
 <!-- to make the nav link work -->
-
-<h1 id="projects">Outreach Activities</h1>
+<h1 id="community-activities">Community Activities</h1>
 
 {% for vishubproject in site.vishubprojects %}
   {% if vishubproject.link %}
@@ -35,7 +34,6 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 
   <p>{{ vishubproject.description | markdownify }}</p>
 {% endfor %}
-
 
 <h1 id="projects">Research Topics & Projects</h1>
 
