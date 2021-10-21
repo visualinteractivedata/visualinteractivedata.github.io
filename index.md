@@ -24,7 +24,7 @@ We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://w
 
 <!-- to make the nav link work -->
 
-<h1 id="projects">VisHub Projects</h1>
+<h1 id="projects">Outreach Activities</h1>
 
 {% for vishubproject in site.vishubprojects %}
   {% if vishubproject.link %}
