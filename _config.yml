@@ -13,7 +13,6 @@ collections:
       - education.md
       - peace_analytics.md
       - covid19_vis.md
-      - engagement.md
       - clinical_guidelines.md
       - data_comics.md
       - immmersive_analytics.md
@@ -22,4 +21,7 @@ collections:
   vishubprojects:
     output: true
     order:
+      - professionals_course.md
       - datafairs.md
+      - datavismeetup.md
+      - chartclinic.md
