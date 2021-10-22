@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Online Course Data Visualization for Professionals.
+description: A 10-week long online course on data visualization for working professionals. The course is build around lectures, live tutorials, talks, Q&A sessions, individual check-in sessions with the course organizers, and project work. Each participant can join with their own data set and develop their own visualization project along the structured guidance and feedback along the 10 weeks.
 image: figures/datavis-course.png
-description: "[datavis-online.github.io](https://datavis-online.github.io/)"
 people:
 - Benjamin Bach
 - Aba-Sah Dadzie
