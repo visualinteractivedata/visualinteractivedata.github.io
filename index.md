@@ -10,6 +10,7 @@ The **VisHub** is an interdisciplinary research lab researching creative methods
 We are heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). [Get in touch with us](mailto:bbach@ed.ac.uk) if you want to become involved. Likewise, every last Friday of the month, we're running a [Chart Clinic](chart-clinic.html) for staff and graduat(e/ing) students of the University.
 
 # News
+- October 2021:_ We just launched a visualization as a retrospective on the pandemic. Please, help our research by exploring the interface and participating in the research: [**corona memories**](https://uclab.fh-potsdam.de/coronamemories) (In collaboration with the [Urban Complexity Lab](https://uclab.fh-potsdam.de/))
 - _September 2021:_ [Uta Hinrichs](http://www.utahinrichs.de) joins the VisHub as a Reader. Welcome Uta!!!
 - _May 2021:_ Starting the 2nd turn of our [Online Data Visualization Course for Professionals](https://datavis-online.github.io) on May 4th.
 -  _April 2020:_ >> **WE'RE HIRING** for 3(!) postdoc and engineer positions on [networks, storytelling and vis literacy](jobs-viscovery.html) as well as [vis in health](jobs-health.html).
