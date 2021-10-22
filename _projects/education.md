@@ -18,6 +18,7 @@ publications:
 - "Towards Open-World Scenarios: Teaching the Social Side of Data Science"
 - "The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools"
 - "Cheat Sheets for Data Visualization Techniques"
+- "Understanding the Use of The Vistorian: Complementing Logs with Context Mini-Questionnaires"
 ---
 
 Visualization literacy is the ability to read, write, and create graphical representations of data using digital or physical artefacts. This is a key asset for any informed use and critical engagement with visual representations of data in every domain of the society; whether this includes the presentation of epidemiological data and model outcomes, the communication of government demographics data and social inequalities, dissemination of research findings, or to allow the public to understand timely issues with climate change or peace and conflict. However, understanding the potential of visualization, mastering its methods and tools as well as critically engaging with data and visualizations can be a challenge to large parts of the population and workforce. As visualization researchers and educators who engage in continuous professional development, public outreach, and applied research projects, we know about these challenges first-hand. 
