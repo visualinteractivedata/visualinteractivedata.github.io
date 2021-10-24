@@ -5,16 +5,11 @@
 
 	<div class="pubText">
 		<p>
-			<a
-        {% if vishubproject.link %}
-				href="{{ include.item.link }}"
-				{% else %}
-				href="{{ include.item.url }}"
-        {% endif %}
-        style="font-weight: bold;"
-				target="_blank"
-				> {{ include.item.title }}</a> 
-        {{ vishubproject.description | markdownify }}
+			<a href="{{ include.item.url }}"
+        		style="font-weight: bold;"
+			target="_blank"
+			>{{ include.item.title }}</a> 
+        		{{ include.item.description | markdownify }}
 		</p>
 	</div>
 </div>
