@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Engagement with Visualization
-image: 
+image: figures/kauer-cityvis-workshop-2019.png
 description: Understanding the public's engagement with data visualizations. 
 people:
 - Tobias Kauer
