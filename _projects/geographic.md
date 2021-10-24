@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Geographic Visualization
-image: figures/schoettler2021geonetworks.png
+image: figures/lekschas2020scalable.png
 description: Survey on geospatial networks. [geonetworks.github.io](https://geonetworks.github.io).
 people:
 - Sarah Schöttler 
