@@ -12,13 +12,13 @@ collections:
     output: true
     order:
       - education.md
-      - peace_analytics.md
-      - covid19_vis.md
-      - clinical_guidelines.md
-      - data_comics.md
-      - immmersive_analytics.md
       - networks.md
+      - covid19_vis.md
+      - data_comics.md
       - geographic.md
+      - immmersive_analytics.md
+      - peace_analytics.md
+      - clinical_guidelines.md
   vishubprojects:
     output: true
     order:
