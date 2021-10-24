@@ -28,14 +28,11 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
   <p>{{ vishubproject.description | markdownify }}</p>
 {% endfor %}
 
+
 <h1 id="projects">Research Topics & Projects</h1>
 
 {% for project in site.projects %}
-  <h3><a href="{{project.url }}">{{ project.title }}</a></h3>
-
-<!--   {% if project.image %}
-  <a href="{{project.url }}"><img src="{{project.image}}" /></a>
-  {% endif %}
- -->
-  <p>{{ project.description | markdownify }}</p>
+{% include projectpreview.html item=project %}
+<!--   <h3><a href="{{project.url }}">{{ project.title }}</a></h3>
+  <p>{{ project.description | markdownify }}</p> -->
 {% endfor %}
