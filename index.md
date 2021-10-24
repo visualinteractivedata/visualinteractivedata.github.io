@@ -32,7 +32,7 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 <h1 id="projects">Research Topics & Projects</h1>
 
 {% for project in site.projects %}
-{% include projectpreview.html item=project %}
-<!--   <h3><a href="{{project.url }}">{{ project.title }}</a></h3>
-  <p>{{ project.description | markdownify }}</p> -->
+<!-- {% include projectpreview.html item=project %} -->
+  <h3><a href="{{project.url }}">{{ project.title }}</a></h3>
+  <p>{{ project.description | markdownify }}</p>
 {% endfor %}
