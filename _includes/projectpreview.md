@@ -1,16 +1,22 @@
 <div class="pubWrapper">
 	<div class="pubImage">
-		<img src="{{ include.item.image }}"/>
+		<img src="/figures/{{ include.item.img }}" alt="{{ include.item.img_alt }}" />
 	</div>
 
 	<div class="pubText">
 		<p>
-			<a 
-			   	href="{{ include.item.url }}"
-        			style="font-weight: bold;"
+			<a
+				href="{{ include.item.paperlink }}"
+				style="font-weight: bold;"
 				target="_blank"
 				>{{ include.item.title }}</a
-			> {{ include.item.description | markdownify }}
+			>: {{ include.item.authors }}.
+			<i>{{ include.item.journal_conf }}.</i>
+			({{ include.item.year}}). {% if include.item.weblink %}
+			<a href="{{ include.item.weblink }}" target="_blank">[WEB]</a>
+			{% endif %} {% if include.item.videolink %}
+			<a href="{{ include.item.videolink }}" target="_blank">[VIDEO]</a>
+			{% endif %}
 		</p>
 	</div>
 </div>
