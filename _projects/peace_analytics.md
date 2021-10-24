@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Peace & Conflict Analysis
-image: 
+image: figures/havens2019paxvis.png
 description: Providing visualizations and analytical capabilities to track, explore, and communicate data around peace and conflict.
 people:
 - Zezhong Wang
