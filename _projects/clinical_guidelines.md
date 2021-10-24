@@ -6,6 +6,7 @@ description: Applying a combination of natural language processing and data visu
 people:
 - James Scott-Brown
 - Benjamin Bach
+- Kenneth Baillie
 ---
 
 In this project we are applying a combination of natural language processing and data visualisation to UK hospital guidelines for treating COVID-19 patients.
