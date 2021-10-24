@@ -20,12 +20,11 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 
 {% for vishubproject in site.vishubprojects %}
   {% if vishubproject.link %}
-  <h3><a href="{{vishubproject.link }}">{{ vishubproject.title }}</a></h3>
+  <p><a href="{{vishubproject.link }}" style="fontsize:1.2em;">{{ vishubproject.title }}</a>
   {% else %}
-  <h3><a href="{{vishubproject.url }}">{{ vishubproject.title }}</a></h3>  
+  <a href="{{vishubproject.url }}" style="fontsize:1.2em;">{{ vishubproject.title }}</a>  
   {% endif %}
-
-  <p>{{ vishubproject.description | markdownify }}</p>
+  {{ vishubproject.description | markdownify }}</p>
 {% endfor %}
 
 
