@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Visualization Literacy and Education
-image: figures/vistools.png
+image: figures/zheng2021sketchnote.png
 description: Designing visualization activities and teaching resources for education with visualization.
 people:
 - Benjamin Bach
