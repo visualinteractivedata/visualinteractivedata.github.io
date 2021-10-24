@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Data Comics
-image: figures/datacomics.png
+image: figures/bach2017emerging.png
 description: Data Comics combine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material
 people:
 - Zezhong Wang
