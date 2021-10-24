@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Education and Engagement
+title: Visualization Literacy and Education
 image: figures/vistools.png
-description: Designing visualization activities and teaching resources for education with visualization. [vistools.net](http://vistools.net)
+description: Designing visualization activities and teaching resources for education with visualization.
 people:
 - Benjamin Bach
 - Zezhong Wang
