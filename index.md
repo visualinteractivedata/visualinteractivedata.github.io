@@ -16,6 +16,16 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 [More news...](news.html)
 
 <!-- to make the nav link work -->
+
+
+<h1 id="projects">Research Topics & Projects</h1>
+
+{% for project in site.projects %}
+{% include projectpreview.html item=project %}
+<!--   <h3><a href="{{project.url }}">{{ project.title }}</a></h3>
+  <p>{{ project.description | markdownify }}</p> -->
+{% endfor %}
+
 <h1 id="community-activities">Community Activities</h1>
 
 {% for vishubproject in site.vishubprojects %}
@@ -25,13 +35,4 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
   <a href="{{vishubproject.url }}" style="fontsize:1.2em;">{{ vishubproject.title }}</a>  
   {% endif %}
   {{ vishubproject.description | markdownify }}</p>
-{% endfor %}
-
-
-<h1 id="projects">Research Topics & Projects</h1>
-
-{% for project in site.projects %}
-{% include projectpreview.html item=project %}
-<!--   <h3><a href="{{project.url }}">{{ project.title }}</a></h3>
-  <p>{{ project.description | markdownify }}</p> -->
 {% endfor %}
