@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 logo: "figures/logo-j.png"
 repository: visualinteractivedata/visualinteractivedata.github.io
 github: [metadata]
+gems: ["jemoji"]
 relative_links:
   enabled: true
   collections: true
