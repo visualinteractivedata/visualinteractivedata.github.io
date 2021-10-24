@@ -5,11 +5,12 @@
 
 	<div class="pubText">
 		<p>
-			<a href="{{ include.item.url }}"
-        		style="font-weight: bold;"
-			target="_blank"
-			>{{ include.item.title }}</a> 
-        		{{ include.item.description | markdownify }}
+			<a 
+			   	href="{{ include.item.url }}"
+        			style="font-weight: bold;"
+				target="_blank"
+				>{{ include.item.title }}</a
+			> {{ include.item.description | markdownify }}
 		</p>
 	</div>
 </div>
