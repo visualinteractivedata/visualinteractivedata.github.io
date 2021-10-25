@@ -17,7 +17,7 @@ You __need__ to pass the [basic training in data protction](http://www.ed.ac.uk/
 
 ### 2. A consent form which will be signed by any of your participants
 
-See an example [here](material/Consent_form_Study_Visualisation_Cheatsheet.pdf)
+See an example [here](/material/Consent_form_Study_Visualisation_Cheatsheet.pdf)
 
 ### 3. A 100 word description
 
