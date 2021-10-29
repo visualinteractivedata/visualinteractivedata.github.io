@@ -6,11 +6,13 @@ description: Designing visualization activities and teaching resources for educa
 people:
 - Benjamin Bach
 publications:
+- "Grand Challenges in Immersive Analytics"
 - "DXR: A Toolkit for Building Immersive Data Visualizations"
 - "IATK: An Immersive Analytics Toolkit"
 - "Multisensory immersive analytics"
 - "Drawing into the AR-CANVAS: Designing Embedded Visualizations for Augmented Reality"
 - "A Design Space for Spatio-Data Coordination: Tangible Interaction Devices for Immersive Information Visualisation"
+- "The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?"
 ---
 
 <!-- The **[Edinburgh VisHub](http://edinburghvishub.github.io)** is an university-wide lab for data visualization equipment to foster research, collaboration, learning, and outreach.
