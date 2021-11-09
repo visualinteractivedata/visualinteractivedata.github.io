@@ -146,6 +146,7 @@ Veronika Dimitrova;
 * Workshop on Machine Learning and Visualization (EuroVis) 2020, 2021
 * Vis4DH 2020
 * Computer and Graphics 2021
+* IEEE VR: 2019, 2021
 
 ## Invited Talks
 
