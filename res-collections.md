@@ -21,13 +21,15 @@
 
 ## Data Visualization Collections
 * [Flowing Data](https://flowingdata.com)
+* [NYTimes 2020: The year in visual stories](https://www.nytimes.com/interactive/2020/12/30/us/2020-year-in-graphics.html)
+* [NYTimes Kantar Nominations](https://www.informationisbeautifulawards.com/news/118-the-nyt-s-best-data-visualizations-of-the-year)
 * [Visual Complexity](http://www.visualcomplexity.com/vc)
 * [Information is Beautiful](http://www.informationisbeautiful.net)
 * [Open Processing](https://www.openprocessing.org/collection/1122)
 * [Dear Data](http://www.dear-data.com)
 * [Data Visualization catalogue](http://www.datavizcatalogue.com/index.html)
 * [Information Aesthetics](http://infosthetics.com/)
-* [Information is Beautiful Award 2017 shorlist](https://www.informationisbeautifulawards.com/showcase?action=index&award=2017&controller=showcase&page=1&pcategory=short-list&type=awards)
+* [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase?award=2019&type=awards)
 * [DataVizProject: Neat collection of a set of common charts](https://www.fastcodesign.com/90143507/a-wikipedia-for-data-visualizations-is-here)
 * [Chartmaker: comparative table which visualization is suppored in which tools](http://chartmaker.visualisingdata.com/)
 * [Graphicacy: Brief tool overview and pointer to some visualization tools](http://graphicacy.com/contact/)
@@ -44,3 +46,4 @@
 * [You draw it](https://www.nytimes.com/interactive/2017/04/14/upshot/drug-overdose-epidemic-you-draw-it.html)
 * [You draw it- How Family Income Predicts Children’s College Chances](https://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances)
 * [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
+* [Hans Rosling's TED Talk](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en)
