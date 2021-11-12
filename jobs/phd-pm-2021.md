@@ -52,12 +52,15 @@ important outcome in modern family-orientated PCC delivery.
 [1] Bronner, M.B., Peek, N., Knoester, H., Bos, A.P., Last, B.F. and Grootenhuis, M.A., 2010.
 Course and predictors of posttraumatic stress disorder in parents after pediatric intensive care
 treatment of their child. Journal of pediatric psychology, 35(9), pp.966-974.
+
 [2] Bach, B., Wang, Z., Farinella, M., Murray-Rust, D. and Henry Riche, N., 2018, April. Design
 patterns for data comics. In Proceedings of the 2018 chi conference on human factors in
 computing systems (pp. 1-12).
+
 [3] Wang, Z., Sundin, L., Murray-Rust, D. and Bach, B., 2020, April. Cheat sheets for data
 visualization techniques. In Proceedings of the 2020 CHI Conference on Human Factors in
 Computing Systems (pp. 1-13).
+
 [4] Wang, Z., Wang, S., Farinella, M., Murray-Rust, D., Henry Riche, N. and Bach, B., 2019,
 May. Comparing effectiveness and engagement of data comics and infographics. In
 Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-12).
