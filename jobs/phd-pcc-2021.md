@@ -48,14 +48,14 @@ important outcome in modern family-orientated PCC delivery.
 
 ## Supervisor Team
 
-**Dr Benjamin Bach** is an expert in data visualization and human computer interaction, and
+**[Dr Benjamin Bach](https://vishub.net/bach.html)** is an expert in data visualization and human computer interaction, and
 one of the first creators of data comics, and he has extensive experience of working with a
 variety of audiences.
 
-**Dr Areti Manataki** is an expert in medical informatics, with years of experience in the
+**[Dr Areti Manataki](https://risweb.st-andrews.ac.uk/portal/en/persons/areti-manataki(04f6776c-4c5a-4823-a749-cc601c5342e8).html)** is an expert in medical informatics, with years of experience in the
 computational modelling and analysis of care pathways.
 
-**Dr Milly** Lo is an expert in paediatric intensive care and data-driven improvement research,
+**[Dr Milly Lo](https://www.ed.ac.uk/usher/anaesthesia/team-members/researchers/dr-tsz-yan-milly-lo)** is an expert in paediatric intensive care and data-driven improvement research,
 and will provide clinical advice and arrange for data access. 
 
 ## References
