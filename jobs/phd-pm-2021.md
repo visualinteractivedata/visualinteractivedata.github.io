@@ -1,4 +1,4 @@
-# PhD in Data Comics for Precision Medicine
+# PhD in Data Comics for Paediatric Critical Care
 
 ## Background
 
@@ -7,12 +7,15 @@ children’s lives. However, having a child needing critical care is a stressful
 because their child suddenly requires different technologies within paediatric intensive care
 units (PICU) to survive. This often results in persistent post-traumatic stress syndrome in
 parents even after the child has recovered from critical illness [1].
+
 One common reason PICU is such a stressful environment for parents is because PCC
 patients follow complex pathways, from the moment they are admitted to the PICU to the time
 that they are discharged. These pathways are different for each patient and depending on their
 severity of illness, they may require different levels of organ support. Parents find it
 particularly hard to make sense of and navigate these complex pathways, causing them stress
-and anxiety. Regardless of the level of organ support a PCC patient requires, the technologies
+and anxiety.
+
+Regardless of the level of organ support a PCC patient requires, the technologies
 used in PICU routinely generate large volumes of data (e.g. bedside physiological data
 including heart rate, blood pressure, mechanical ventilator data, etc.) which inform the design
 of personalized care pathways. However, communicating this complex specialist information in
