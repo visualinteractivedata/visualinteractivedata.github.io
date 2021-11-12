@@ -44,7 +44,7 @@ PICU may ultimately help to reduce parental anxiety and emotional distress. This
 important outcome in modern family-orientated PCC delivery.
 
 
-## References:
+## References
 
 [1] Bronner, M.B., Peek, N., Knoester, H., Bos, A.P., Last, B.F. and Grootenhuis, M.A., 2010.
 Course and predictors of posttraumatic stress disorder in parents after pediatric intensive care
