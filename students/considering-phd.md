@@ -20,7 +20,7 @@ Start the process of planning for a PhD as early as possible. For example, if yo
 * you will explore if you are fit for research and want to work in reserch, 
 * it will help us better know you, 
 * we will have the opportunity to develop a topic (which can take a lot of time and reading). 
-* (**most important**) we would try publish your work to give you a publication which will help you with your [PhD application](https://vishub.net/jobs/index.html)
+* (**most important**) we would try publish your work to give you a publication which will help you with your [PhD application](https://vishub.net/jobs/index.html).
 
 
 ## Funding
