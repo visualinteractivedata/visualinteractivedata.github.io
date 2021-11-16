@@ -3,9 +3,7 @@
 ## Open PhD positions
 
 * [Data Comics in Pediadric Intensive Care](phd-pcc-2021.html)
-* Competitive __[PhD scholarships](phd-edinburgh.html)__ are available **all year around**. 
-
-Generally, we are always interested in ambitious students in all areas of our [research](https://vishub.net/index#projects). Get in touch with us to discuss. 
+* Competitive __[PhD scholarships](phd-edinburgh.html)__ are available **all year around** through the School of Informatics or the [centre for doctoral training in Natual Language Processing](https://web.inf.ed.ac.uk/cdt/natural-language-processing). We are always interested in ambitious students in all areas of our [research](https://vishub.net/index#projects). Get in touch with us to discuss. 
 
 ## Other Positions
 
