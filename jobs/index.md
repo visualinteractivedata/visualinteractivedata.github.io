@@ -1,16 +1,16 @@
 # Work with us
 
-## PhD positions
+## Open PhD positions
 
-* Data Comics in Pedia
-* Competitive __[PhD scholarships](phd-edinburgh.html)__ are available in November-March, but external funding might be around all year. 
-* Other topics include
-    * network visualization 
-    * education in visualization 
-    * .. 
+* [Data Comics in Pediadric Intensive Care](phd-pcc-2021.html)
+* Competitive __[PhD scholarships](phd-edinburgh.html)__ are available **all year around**. 
 
-## Others
+Generally, we are always interested in ambitious students in all areas of our [research](https://vishub.net/index#projects). Get in touch with us to discuss. 
 
-<!--
-* __[PhD scholarship](phd-graphics-medicine.html)__ in Visualising Complex Care Pathways in Later Life (Deadline: end Jan 2021, Start: Sept 2021)
--->
+## Other Positions
+
+* **Data visualization desginer to help with visualization** of [peace and conflict](https://vishub.net/projects/peace_analytics.html). This includes dashboards, network visualizations, infographics, interactives, and more. Strict requirement is good knowldge of D3, good visual design skill and a strong interest in international politics and human-centered design. The job is open from now until end of March but an extension of funding has been requested. The projet runs in collaboration with the [Political Settlements Research Programme](https://www.politicalsettlements.org) at the School of Law. 
+
+## Internships and collaborations
+
+We always welcome ambitious and enthusistaic MSc and PhD students to join our research across all areas of our [research](https://vishub.net/index#projects) and to work with our PhD students and postdocs. In some cases, there might be project money available. 
