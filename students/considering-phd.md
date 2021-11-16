@@ -9,7 +9,7 @@ We always have a list of topics. Either these are open topics related to our [re
 
 To come up with a topic, we advise you to 
 * study our [research](https://vishub.net/index#projects) and [publications](https://vishub.net/publications). 
-* read a lot!
+* read research papers. 
 * try to define a small yet tangible project that we can start with and that helps exploring the bigger picture. For example, if you are intereated in data physicalizations, try to define and illustrate a small problem you see and that you can study in, e.g., 6 months time.
  
 
@@ -25,10 +25,15 @@ Start the process of planning for a PhD as early as possible. For example, if yo
 
 ## Funding
 
-To start your PhD, you/we need full 3 years of funding for your stipend and your tuition fees. Tuition fees vary depending on your nationality (UK or non-UK) and are higher for non-UK nationals.
-
-
+To start your PhD, you/we need full 3 years of funding for your stipend and your tuition fees. Tuition fees vary depending on your nationality (UK or non-UK) and are higher for non-UK nationals. Get in touch with us to understand funding. Also, reach out yourself to funding from organizations or your government.
 
 ## Supervision and group activities
 
 You need at least 2 supervisors for your PhD. One will be one of the [faculty](https://vishub.net/people) of the VisHub. The other one can be from anywhere in the world and should match the expertise in your topic. Please feel free to suggest possible supervisors and discuss with us. 
+
+If you are accepted as a PhD student, we usually meet at least once a week for 1h. That may vary with priorities and tasks. 
+
+You will join our weekly group meetings where we discuss ongoing research, discuss papers, and give practice talks. You will also join our monthly PhD seminar where we discuss research methodology.
+
+
+
