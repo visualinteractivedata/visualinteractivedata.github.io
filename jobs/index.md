@@ -13,4 +13,4 @@ Generally, we are always interested in ambitious students in all areas of our [r
 
 ## Internships and collaborations
 
-We always welcome ambitious and enthusistaic MSc and PhD students to join our research across all areas of our [research](https://vishub.net/index#projects) and to work with our PhD students and postdocs. In some cases, there might be project money available. 
+We always welcome ambitious and enthusistaic MSc and PhD students to join our research across all areas of our [research](https://vishub.net/index#projects) and to work with our PhD students and postdocs. In some cases, there might be project money available. Get in touch with us to learn about possible projects or propose your own project. 
