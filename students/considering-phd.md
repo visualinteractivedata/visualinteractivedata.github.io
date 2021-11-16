@@ -35,5 +35,7 @@ If you are accepted as a PhD student, we usually meet at least once a week for 1
 
 You will join our weekly group meetings where we discuss ongoing research, discuss papers, and give practice talks. You will also join our monthly PhD seminar where we discuss research methodology.
 
+You are generally free to collaborate with anyone in the group and outside and we are always open to collaborations. However, please discuss with your supervisors.
+
 
 
