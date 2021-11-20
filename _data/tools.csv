@@ -1,5 +1,5 @@
 i,title, url, image, description
-,VisTools, http://vistools.net, ridley2020vistools.png, A browser for visualization tools providing facetted browsing and user feedback.
+,VisTools, http://vistools.net, ridley2020vistools.png, "A browser for visualization tools providing facetted browsing and user feedback."
 ,Vistorian, http://vistorian.net, Xie2020measureflow.png, "A suite of visualizations for dynamic, geographic, and multivariate networks."
 ,Interactive Data Comics, https://interactivedatacomics.github.io, , "Create interactive data comics with a JSON specification."
 ,Geographic Network Survey, https://geonetworks.github.io, ,"Browse visualizations for geographic networks."
