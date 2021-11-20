@@ -1,4 +1,5 @@
-# Re-thinking Visualization as Part of Humanities Research ### PhD position
+# Re-thinking Visualization as Part of Humanities Research 
+#### PhD position
 
 ## Background
 
@@ -42,7 +43,7 @@ supervisor(s) from the humanities will be invited to join the supervisory team o
 - Strong computer programming skills   
 
 ## How to Apply
-The start date of this position is flexible. If you are are interested in this position and would like to get more information about the project and funding opportunities, please get in touch with [Dr Uta Hinrichs] via email: uhinrich[at]edi.ac.uk. You can also directly apply here: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2021&id=491
+The start date of this position is flexible. If you are are interested in this position and would like to get more information about the project and funding opportunities, please get in touch with [Dr Uta Hinrichs] via email: uhinrich[at]edi.ac.uk. You can also directly apply [here] (https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2021&id=491).
 
 ## References
 [1] Johanna Drucker. [Humanities Approaches to Graphical Display](http://www.digitalhumanities.org//dhq/vol/5/1/000091/000091.html). 
