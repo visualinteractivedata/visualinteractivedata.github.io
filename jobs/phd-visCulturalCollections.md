@@ -43,8 +43,7 @@ The start date of this position is flexible. If you are are interested in this p
 
 ## References
 [1] Uta Hinrichs, Simon Butscher, Jens Müller and Harald Reiterer. Diving in at the Deep End: The Value of Alternative In-Situ Approaches for 
-Systematic Library Search. In Proceedings of the ACM SIGCHI Conference Conference on Human Factors in Computing Systems (CHI'16), pages 4634-4646, 
-2016. DOI:[10.1145/2858036.2858549](https://doi.org/10.1145/2858036.2858549). Honourable Mention Award.
+Systematic Library Search. In Proceedings of the ACM SIGCHI Conference Conference on Human Factors in Computing Systems (CHI'16), pages 4634-4646, 2016. DOI:[10.1145/2858036.2858549](https://doi.org/10.1145/2858036.2858549). 
 
 [2] Alice Thudt, Uta Hinrichs and Sheelagh Carpendale. The Bohemian Bookshelf: Supporting Serendipitous Book Discoveries through 
 Information Visualization. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI’12), pp. 1461-1470, 2012. 
