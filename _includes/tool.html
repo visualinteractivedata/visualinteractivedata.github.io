@@ -1,0 +1,16 @@
+<div class="pubWrapper">
+	<div class="pubImage">
+		<img src="/figures/{{ include.item.img }}" alt="{{ include.item.img_alt }}" />
+	</div>
+
+	<div class="pubText">
+		<p>
+			<a
+				href="{{ include.item.url }}"
+				style="font-weight: bold;"
+				target="_blank"
+				>{{ include.item.title }}</a>
+        {{ include.item.description }}
+     </p>
+	</div>
+</div>
