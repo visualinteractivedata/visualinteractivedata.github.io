@@ -35,12 +35,11 @@ Since this is an interdisciplinary research project, additional
 supervisor(s) from the humanities will be invited to join the supervisory team once a PhD candidate is selected.
 
 ## Qualifications
-- Bachelor’s or master's degree in CS, Design, or Digital Humanities. Interdisciplinary background.
+- Bachelor’s or master's degree in CS, Design, or Digital Humanities. An interdisciplinary background is not essential but desirable.
 - Experience in visualization, visual design, and/or interface design
 - Experience in conducting qualitative research, e.g., interviews, observational studies, etc...
-- Computer programming skills, in particular, developing web-based visualizations and interfaces 
-- Strong interest in interdisciplinary research 
-- Strong computer programming skills   
+- Computer programming skills are desirable, in particular, developing web-based visualizations and interfaces 
+- Strong interest in interdisciplinary research   
 
 ## How to Apply
 The start date of this position is flexible. If you are are interested in this position and would like to get more information about the project and funding opportunities, please get in touch with Dr Uta Hinrichs via email: [uhinrich[at]edi.ac.uk](mailto:uhinrich@ed.ac.uk). You can also directly apply [here](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2021&id=491).
