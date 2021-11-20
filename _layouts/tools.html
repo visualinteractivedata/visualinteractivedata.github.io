@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign grouped = site.data.tools | group_by: 'year' %}
+{% assign grouped = site.data.tools | sort_by: 'title' %}
 
 <ul class="menu">
 	{% for yr in grouped %}
