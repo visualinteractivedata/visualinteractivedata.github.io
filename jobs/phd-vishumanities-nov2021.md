@@ -1,5 +1,5 @@
-# PhD position
 # Re-thinking Visualization as Part of Humanities Research
+### PhD position
 
 ## Background
 
