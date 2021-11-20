@@ -25,7 +25,7 @@ focus on literary studies) to identify current practices and potential for innov
 be followed by design explorations and prototyping that will investigate how to complement 
 traditional practices in humanities research through visualization. 
 
-#Supervisory Team
+## Supervisory Team
 The main supervisor on this project will be [Dr Uta Hinrichs](http://www.utahinrichs.de) who is an expert in 
 data visualization and human computer interaction. Her research specifically focuses on research methods at 
 the intersection of visualization and (digital) humanities. 
@@ -33,10 +33,21 @@ the intersection of visualization and (digital) humanities.
 Since this is an interdisciplinary research project, additional 
 supervisor(s) from the humanities will be invited to join the supervisory team once a PhD candidate is selected.
 
-## References
+## Qualifications
+- Bachelor’s or master's degree in CS, Design, or Digital Humanities. Interdisciplinary background.
+- Experience in visualization, visual design, and/or interface design
+- Experience in conducting qualitative research, e.g., interviews, observational studies, etc...
+- Computer programming skills, in particular, developing web-based visualizations and interfaces 
+- Strong interest in interdisciplinary research 
+- Strong computer programming skills   
 
+# How to Apply
+The start date of this position is flexible. If you are are interested in this position and would like to get more information about the project and funding opportunities, please get in touch with [Dr Uta Hinrichs] via email: uhinrich[at]edi.ac.uk. You can also directly apply here: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2021&id=491
+
+## References
 [1] Johanna Drucker. [Humanities Approaches to Graphical Display](http://www.digitalhumanities.org//dhq/vol/5/1/000091/000091.html). 
 Digital Humanities Quarterly (DHQ), 5(1), 2011.
+
 [2] Uta Hinrichs, Stefania Forlini, Bridget Moynihan. In Defense of Sandcastles: Research Thinking through Visualization 
 in Digital Humanities. Digital Scholarship in the Humanities (DSH), Volume 34, Issue Supplement_1, December 2019, 
 Pages i80–i99 (published Oct. 2018). DOI: [10.1093/llc/fqy051](https://doi.org/10.1093/llc/fqy051)
