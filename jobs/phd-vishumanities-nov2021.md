@@ -38,7 +38,7 @@ supervisor(s) from the humanities will be invited to join the supervisory team o
 - Bachelor’s or master's degree in CS, Design, or Digital Humanities. An interdisciplinary background is not essential but desirable.
 - Experience in visualization, visual design, and/or interface design
 - Experience in conducting qualitative research, e.g., interviews, observational studies, etc...
-- Computer programming skills are desirable, in particular, developing web-based visualizations and interfaces 
+- Computer programming skills are highly desirable, in particular, developing web-based visualizations and interfaces 
 - Strong interest in interdisciplinary research   
 
 ## How to Apply
