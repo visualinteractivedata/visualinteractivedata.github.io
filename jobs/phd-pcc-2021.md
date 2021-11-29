@@ -1,4 +1,4 @@
-# PhD in Data Comics for Pediatric Critical Care
+# PhD in Data Visualization and Visual Communication for Pediatric Care
 
 ## Background
 
