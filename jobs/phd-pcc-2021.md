@@ -1,10 +1,10 @@
-# PhD in Data Comics for Paediatric Critical Care
+# PhD in Data Comics for Pediatric Critical Care
 
 ## Background
 
-Paediatric critical care (PCC) is a highly valued specialist service that saves infants’ and
+Pediatric critical care (PCC) is a highly valued specialist service that saves infants’ and
 children’s lives. However, having a child needing critical care is a stressful event for parents
-because their child suddenly requires different technologies within paediatric intensive care
+because their child suddenly requires different technologies within pediatric intensive care
 units (PICU) to survive. This often results in persistent post-traumatic stress syndrome in
 parents even after the child has recovered from critical illness [1].
 
