@@ -58,6 +58,23 @@ computational modelling and analysis of care pathways.
 **[Dr Milly Lo](https://www.ed.ac.uk/usher/anaesthesia/team-members/researchers/dr-tsz-yan-milly-lo)** is an expert in paediatric intensive care and data-driven improvement research,
 and will provide clinical advice and arrange for data access. 
 
+## Requirements
+
+* A Masters/Bachelor degree in visualization, human-computer interaction, design informstics or equivalent. 
+* good illustration and graphics skills
+* good (web) programming skills
+* enthusiastic about reserach in visalization, communication, and human-computer interaction
+
+## Organization 
+
+* This is a 4-year, fully funded PhD
+* The successful candidate will be hosted by the (Center for Doctoral Training (CDT) in Precision Medicine)[https://www.ed.ac.uk/usher/precision-medicine]. You can find more information about the center on their website. 
+* Application deadline is **January 20**. You can find more information about the application process (online)[https://www.ed.ac.uk/usher/precision-medicine/app-process-eligibility-criteria].
+* Before you apply, please get in touch with us to discuss your application. Please send us an up-to-date CV and any links/videos/examples to work you have done. 
+* Applications are open to citizens of any nationality.
+* For specific elegibility criteria, also check the (website by the CDT)[https://www.ed.ac.uk/usher/precision-medicine/app-process-eligibility-criteria].  
+
+
 ## References
 
 [1] Bronner, M.B., Peek, N., Knoester, H., Bos, A.P., Last, B.F. and Grootenhuis, M.A., 2010.
