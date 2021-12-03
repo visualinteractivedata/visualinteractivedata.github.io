@@ -64,6 +64,7 @@ and will provide clinical advice and arrange for data access.
 * good illustration and graphics skills
 * good (web) programming skills
 * enthusiastic about reserach in visalization, communication, and human-computer interaction
+* strong interest in interdisciplinary work and working with patients, doctors, and families.
 
 ## Organization 
 
