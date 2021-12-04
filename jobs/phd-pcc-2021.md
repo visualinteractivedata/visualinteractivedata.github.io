@@ -58,10 +58,10 @@ and will provide clinical advice and arrange for data access.
 
 ## Requirements
 
-* A Masters/Bachelor degree in visualization, human-computer interaction, design informstics or equivalent. 
+* A Masters/Bachelor degree in visualization, human-computer interaction, design informatics or equivalent. 
 * good illustration and graphics skills
 * good (web) programming skills
-* enthusiastic about reserach in visalization, communication, and human-computer interaction
+* enthusiastic about reserach
 * strong interest in interdisciplinary work and working with patients, doctors, and families.
 
 ## Organization 
