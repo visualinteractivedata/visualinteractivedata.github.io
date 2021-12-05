@@ -1,7 +1,6 @@
 # Assistants in Peace Analytics
 
-We are seeking up to 3 project assistants to help with web-based applications development in paid assistantships, within the Schools of Law and Informatics, University of Edinburgh  
-
+The Political Settlement Reserch Programme (https://www.politicalsettlements.org) and the VisHub Lab (http://vishub.net) are seeking up to 3 project assistants to help with web-based applications development in paid assistantships, within the Schools of Law and Informatics, University of Edinburgh 
 The tasks deal with data analytics using programming and visualization.
 
 
