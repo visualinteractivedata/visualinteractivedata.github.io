@@ -10,6 +10,7 @@
 
 ## Other Positions
 
+* [**Data Science and Visualziation Assistant**](pax-assistant-2021.md) in peace analytics (approx. 50h untli February 2022).
 * **Data visualization desginer** to help with visualization of [peace and conflict](https://vishub.net/projects/peace_analytics.html). This includes dashboards, network visualizations, infographics, interactives, and more. Strict requirement is good knowldge of D3, good visual design skill and a strong interest in international politics and human-centered design. The job is open from now until end of March but an extension of funding has been requested. The projet runs in collaboration with the [Political Settlements Research Programme](https://www.politicalsettlements.org) at the School of Law. 
 
 ## Internships and collaborations
