@@ -44,9 +44,10 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 ## Awards
 
-* 2019 Eurographics Young Researcher Award.
+* 2021 New Significant Resaercher Award, IEEE VIS
+* 2019 Eurographics Young Researcher Award, IEEE/EG Eurographics
 * 2018 BioVis Best Poster Award: Feature Centric Visual Exploration of Genomic Interaction Matrices
-* 2014 VGTC Best Ph.D. Thesis 2014, Honorable Mention
+* 2014 VGTC Best Ph.D. Thesis 2014, Honorable Mention, IEEE VIS
 * 2013 IEEE VIS Best Poster Award: Visualizing Dense Dynamic Networks with Matrix Cubes
 * 2013 ACH CHI Best Paper Award: Weighted graph comparison techniques for brain connectivity analysis
 
