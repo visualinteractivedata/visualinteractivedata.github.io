@@ -7,9 +7,11 @@ people:
 - Benjamin Bach
 publications:
 - "Grand Challenges in Immersive Analytics"
+- "Augmenting Static Visualizations with PapARVis Designer"
 - "DXR: A Toolkit for Building Immersive Data Visualizations"
 - "IATK: An Immersive Analytics Toolkit"
 - "Multisensory immersive analytics"
+- "Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces:"
 - "Drawing into the AR-CANVAS: Designing Embedded Visualizations for Augmented Reality"
 - "A Design Space for Spatio-Data Coordination: Tangible Interaction Devices for Immersive Information Visualisation"
 - "The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?"
