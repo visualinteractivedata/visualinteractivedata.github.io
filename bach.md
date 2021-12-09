@@ -155,6 +155,9 @@ Veronika Dimitrova;
 
 (Not including conference presentations)
 
+* December 2021: [Data Comics for Data-Driven Storytelling
+](pdfs/Data comics, Westminster City Council, Dec 2021.pdf), Westminster City Council, London
+* October 2021: Data Comics for Data-Driven Storytelling. Guest Lecture. Kings College London.
 * September 2021: [Communicating Research through Data Comics](https://docs.google.com/presentation/d/1KHyjElNBHyXgmOiOvefVZYAVhlFNfMOXdRVsIAiXjME/edit?usp=sharing), Royal Stastistical Society Conference 2021.
 * August 2021: [Visualization Empowerment](https://infovis.fh-potsdam.de/), FH Potsdam, Information+Visualisation Talk series, GER 
 * July 2021: [Data Visualization for Exploration, Explanation, and Participation](/pdfs/Turing-RSE-Summer-School-July-2021.pdf), Turing RSE Summer school, UK 
