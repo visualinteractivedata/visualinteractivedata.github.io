@@ -13,7 +13,7 @@ Broadly, the topics of research are:
 
 
 
-Both topics require programming skills, data manipulation, databases, web-based application and visualization development. The developers should be familiar with github/gitlab. It is flexible as to what development tools one can use, mostly open source preferred, (Java, Python, PostgreSQL, MySQL, QGIS, MapBox etc), and familiarity with web-mapping is needed. We can guide with visualization tasks (e.g., with Tableau as and when needed).
+Both topics require programming skills, data manipulation, databases, web-based application and visualization development. The developers should be familiar with github/gitlab. The project is flexible as to what development tools one can use, mostly open source preferred, (Java, Python, PostgreSQL, MySQL, QGIS, MapBox etc), and familiarity with web-mapping is needed. We can guide with visualization and geo-spatial tasks (e.g., with Tableau, Geo-coding etc as and when needed).
 
  
 
