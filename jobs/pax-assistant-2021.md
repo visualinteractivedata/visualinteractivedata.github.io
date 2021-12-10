@@ -17,7 +17,7 @@ Both topics require programming skills, data manipulation, databases, web-based 
 
  
 
-For the above two topics we require 3 roles – a Database developer (back-end), a web / user side developer (front-end), and a Visualization developer. Each will require approximately 50-55 hours (totaling around 160 hours) which will be paid at the UE06-24 level (pro rata). The time frame for completion is by end of February 2022, and we start immediately, upon selection. Those who are interested (and match the required criteria) can send in their detailed CV and cover letter explaining how they match the above criteria, as soon as possible, to Dr. Devanjan Bhattacharya at d.bhattacharya@ed.ac.uk.
+For the above two topics we require 3 roles – a Database developer (back-end), a web / user side developer (front-end), and a Visualization developer. Each will require approximately 50-55 hours (totaling around 160 hours) which will be paid at the UE06-24 level (pro rata). The time frame for completion is by end of March 2022, and we start immediately, upon selection. Those who are interested (and match the required criteria) can send in their detailed CV and cover letter explaining how they match the above criteria, as soon as possible, to Dr. Devanjan Bhattacharya at d.bhattacharya@ed.ac.uk.
 
  
 
