@@ -17,15 +17,11 @@ Benjamin is a Lecturer in Design Informatics and Visualization at the University
 ## Contact
 **Office:** [Informatics Forum (IF 4.30), 10 Crichton St, Edinburgh](https://www.google.com/maps/place/10+Crichton+St,+Edinburgh+EH8+9AB,+UK/data=!4m2!3m1!1s0x4887c78381f1372f:0x8f0142034b156141?sa=X&ved=2ahUKEwjljc_o9NnmAhVj7nMBHX0QBJAQ8gEwAHoECAsQAQ)
 
-**Email:** [bbach@inf.ed.ac.uk](mailtp:bbach@inf.ed.ac.uk)
-
-**Twitter:** [@benjbach](https://twitter.com/benjbach)
-
-**[Full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing)**
-
-**[Google Scholar](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ)**
-
-**[Office Hours](https://forms.gle/Xjud1PjxKP9rZX2B6)** 
+* **Email:** [bbach@inf.ed.ac.uk](mailtp:bbach@inf.ed.ac.uk)
+* **Twitter:** [@benjbach](https://twitter.com/benjbach)
+* **[Full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing)**
+* **[Google Scholar](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ)**
+* **[Office Hours](https://forms.gle/Xjud1PjxKP9rZX2B6)** 
 
 ## Research Interest
 
