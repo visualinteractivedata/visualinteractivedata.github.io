@@ -48,7 +48,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * 2013 IEEE VIS Best Poster Award: Visualizing Dense Dynamic Networks with Matrix Cubes
 * 2013 ACH CHI Best Paper Award: Weighted graph comparison techniques for brain connectivity analysis
 
-## Current PhD Students
+## Current PhD Students (for graduation list, see [full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit#)
 
 * John Harper-Lee (since 2018), 2nd 
 * Mashael Alkadi (since 2019), 1st
@@ -57,67 +57,6 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * Lucy Heavens (since 2020), 2nd 
 * Kun-Ting Chen (since 2020), 3rd 
 * Sarah Schöttler (since 2021), 1st
-
-## Master Students (MSc, unless otherwise specified)
-
-- **2021:** 
-Tashfeen Ahmed (MA), 
-Luna Hu, 
-Boao Huang, 
-Ziyng Lin, 
-Yeru Lin, 
-Yanan Liu, 
-Tamara Lottering, 
-Sarah Olson, 
-Jiangnan Xu, 
-Minjia Zhao, 
-Shenshen Ji, 
-Chen Chen, 
-Yu Zhao (MFA), 
-Yuhao Zhang.
-- **2020:** 
-Jin Xiao, 
-Bibo Tian, 
-Yu Zhao, 
-Li Haonan, 
-Xue Feng, 
-Kehan Jiao, 
-Vaida Plankyte, 
-Dandi Huang, 
-Nistha Kumar.
-- **2019:** 
- Sarah Schoettler (MSc),
-  Xinyu Du (MSc),
-  Junxian Meng (MSc),
-  Qinru Zhu (MSc),
-  Yixin Liu (MA),
-- **2018:** 
-Finn Ickler (MSc),
-  Xudong Jiang (MSc),
-  Ilyas Zholdasbayev (MSc),
-  Yiwei Sun (MSc),
-  Yan Wu (MSc),
-  Iqbal Rosiadi (MSc),
-- **2017:**
-  Edson Alcala (MSc),
-  Parul Sharma (MSc),
-  Ruobing Hao (MA),
-  Xian Tang (MSc),
-  Zezhong Wang (MSc).
-
-## BHons Students
-
-James O’Donell,
-Charles Shraples,
-Hirsh Agarwal;
-Alexander Olson,
-Veronika Dimitrova;
-
-
-## PhD Examiner
-
-* Catarina Maçãs: Time-Series Visualization: Highligting Patterns and Deviations. Universidate de Coimbra, PT. July 2021 
-* 
 
 ## Professional Activities
 
@@ -147,9 +86,7 @@ Veronika Dimitrova;
 * Computer and Graphics 2021
 * IEEE VR: 2019, 2021
 
-## Invited Talks
-
-(Not including conference presentations)
+## Invited Talks (not including conference presentations)
 
 * December 2021: [Data Comics for Data-Driven Storytelling
 ](pdfs/Data comics, Westminster City Council, Dec 2021.pdf), Westminster City Council, London
@@ -179,7 +116,9 @@ Veronika Dimitrova;
 * February 2018: Controversies in the Data Society Talk Series, (Edinburgh): Seven Myths about Data Visualization
 * ... 
 
+
 ## Scientific Workshops
+
 * **[2nd IEEE VIS Workshop on Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing](https://visactivities.github.io/)**, Samuel Huron, Benjamin Bach, Uta Hinrichs, Sheelagh Carpendale, IEEE VIS 2021
 * **[IEEE VIS Workshop on Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing](https://visactivities.github.io/)**, Samuel Huron, Benjamin Bach, Uta Hinrichs, Sheelagh Carpendale, IEEE VIS 2020
 * **[3rd Workshop on the Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization](https://nms.kcl.ac.uk/c4pgv)** Alfie Abdul-Rahman, Alexandra Diehl, Benjamin Bach, IEEE VIS 2020
@@ -203,6 +142,7 @@ Veronika Dimitrova;
 * **[Data Visualization for Professionals](https://datavis-online.github.io)**
 
 ## Research Grants
+
 * 2021 EPSRC (CoI): RAMP VIS: Making Visual Analytics an Integral Part of the Technological Infrastructure for Combating COVID-19, ~£427,000
 * 2021 EPSRC (PI): Visovery:  Semi-automatic  Data  Tours  to  Support  Data  Exploration and Visualisation Literacy, ~£320,000
 * 2020 Data Driven Innovation (DDI), Co-I: Outbreak Science and Policy: A Sentiment-based Mathematical Model Repository (SER) for disease emergency decision-making and long-term resilience to future One Health threats; £89,754.30 					
