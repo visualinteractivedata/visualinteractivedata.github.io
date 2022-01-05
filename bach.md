@@ -48,7 +48,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * 2013 IEEE VIS Best Poster Award: Visualizing Dense Dynamic Networks with Matrix Cubes
 * 2013 ACH CHI Best Paper Award: Weighted graph comparison techniques for brain connectivity analysis
 
-## PhD Students
+## Current PhD Students
 
 * John Harper-Lee (since 2018), 2nd 
 * Mashael Alkadi (since 2019), 1st
@@ -57,7 +57,6 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * Lucy Heavens (since 2020), 2nd 
 * Kun-Ting Chen (since 2020), 3rd 
 * Sarah Schöttler (since 2021), 1st
-* Zezhong Wang (2018-2021)
 
 ## Master Students (MSc, unless otherwise specified)
 
@@ -118,6 +117,7 @@ Veronika Dimitrova;
 ## PhD Examiner
 
 * Catarina Maçãs: Time-Series Visualization: Highligting Patterns and Deviations. Universidate de Coimbra, PT. July 2021 
+* 
 
 ## Professional Activities
 
