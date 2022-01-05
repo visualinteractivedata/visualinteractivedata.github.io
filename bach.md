@@ -50,7 +50,6 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 ## PhD Students
 
-* Zezhong Wang (since 2018)
 * John Harper-Lee (since 2018), 2nd 
 * Mashael Alkadi (since 2019), 1st
 * Tobias Kauer (since 2019), 1st
@@ -58,6 +57,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * Lucy Heavens (since 2020), 2nd 
 * Kun-Ting Chen (since 2020), 3rd 
 * Sarah Schöttler (since 2021), 1st
+* Zezhong Wang (2018-2021)
 
 ## Master Students (MSc, unless otherwise specified)
 
