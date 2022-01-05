@@ -21,7 +21,7 @@ Benjamin is a Lecturer in Design Informatics and Visualization at the University
 
 **Twitter:** [@benjbach](https://twitter.com/benjbach)
 
-**[Full CV](people/bach-cv-may2021.pdf)**
+**[Full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing)**
 
 **[Google Scholar](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ)**
 
