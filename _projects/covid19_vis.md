@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Visualizations in the Context of Covid19
-image: 
+image: figures/dashboardUK.png
 description: Providing visualizations support to tackle a pandemie.
 people:
 - Benjamin Bach
