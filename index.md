@@ -42,4 +42,5 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
   {% endif %}
   {{ vishubproject.description | markdownify }}
 </p>
+<br/>
 {% endfor %}
