@@ -37,9 +37,9 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 {% for vishubproject in site.vishubprojects %}
   <p>
   {% if vishubproject.link %}
-  <a href="{{vishubproject.link }}" style="font-size:1.2em; font-style:bold;">{{ vishubproject.title }}</a>
+  <a href="{{vishubproject.link }}" style="font-size:1.2em; font-weight:bold;">{{ vishubproject.title }}</a>
   {% else %}
-  <a href="{{vishubproject.url }}" style="font-size:1.2em; font-style:bold;">{{ vishubproject.title }}</a>  
+  <a href="{{vishubproject.url }}" style="font-size:1.2em; font-weight:bold;">{{ vishubproject.title }}</a>  
   {% endif %}
   {{ vishubproject.description | markdownify }}
 </p>
