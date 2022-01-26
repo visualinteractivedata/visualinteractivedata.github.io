@@ -2,7 +2,7 @@
 layout: project
 title: Network Visualization
 image: figures/vistorian.png
-description:
+description: We design, implement, and evaluate novel interactive visualizations to visualize multivariate networks with temporal and geographical aspects, such as social networks or transportation networks. 
 people:
 - Benjamin Bach
 - James Scott-Brown
