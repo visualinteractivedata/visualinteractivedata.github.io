@@ -2,7 +2,8 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 
 # News
 - **Vistorian Updated Version launched *(Jan 2022)*:** The Vistorian network visualization platform comes with an new wizard making data upload easier. Visit the Vistorian and our training reseources on [http://vistorian.net](http://vistorian.net).
-- **4 IEEE VIS papers (*October 2021*):** VisHub involved in 4 full papers and 2 workshops at [IEEE VIS 2021](http://ieeevis.org): [Workshop on VisActivities](https://visactivities.github.io) and Workshop on Visualization for Digital Humanities [VIS4DH](http://www.vis4dh.org/). Check the [VIS papers here](publications.html). 
+- **Open PhD positions (*Dec 2021*):** Check at [Positions/PhD](https://visactivities.github.io/jobs) and get in touch with Uta Hinrichs and Ben Bach.
+- **4 IEEE VIS papers (*Oct 2021*):** VisHub involved in 4 full papers and 2 workshops at [IEEE VIS 2021](http://ieeevis.org): [Workshop on VisActivities](https://visactivities.github.io) and Workshop on Visualization for Digital Humanities [VIS4DH](http://www.vis4dh.org/). Check the [VIS papers here](publications.html). 
 - **Corona Moments Launched (*October 2021*):** We just launched a visualization as a retrospective on the pandemic. Please, help our research by exploring the interface and participating in the research: [corona memories](https://uclab.fh-potsdam.de/coronamemories) (In collaboration with the [Urban Complexity Lab](https://uclab.fh-potsdam.de/))
 - **Uta Hinrichs joining as Reader (*September 2021*):** [Uta Hinrichs](http://www.utahinrichs.de) joins the VisHub as a Reader. Welcome Uta!!!
 - **4 papers accepted to ACM CHI (*Dec 2020*):** Check our [publications](publications.html)!
