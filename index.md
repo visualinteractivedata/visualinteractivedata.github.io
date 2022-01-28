@@ -7,15 +7,7 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 - **Corona Moments Launched (*October 2021*):** We just launched a visualization as a retrospective on the pandemic. Please, help our research by exploring the interface and participating in the research: [corona memories](https://uclab.fh-potsdam.de/coronamemories) (In collaboration with the [Urban Complexity Lab](https://uclab.fh-potsdam.de/))
 - **Uta Hinrichs joining as Reader (*September 2021*):** [Uta Hinrichs](http://www.utahinrichs.de) joins the VisHub as a Reader. Welcome Uta!!!
 - **4 papers accepted to ACM CHI (*Dec 2020*):** Check our [publications](publications.html)!
-<!--- **May 2021:** Starting the 2nd turn of our [Online Data Visualization Course for Professionals](https://datavis-online.github.io) on May 4th.
--  **April 2020:** >> **WE'RE HIRING** for 3(!) postdoc and engineer positions on [networks, storytelling and vis literacy](jobs-viscovery.html) as well as [vis in health](jobs-health.html).
--   **Dec 2020:** **Four full [papers](publications.html)** accepted at ACM CHI 2021!!
- -   _Oct 2020:_ [PhD Scholarship](phd-graphics-medicine.html) in Visualising Complex Care Pathways in Later Life.
--   _Oct 2020:_ Three full [papers](publications.html) accepted at [IEEE VIS 2020](http://ieeevis.org)!
--   _Oct 2020:_ Co-organizing [IEEE VIS Workshop on Guidelines in Visualiztion: VisGuides](https://nms.kcl.ac.uk/c4pgv).
--   _Oct 2020:_ Co-organizing [IEEE VIS Workshop on Visualization Education: VisActitivies](http://visactivities.github.io). 
--   [..more](news.html)
---->
+
 
 [More news...](news.html)
 
