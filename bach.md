@@ -87,7 +87,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * IEEE VR: 2019, 2021
 
 ## Invited Talks
-
+* February 2022: *Data Comics for Data-Driven Storytelling*, University of Magdeburg, Germany
 * January 2022: *Tools, Users, and Methods in Data Visualizations*, Potioc Team, Inria, France
 * December 2021: [Data Comics for Data-Driven Storytelling
 ](pdfs/Data comics, Westminster City Council, Dec 2021.pdf), Westminster City Council, London
