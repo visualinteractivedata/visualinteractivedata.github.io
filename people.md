@@ -3,10 +3,11 @@ layout: people
 title: People
 ---
 
-## Alumni
-
+## Alumni (date left)
+* Vebjørn Halvfjerdvik (Master by Research, 2021)
+* Dr. Aba-Sah Dadzie (University Teacher, 2021) 
 - [Arran Ridley](https://uclab.fh-potsdam.de/people/arran-ridley/), Research Assistant (2020)
-- [Dave Murray-Rust](http://dave.murray-rust.org), Faculty (2020)
+- [Dave Murray-Rust](http://dave.murray-rust.org), Senior Lecturer (2020)
 - [Renaud Blanch](http://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
 - [Zhutian Chen](https://chenzhutian.org/), PhD Intern, Honkong University (2019)
 - [Jingtao Zhou](http://www.tzingtao.com), Research Intern, 2020
