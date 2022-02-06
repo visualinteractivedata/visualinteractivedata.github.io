@@ -27,13 +27,6 @@
     "Type": "Faculty",
     "Image": "/people/larissa.jpg"
   },
-  "Aba-Sah Dadzie": {
-    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw",
-    "Personal Site": null,
-    "Bio": "University Teacher in Data Visualisation, at the University of Edinburgh. With a background in user- and task-centred visual analytics, Aba-Sah's research focuses on the design and construction of interactive visualisations and visualisation-driven tools that enable value creation through interaction with data and technology at work and in personal, social lives. She has applied her work to exploratory information discovery and knowledge management in industry sectors including civil aerospace, FMCG, arts & culture, and in technology-enhanced learning.",
-    "Type": "Research and Teaching",
-    "Image": "/people/aba-sah.jpg"
-  },
   "James Scott-Brown": {
     "Google Scholar": "https://scholar.google.com/citations?user=2CciQUsAAAAJ&hl=en&oi=ao",
     "Personal Site": "http://jamesscottbrown.com",
@@ -96,13 +89,6 @@
     "Bio": "PhD Student on Retrieving Bias in Cultural Collections using Natural Language Processing and Visualization.",
     "Type": "Research Student",
     "Image": "/people/LucyHavens.jpg"
-  },
-  "Vebjørn Halvfjerdvik": {
-    "Google Scholar": null,
-    "Personal Site": null,
-    "Bio": "Master by Research Student on Natural Language Processing and Visualization.",
-    "Type": "Research Student",
-    "Image": "/people/vebjorn.png"
   },
   "Sarah Schöttler": {
     "Google Scholar": "https://scholar.google.com/citations?hl=en&user=WpKVOq0AAAAJ",
