@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-logo: "figures/logo-j.png"
+logo: "figures/logo-feb2022.png"
 repository: visualinteractivedata/visualinteractivedata.github.io
 github: [metadata]
 gems: ["jemoji"]
