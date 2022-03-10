@@ -29,11 +29,29 @@ The below advice is collected from many recurring errors in students' writings.
 The below structure follows the standard in technical writing. You can use it as a check list when preparing your submission. However, there are many cases you may want to adapt the structure. If you are in doubt, the best is to stick to this structure. It mostly works. (Duplications in the below list are on purpose -> space=time=importance).
 
 ### Abstract
-The abstract should reflect the following structure:
-* WHAT -> What is the paper contributing?
-* WHY -> Why is this important?
-* HOW -> How did you do it?
-Results -> mention the 1-2 most important findings of your research.
+
+The abstract is the first (and often only) piece of your paper that anyone will see after the title. The abstract will decide if someone deems your paper 
+* worth the time reads your paper, and 
+* eventually will consider citing your paper
+
+Hence, it's important your abstract is like an exciting teaser. However, other than a movie teaser, your abstract **should clearly reveal the contribution** (ending!). Make it easy for people to understandng and appreciate your contribution and learn from your work. 
+
+A good abstract contains (and probably in this order of priority): 
+- the main contribution 
+- the type of contribution (e.g., a system, an evaluation, a theory, a design space, etc...)
+- the problem you address and why it's timely (make your reader care)
+- the methodology / main methods (help the reader trust your research and the results) 
+- main findings and implications
+
+In most cases, you have only 1-2 sentences for each of those. So, be very specific and explicit.
+
+When I write abstracts, I try to take the role of a third person not involved in this paper, e.g., someone from my targeted audience, ideally a reviewer writing a short summary of the paper they just reviewed. That helps me focus on the 'so what' and the importance of the paper.
+
+A possible structure for an abstract could be:
+* WHAT -> What is the paper contributing (contribution and type of contribution) 
+* WHY -> Why is this important (problem, importance, and timeliness)
+* HOW -> How did you do it (methodoloy, methods, specific sub-contributions)
+* IMPLICATION -> why should this paper be cited (what will other people reuse from your work for their research?)
 
 Example:
 
