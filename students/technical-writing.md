@@ -29,15 +29,34 @@ The below advice is collected from many recurring errors in students' writings.
 The below structure follows the standard in technical writing. You can use it as a check list when preparing your submission. However, there are many cases you may want to adapt the structure. If you are in doubt, the best is to stick to this structure. It mostly works. (Duplications in the below list are on purpose -> space=time=importance).
 
 ### Abstract
-The abstract should reflect the following structure:
-* WHAT -> What is the paper contributing?
-* WHY -> Why is this important?
-* HOW -> How did you do it?
-Results -> mention the 1-2 most important findings of your research.
+
+The abstract is the **first (and often only) piece of your paper that anyone will see** after the title. The abstract will decide if someone deems your paper 
+* worth the time reads your paper, and 
+* eventually will consider citing your paper
+
+Hence, it's important your abstract is like an exciting teaser. However, other than a movie teaser, your abstract **should clearly reveal the contribution** (ending!). Make it easy for people to understandng and appreciate your contribution and learn from your work. 
+
+A good abstract contains (and probably in this order of priority): 
+- the main contribution 
+- the type of contribution (e.g., a system, an evaluation, a theory, a design space, etc...)
+- the problem you address and why it's timely (make your reader care)
+- the methodology / main methods (help the reader trust your research and the results) 
+- main findings and implications
+
+In most cases, you have only **1-2 sentences for each information**. So, be very specific and explicit.
+
+When I write abstracts, I try to take the role of **a third person not involved in this paper**, e.g., someone from my targeted audience, ideally a reviewer writing a short summary of the paper they just reviewed. That helps me focus on the 'so what' and the importance of the paper. Ideally, circulate your abstract to peers. It's extremely useful since everyone loses context over their very detailed work. **It can take weeks to write a good abstract**.
+
+A **possible structure** for an abstract could be:
+* WHAT -> What is the paper contributing (contribution and type of contribution) 
+* WHY -> Why is this important (problem, importance, and timeliness)
+* HOW -> How did you do it (methodoloy, methods, specific sub-contributions)
+* IMPLICATION -> why should this paper be cited (what will other people reuse from your work for their research?)
 
 Example:
 
 _We report on a controlled user study comparing three visualization environments for common 3D exploration. Our environments differ in how they exploit natural human perception and interaction capabilities. We compare an augmented-reality head-mounted display (Microsoft HoloLens), a handheld tablet, and a desktop setup. The novel head-mounted HoloLens display projects stereoscopic images of virtual content into a user’s real world and allows for interaction in-situ at the spatial position of the 3D hologram. The tablet is able to interact with 3D content through touch, spatial positioning, and tangible markers, however, 3D content is still presented on a 2D surface. Our hypothesis is that visualization environments that match human perceptual and interaction capabilities better to the task at hand improve understanding of 3D visualizations. To better understand the space of display and interaction modalities in visualization environments, we first propose a classification based on three dimensions: perception, interaction, and the spatial and cognitive proximity of the two. Each technique in our study is located at a different position along these three dimensions. We asked 15 participants to perform four tasks, each task having different levels of difficulty for both spatial perception and degrees of freedom for interaction. Our results show that each of the tested environments is more effective for certain tasks, but that generally the desktop environment is still fastest and most precise in almost all cases._
+
 
 ### Introduction
 The introduction is perhaps the most important part of your paper. Take specific care of it. Most people won’t necessary read beyond the introduction and based on abstract and/or intro will judge whether to cite or in the worse case reject your paper. The introduction sets the tone. If you do a good job in detailing your motivation, method, and contribution, your work gains credibility.
