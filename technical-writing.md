@@ -30,7 +30,7 @@ The below structure follows the standard in technical writing. You can use it as
 
 ### Abstract
 
-The abstract is the first (and often only) piece of your paper that anyone will see after the title. The abstract will decide if someone deems your paper 
+The abstract is the **first (and often only) piece of your paper that anyone will see** after the title. The abstract will decide if someone deems your paper 
 * worth the time reads your paper, and 
 * eventually will consider citing your paper
 
@@ -43,11 +43,11 @@ A good abstract contains (and probably in this order of priority):
 - the methodology / main methods (help the reader trust your research and the results) 
 - main findings and implications
 
-In most cases, you have only 1-2 sentences for each of those. So, be very specific and explicit.
+In most cases, you have only **1-2 sentences for each information**. So, be very specific and explicit.
 
-When I write abstracts, I try to take the role of a third person not involved in this paper, e.g., someone from my targeted audience, ideally a reviewer writing a short summary of the paper they just reviewed. That helps me focus on the 'so what' and the importance of the paper.
+When I write abstracts, I try to take the role of **a third person not involved in this paper**, e.g., someone from my targeted audience, ideally a reviewer writing a short summary of the paper they just reviewed. That helps me focus on the 'so what' and the importance of the paper. Ideally, circulate your abstract to peers. It's extremely useful since everyone loses context over their very detailed work. **It can take weeks to write a good abstract**.
 
-A possible structure for an abstract could be:
+A **possible structure** for an abstract could be:
 * WHAT -> What is the paper contributing (contribution and type of contribution) 
 * WHY -> Why is this important (problem, importance, and timeliness)
 * HOW -> How did you do it (methodoloy, methods, specific sub-contributions)
