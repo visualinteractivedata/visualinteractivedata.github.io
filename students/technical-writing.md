@@ -10,7 +10,7 @@ The below is a rather loose list of thoughts stemming from my own experience as 
 * **G3—Iterate**. Iteration will reflect the pace of the evolution of your thoughts and help evolving them in return. You will automatically improve with each step. And in case you are not improving, then you have a strong case that the previous version was perhaps better. You can reset or retry. Both will help you improving. Iteration is in particular important for the introduction. Even the very successful writers and researchers write several introductions. It’s perhaps the hardest part of each paper.
 * **G4—Reference Figures**. Though everyone likes figures and more so ‘browsing just the figures’, figures are not part of the text. They are figures while the text is a linear and logical unit. If you are including a figure, reference it and explain it. A figure is not there for illustration but to help you making the point for the reader; to help him understanding. Think of the moment in a presentation when you show a specific figure. Without referencing the figure, the reader will most likely not look at it and hence lose the message. More important, the text should be understandable almost without the figures.
 * **G5—Do not make the reader think.** Be explit. If you have to think a lot when reading someone’s text, how likely are you to continue reading? Exactly. Thus, don’t make your readers think. Be explicit, even if it takes space and better add one or two additional explanations or examples that help following your point. You can ask a colleague later if it’s too lengthy and if you should remove parts. Removing is always easy and you will get a good feeling over time.
-* **G5—Inform**. The objective of technical writing is not to entertain the reader, but to inform. Readers are not reading your work to bridge their time, but invest their time to read your work. Hence, be to the point and help them saving time. The less it takes them to understand your work, the longer their will read it (and cite!).
+* **G6—Inform**. The objective of technical writing is not to entertain the reader, but to inform. Readers are not reading your work to bridge their time, but invest their time to read your work. Hence, be to the point and help them saving time. The less it takes them to understand your work, the longer their will read it (and cite!).
 * **G7—Detail your methodology**. Your methodology is everything the reader has to assess your credibility. Without methodology, you might as well have made up all the results and created the pictures in photoshop. Where are your results and conclusions coming from? A strong methodology adds credibility to your results. Having asked 1,000,000 people about whom they will vote for gives a much stronger result than having asked 10; having asked people in different parts of the country will be stronger than having asked your best friendsl; having designed 5 prototypes implies you have learned more than having designed 1, etc. Thus, a good methodology explains the details (details are important and show that you have really done it and thought it through), highlights the strong points (how many participants, what background, etc..), and explains why each step was necessary (and not another one).
 
 ## Random Notes
@@ -19,9 +19,22 @@ The below advice is collected from many recurring errors in students' writings.
 
 * Try to avoid implicit references such as 'this'  or 'as discussed above' or alike. Use explicit references by repeating the term you're referencing.
 * Label your figures and include meaningful captions that explain the figure in sufficient detail.
-* In English, there is a blank ' ' before any opening bracket; there is no blank ' ' before : (as it is in French)
+* In English, there is a blank ' ' before any opening bracket; there is no blank ' ' before ':' (as it is in French)
 * Keep in mind to demonstrate your solution: this includes figures and can be videos, too. 
-* the report is what the reviewer will see. They will not know about our discussions or anything else. Anything you do not mention in the report 'did not happen'.
+* Include **references into phrases**: 
+  * indirect, e.g., at the end of the sentence: simply mention the reference _before_ the full stop: "Technique X has been proven highly successful [1]". 
+  * direct, e.g., "As shown by Smith et al. [1], technique X proved highly successful."
+* Direclty citing references with **one or multiple authors** inside a phrase: 
+  * A single author: "As shown by Smith [1], technique X proved highly successful." Refer to them as 'the author'. 
+  * Two authors: "As shown by Smith and Johnson [1], technique X proved highly successful." Refer to them as 'the authors'
+  * More than 2 authors: "As shown by Smith et al. [1], technique X proved highly successful." Refer to them as 'the authors'
+* **What does 'et al.' means?** It's Latin _et alii_, meaning and others. 
+* **Avoid any gendered language**. 
+  * Do say 'the user' or 'the analyst' but then refer to them as 'they' or 'them', rather than using gendered langauge with 'he' or 'she'   
+* Footnotes: 
+  *  Try to avoid footnotes. Include URLs as proper references. 
+  *  Place footnotes _after_ any punctuation: "Technique X was proven highly successful.<sup>1</sup>".
+* **yout report/paper is what the reviewer will see.** They will not know about our discussions or anything else. Anything you do not mention in the report 'did not happen'.
 * at the same time, do not bore with details. Do not explain any little change during your iterations. Only add the information relevant to understand and assess your contribution / solution / research question. I will not be able to tell you what that is. You will have to decide that. 
 
 ## Possible Outline and Section Content
