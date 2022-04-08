@@ -32,8 +32,10 @@ More information on [papertypes in visualization](http://ieeevis.org/year/2018/i
 
 ## Project Steps
 During your project you will engage in most of the following steps. Some of the steps are general to research and design, others are specific to data visualization and HCI, which naturally are the fields I can talk most about.
+
+Use the below list to **plan your project** and include specific weeks into your timeplan. 
+
 * **Literature research:** Search for the related topics and use the literature to motivate your own research. The relevant conferences are ACH CHI, IEEE VIS, IEEE Transactions of Visualization and Computer Graphics, Advanced Visual Interfaces, EuroVis.
-* **Frame a contribution:** see above how to frame a contribution. This can take time and might be the last sentences you write in your final dissertation.*
 * **Design** your interface, technique, visualization etc. Use sketching, and persons. Iterate and ask your peers for feedback. No one is perfect and the more feedback you get the more you will improve. Eventually, people will judge the result, not how you have gotten there (that doesn’t legalize cheating).
 * **Implement** your work. There are different languages toolkits. Building something for the web is generally a good idea because it increases visibility and the chance of being used. Common approaches for visualizations include d3.js and WebGL.
 * **Evaluate** your work in some way. This can include a controlled user study, informal interviews, questionnaires, observations, data-tracking, etc. The specific method depends on your question and the technique. I will help with that.
