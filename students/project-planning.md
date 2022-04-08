@@ -33,7 +33,7 @@ More information on [papertypes in visualization](http://ieeevis.org/year/2018/i
 ## Project Steps
 During your project you will engage in most of the following steps. Some of the steps are general to research and design, others are specific to data visualization and HCI, which naturally are the fields I can talk most about.
 
-Use the below list to **plan your project** and include specific weeks into your timeplan. 
+Use the below list to **plan your project** and include specific weeks into your timeplan. Discuss the plan with your supervisor.
 
 * **Literature research:** Search for the related topics and use the literature to motivate your own research. The relevant conferences are ACH CHI, IEEE VIS, IEEE Transactions of Visualization and Computer Graphics, Advanced Visual Interfaces, EuroVis.
 * **Design** your interface, technique, visualization etc. Use sketching, and persons. Iterate and ask your peers for feedback. No one is perfect and the more feedback you get the more you will improve. Eventually, people will judge the result, not how you have gotten there (that doesn’t legalize cheating).
