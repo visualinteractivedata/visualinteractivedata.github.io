@@ -44,7 +44,7 @@ How to do that?
   - e.g., specific methods (see below) 
 - **Methods: **what are the tools you are employing to answer your question? These are all sorts of reserch methodologies. Make sure they are motivated and again logical to answer your question. 
 - **Contribution**: the contribution are your results, knowledge gain, and possible impact. See more information below.
-
+- focus on your **own work**. Don't spend too much discussing existing work but explain your work and its results
 
 ## Framing a contribution
 
