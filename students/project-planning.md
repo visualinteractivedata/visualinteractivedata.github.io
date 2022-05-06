@@ -9,7 +9,7 @@ Perhaps the most high-level suggestion about a visualization project I can give 
 
 There are two extreme cases and a set of gradual shades in between them.
 
-* You are comming with you **own project idea** and we discuss if (!) and how I can help you with my expertise. It’s a good idea to check some of my papers (http://benjbach.me). I generally am interested in supervising projects in visualization and HCI, but there are many areas I am not an expert and I want to you make sure I can sufficiently help you and being able to catch up with that area.
+* You are comming with you **own project idea** and we discuss if (!) and how I can help you with my expertise. It’s a good idea to check some of my papers (http://benjbach.net). I generally am interested in supervising projects in visualization and HCI, but there are many areas I am not an expert and I want to you make sure I can sufficiently help you and being able to catch up with that area.
 * Often **I propose a project**. Please read the project carefully and when you email me, tell me why you are interested in the project and what are your thoughts about it. Proposed projects are often embedded in a larger research project and might include collaborations.
 * If you **do not have a project idea yet**, tell me why you are interested in visualization and in working with me. Again, look at my work and prepare for a meeting (questions, examples you like, problems you think visualization might help, etc.). What doesn’t really work is asking me for ‘a project in visualization’. I will have ideas and I will explain them to you, but eventually you are the one who spends a lot of time with the project and you must want to do it.
 
@@ -24,18 +24,18 @@ A lot of reserch is communication. The end users of your research are **always**
 
 How to do that?
 
-- **Problem: **
+- **Problem:**
   - what is the problem you are addressing?
   - Why is this important? 
   - Who cares? 
   - What would happen if nothing would be done? 
 - **Research question:** ideally, this is 
-  - a single question (multiple questions should logically follow onto each other and be connected)
-  - easy-to-understand and memorize (think of something you can show on a single slide during a talk, for a few seconds)
-  - convincing: something your audience agrees with that this is important and unanswered
-  - directly related to / motivating your research: if the question is too general, your reader won't understand the choices in your approach. Formulate the question so that your approach becomes totally logically to answer that question
-  - answerable: pick a question that your approach and methods actually can help answering, even if only partially. 
-  - falsifiable: pick a question where more than a single answer is possible and your methods can lead to multiple answers. Avoid tautologies.
+  - a _single question_ (multiple questions should logically follow onto each other and be connected)
+  - _easy-to-understand_ and memorize (think of something you can show on a single slide during a talk, for a few seconds)
+  - _convincing_: something your audience agrees with that this is important and unanswered
+  - _directly related_ to / motivating your research: if the question is too general, your reader won't understand the choices in your approach. Formulate the question so that your approach becomes totally logically to answer that question
+  - _answerable_: pick a question that your approach and methods actually can help answering, even if only partially. 
+  - _falsifiable_: pick a question where more than a single answer is possible and your methods can lead to multiple answers. Avoid tautologies.
 - **Approach:** this is very wide, but includes any relevant high-level approach to your question, 
   - e.g., the domain
   - e.g., any technology, 
