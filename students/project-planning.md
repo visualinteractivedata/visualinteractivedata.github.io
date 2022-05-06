@@ -18,7 +18,7 @@ The degree of research and engineering can vary across projects and largely depe
 * This means that you lead the project, not me. I can give you ideas and directions, but the project success is your responsibility.
 * Let me know if you are reflecting about doing for a PhD or whether you want to become a developer. Generally, I try to make projects as visible and usable as possible, through publication or online tools.
 
-## Framing your project
+## Framing/communicating your project
 
 A lot of reserch is communication. The end users of your research are **always** humans, even though you optimzie an algorithm. If no one knows your research of finds it useful, it remains a personal exercise. Hence, focus on communicating your research. 
 
@@ -45,6 +45,7 @@ How to do that?
 - **Methods: **what are the tools you are employing to answer your question? These are all sorts of reserch methodologies. Make sure they are motivated and again logical to answer your question. 
 - **Contribution**: the contribution are your results, knowledge gain, and possible impact. See more information below.
 - focus on your **own work**. Don't spend too much discussing existing work but explain your work and its results
+- show **examples** of your contribution as early as you can to show people what they expect from your writing/telling.
 
 ## Framing a contribution
 
