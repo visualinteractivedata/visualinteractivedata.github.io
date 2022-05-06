@@ -18,20 +18,11 @@ The degree of research and engineering can vary across projects and largely depe
 * This means that you lead the project, not me. I can give you ideas and directions, but the project success is your responsibility.
 * Let me know if you are reflecting about doing for a PhD or whether you want to become a developer. Generally, I try to make projects as visible and usable as possible, through publication or online tools.
 
-## Framing a contribution
+## Framing your project
 
-A contribution in visualization and HCI projects can be anything from the following list and potentially more.
-* an **application** that applies visualization knowledge to a specific domain. The project will include a task-analysis, description of domain and challenges, existing solutions (why they fail), propose visualizations, implement the application, and evaluate it’s usefulness with representative end users. Often application require extensive engagement with data and making things work.
-* a **survey** collects and organizes existing work. There is a methodology in gathering existing work (e.g. keyword search on google scholar), a grouping of projects, a discussion, and potentially a high-level framework of terms, concepts, and trends in the field. Surveys are good if you’re planning to continue working in the field and if there is an abundance of literature that requires being organized.
-* a **study** focuses on thoroughly studying a specific phenomena in visualization. This can be an existing or simple to implement technique, a perceptual issue, or anything else. A survey includes a literature review of the current (insufficient knowledge), a set of hypotheses to test, and a study methodology that tests these hypotheses and reports on the results. Eventually, a study includes an ample discussion.
-* a **guideline** report is a specific format of a survey that focuses on summarizing visualization knowledge and examples for a specific piece of information knowledge; e.g. ‘rainbow color maps’, or ‘node-link diagrams vs. matrices’ etc. A guideline report includes references, studies, a thorough discussion, and some suggestions on using that guideline.
-* an **visualization or interaction technique** describes a novel solution to visualize a specific aspect of data (e.g. geographic networks, hierarchies changing over time etc.). A novel design is motivated by a survey that discusses limitations of existing techniques, supported by studies where necessary. A design should include design goals or some rational that drive your design, discuss design alternatives, explain the design, implement the visualization demonstrate what it can show (use cases). A strict user evaluation is not necessary but some formal or informal feedback helps you evaluating your contribution.
-* a **system or toolkit** is a technical solution to a problem. A system helps creating or running visualizations, while a toolkit allows others to code visualizations.
+A lot of reserch is communication. The end users of your research are **always** humans, even though you optimzie an algorithm. If no one knows your research of finds it useful, it remains a personal exercise. Hence, focus on communicating your research. 
 
-Some projects combine aspects across these projects types, but it’s good to think about one main contribution.
-More information on [papertypes in visualization](http://ieeevis.org/year/2018/info/call-participation/infovis-paper-types#papertypes).
-
-## Framing you Project
+How to do that?
 
 - **Problem: **
   - what is the problem you are addressing?
@@ -52,7 +43,21 @@ More information on [papertypes in visualization](http://ieeevis.org/year/2018/i
   - e.g., prior experience
   - e.g., specific methods (see below) 
 - **Methods: **what are the tools you are employing to answer your question? These are all sorts of reserch methodologies. Make sure they are motivated and again logical to answer your question. 
+- **Contribution**: see below
 
+
+## Framing a contribution
+
+A contribution in visualization and HCI projects can be anything from the following list and potentially more.
+* an **application** that applies visualization knowledge to a specific domain. The project will include a task-analysis, description of domain and challenges, existing solutions (why they fail), propose visualizations, implement the application, and evaluate it’s usefulness with representative end users. Often application require extensive engagement with data and making things work.
+* a **survey** collects and organizes existing work. There is a methodology in gathering existing work (e.g. keyword search on google scholar), a grouping of projects, a discussion, and potentially a high-level framework of terms, concepts, and trends in the field. Surveys are good if you’re planning to continue working in the field and if there is an abundance of literature that requires being organized.
+* a **study** focuses on thoroughly studying a specific phenomena in visualization. This can be an existing or simple to implement technique, a perceptual issue, or anything else. A survey includes a literature review of the current (insufficient knowledge), a set of hypotheses to test, and a study methodology that tests these hypotheses and reports on the results. Eventually, a study includes an ample discussion.
+* a **guideline** report is a specific format of a survey that focuses on summarizing visualization knowledge and examples for a specific piece of information knowledge; e.g. ‘rainbow color maps’, or ‘node-link diagrams vs. matrices’ etc. A guideline report includes references, studies, a thorough discussion, and some suggestions on using that guideline.
+* an **visualization or interaction technique** describes a novel solution to visualize a specific aspect of data (e.g. geographic networks, hierarchies changing over time etc.). A novel design is motivated by a survey that discusses limitations of existing techniques, supported by studies where necessary. A design should include design goals or some rational that drive your design, discuss design alternatives, explain the design, implement the visualization demonstrate what it can show (use cases). A strict user evaluation is not necessary but some formal or informal feedback helps you evaluating your contribution.
+* a **system or toolkit** is a technical solution to a problem. A system helps creating or running visualizations, while a toolkit allows others to code visualizations.
+
+Some projects combine aspects across these projects types, but it’s good to think about one main contribution.
+More information on [papertypes in visualization](http://ieeevis.org/year/2018/info/call-participation/infovis-paper-types#papertypes).
 
 ## Project Steps
 
