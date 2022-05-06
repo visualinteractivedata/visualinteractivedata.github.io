@@ -23,6 +23,7 @@ The below is a rather loose list of thoughts stemming from my own experience as 
 - link to related concepts
 - illustrate and demonstrate your contribution 
 - clarify terminology
+- introduce flow and narration
 - ...
 
 ## Random Notes
