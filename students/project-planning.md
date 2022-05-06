@@ -43,7 +43,7 @@ How to do that?
   - e.g., prior experience
   - e.g., specific methods (see below) 
 - **Methods: **what are the tools you are employing to answer your question? These are all sorts of reserch methodologies. Make sure they are motivated and again logical to answer your question. 
-- **Contribution**: see below
+- **Contribution**: the contribution are your results, knowledge gain, and possible impact. See more information below.
 
 
 ## Framing a contribution
