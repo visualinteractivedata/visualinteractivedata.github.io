@@ -5,7 +5,7 @@ This page provides information about working with me on projects at Edinburgh Un
 Perhaps the most high-level suggestion about a visualization project I can give is: it depends. Research is by nature open. If we knew what we’re doing we wouldn’t (want to) do it. We want to find things and we do not always know what we will find. Be patient, and curious, and creative, and keep pushing.
 
 
-## Defining a Project
+## Defining a (PhD/MSc) Project with us
 
 There are two extreme cases and a set of gradual shades in between them.
 
@@ -19,6 +19,7 @@ The degree of research and engineering can vary across projects and largely depe
 * Let me know if you are reflecting about doing for a PhD or whether you want to become a developer. Generally, I try to make projects as visible and usable as possible, through publication or online tools.
 
 ## Framing a contribution
+
 A contribution in visualization and HCI projects can be anything from the following list and potentially more.
 * an **application** that applies visualization knowledge to a specific domain. The project will include a task-analysis, description of domain and challenges, existing solutions (why they fail), propose visualizations, implement the application, and evaluate it’s usefulness with representative end users. Often application require extensive engagement with data and making things work.
 * a **survey** collects and organizes existing work. There is a methodology in gathering existing work (e.g. keyword search on google scholar), a grouping of projects, a discussion, and potentially a high-level framework of terms, concepts, and trends in the field. Surveys are good if you’re planning to continue working in the field and if there is an abundance of literature that requires being organized.
@@ -30,7 +31,31 @@ A contribution in visualization and HCI projects can be anything from the follow
 Some projects combine aspects across these projects types, but it’s good to think about one main contribution.
 More information on [papertypes in visualization](http://ieeevis.org/year/2018/info/call-participation/infovis-paper-types#papertypes).
 
+## Framing you Project
+
+- **Problem: **
+  - what is the problem you are addressing?
+  - Why is this important? 
+  - Who cares? 
+  - What would happen if nothing would be done? 
+- **Research question:** ideally, this is 
+  - a single question (multiple questions should logically follow onto each other and be connected)
+  - easy-to-understand and memorize (think of something you can show on a single slide during a talk, for a few seconds)
+  - convincing: something your audience agrees with that this is important and unanswered
+  - directly related to / motivating your research: if the question is too general, your reader won't understand the choices in your approach. Formulate the question so that your approach becomes totally logically to answer that question
+  - answerable: pick a question that your approach and methods actually can help answering, even if only partially. 
+  - falsifiable: pick a question where more than a single answer is possible and your methods can lead to multiple answers. Avoid tautologies.
+- **Approach:** this is very wide, but includes any relevant high-level approach to your question, 
+  - e.g., the domain
+  - e.g., any technology, 
+  - e.g., a conceptual idea / inspiration
+  - e.g., prior experience
+  - e.g., specific methods (see below) 
+- **Methods: **what are the tools you are employing to answer your question? These are all sorts of reserch methodologies. Make sure they are motivated and again logical to answer your question. 
+
+
 ## Project Steps
+
 During your project you will engage in most of the following steps. Some of the steps are general to research and design, others are specific to data visualization and HCI, which naturally are the fields I can talk most about.
 
 Use the below list to **plan your project** and include specific weeks into your timeplan. Discuss the plan with your supervisor.
