@@ -13,6 +13,18 @@ The below is a rather loose list of thoughts stemming from my own experience as 
 * **G6—Inform**. The objective of technical writing is not to entertain the reader, but to inform. Readers are not reading your work to bridge their time, but invest their time to read your work. Hence, be to the point and help them saving time. The less it takes them to understand your work, the longer their will read it (and cite!).
 * **G7—Detail your methodology**. Your methodology is everything the reader has to assess your credibility. Without methodology, you might as well have made up all the results and created the pictures in photoshop. Where are your results and conclusions coming from? A strong methodology adds credibility to your results. Having asked 1,000,000 people about whom they will vote for gives a much stronger result than having asked 10; having asked people in different parts of the country will be stronger than having asked your best friendsl; having designed 5 prototypes implies you have learned more than having designed 1, etc. Thus, a good methodology explains the details (details are important and show that you have really done it and thought it through), highlights the strong points (how many participants, what background, etc..), and explains why each step was necessary (and not another one).
 
+
+## Two phases of writing
+
+**Phase 1: Understanding.** This is the phase where you understand your own work and flesh out what you are really doing. I.e. what is your problem, what are you focusing on, why are you chosing the methods you chose, what is your contribution. This phases is extemely important and can take a long time. Use the writing to understand your research. At the end of day you and everyone very famililar with your work will agree on what they do and will have a language to discuss their work.
+
+**Phase 2: Communicating**. This is the phase where you communicate your work to others. You need to take your wrtiting and optimize for communication to everyone not involved in your work; 
+- frame your project in a wider context
+- link to related concepts
+- illustrate and demonstrate your contribution 
+- clarify terminology
+- ...
+
 ## Random Notes
 
 The below advice is collected from many recurring errors in students' writings.
@@ -36,6 +48,8 @@ The below advice is collected from many recurring errors in students' writings.
   *  Place footnotes _after_ any punctuation: "Technique X was proven highly successful.<sup>1</sup>".
 * **yout report/paper is what the reviewer will see.** They will not know about our discussions or anything else. Anything you do not mention in the report 'did not happen'.
 * at the same time, do not bore with details. Do not explain any little change during your iterations. Only add the information relevant to understand and assess your contribution / solution / research question. I will not be able to tell you what that is. You will have to decide that. 
+
+
 
 ## Possible Outline and Section Content
 
