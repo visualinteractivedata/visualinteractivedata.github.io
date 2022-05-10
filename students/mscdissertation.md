@@ -77,6 +77,12 @@ You need to describe each of these in your thesis. More information on technical
 A dissertation grade gets (significantly) lowered for the following reasons:
 - writing is unclear and the four componets are not well explained
 - figures are unclear and don't show the design/prototype/results. 
+- work is not critically discussed and reflected upon 
+- the main findings / lessons learned are not well summarized and communicated in the thesis. 
+- the writing is bad so that we cannot understand your thoughts
+- too little of your work is shown and demonstrated
+
+Also, check the below marking scheme for self-assessement.
 
 ## Marking Scheme
 
