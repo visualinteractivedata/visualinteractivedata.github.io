@@ -100,5 +100,3 @@ Dissertations are marked against the following scheme:
 - Solution of any conceptual problem
 - Amount of work
 - Quality of prototype
-
-
