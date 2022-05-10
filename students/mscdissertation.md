@@ -15,7 +15,7 @@ A thesis wants to assess
 - Can you be creative and critical about methods and solutions?
 - Can you reflect and discuss your work? 
 - Do you know the context of your work well enough?
-- 
+
 
 ## Who "owns" a Dissertation? 
 
@@ -102,3 +102,5 @@ Dissertations are marked against the following scheme:
 - Solution of any conceptual problem
 - Amount of work
 - Quality of prototype
+
+See also the [MSc Project Marking Guidelines](https://www.inf.ed.ac.uk/teaching/courses/diss/diss.marking.guidelines.html.
