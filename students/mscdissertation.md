@@ -103,4 +103,4 @@ Dissertations are marked against the following scheme:
 - Amount of work
 - Quality of prototype
 
-See also the [MSc Project Marking Guidelines](https://www.inf.ed.ac.uk/teaching/courses/diss/diss.marking.guidelines.html.
+See also the [MSc Project Marking Guidelines](https://www.inf.ed.ac.uk/teaching/courses/diss/diss.marking.guidelines.html).
