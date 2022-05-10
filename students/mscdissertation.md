@@ -31,26 +31,26 @@ A Design Informatics MSc thesis consists of largely 4 components that you should
 
 An MSc dissertation is usually between 3-4 months. This is very short. Below is a possible outline how you should place your milestones. 
 - **Month 1 (Exploraton & Scoping):** 
-  [ ] _literature review:_ search for papers, textbooks, websites. Read. Read. Read. Ask your supervisor for seed papers to start from
-  [ ] _formulate your problem._ Discuss with your supervisor
-  [ ] _understand your problem_ (i.e., gather evidence so you are confident about the problem. Your supervisor will help)
-  [ ] do some _initial designs, exploration, ideation_ to figure out which solutions to pursue. Discuss with your supervisor
+  * [ ] _literature review:_ search for papers, textbooks, websites. Read. Read. Read. Ask your supervisor for seed papers to start from
+  * [ ] _formulate your problem._ Discuss with your supervisor
+  * [ ] _understand your problem_ (i.e., gather evidence so you are confident about the problem. Your supervisor will help)
+  * [ ] do some _initial designs, exploration, ideation_ to figure out which solutions to pursue. Discuss with your supervisor
 - **Month 2 (Design & Implememtation):**
-  [ ] _Set on 1-2 possible solutions_ to pursue and implement, i.e., realize, craft, deploy, etc.
-  [ ] _Iterate_ over these solutions. 
-  [ ] _discuss_ with your peers, 
-  [ ] _explore alternatives_ and justify your decisions
-  [ ] _collect ideas for a possible evaluation_ 
-  [ ] ask for _[ethics approval](ethics)_ by the School of Informatics. Talk to your supervisor for help. 
+  * [ ] _Set on 1-2 possible solutions_ to pursue and implement, i.e., realize, craft, deploy, etc.
+  * [ ] _Iterate_ over these solutions. 
+  * [ ] _discuss_ with your peers, 
+  * [ ] _explore alternatives_ and justify your decisions
+  * [ ] _collect ideas for a possible evaluation_ 
+  * [ ] ask for _[ethics approval](ethics)_ by the School of Informatics. Talk to your supervisor for help. 
 - **Month 3 (Evaluation & Iteration):**
-  [ ] _plan and conduct evaluation_. Ask your supervisor for help and resources (e.g., rooms, materials)
-  [ ] _collect data about evaluation_ 
-  [ ] _analyze data_
-  [ ] possibly _improve prototype_ during evaluation.
+  * [ ] _plan and conduct evaluation_. Ask your supervisor for help and resources (e.g., rooms, materials)
+  * [ ] _collect data about evaluation_ 
+  * [ ] _analyze data_
+  * [ ] possibly _improve prototype_ during evaluation.
 - **Month 4 (Discussion & Writing-up):** 
-  [ ] _polish prototype_ based on evaluation results. Prioritize those issues most pressing for your contribution
-  [ ] _discuss your research_: reflect on the results, discuss limitations, 
-  [ ] _write up your thesis_.
+  * [ ] _polish prototype_ based on evaluation results. Prioritize those issues most pressing for your contribution
+  * [ ] _discuss your research_: reflect on the results, discuss limitations, 
+  * [ ] _write up your thesis_.
 
 See general information on how to plan a project and contribution [here](project-planning).
 
