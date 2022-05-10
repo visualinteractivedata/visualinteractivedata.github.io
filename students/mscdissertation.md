@@ -1,19 +1,21 @@
 # How To (survive a) Design Informatics MSc Dissertation (in data visualization)
 
+As well as this page, you should read the [Masters Project Guide (Design Informatics)](https://www.inf.ed.ac.uk/teaching/courses/mdi/guide.html) on the School of Informatics website.
+
 ## What is the purpose of an MSc thesis?
 
-The idea of an MSc thesis is to show that you are capable of individual intellectual work. It should be an original piece of work, addressing an specific problem and discussing solutions or lessons learnt in deadling with this problem. A thesis can range from more practical work to more theoretical and data collection work (more on possible contributions [here](project-planning).
+The idea of an MSc thesis is to show that you are capable of individual intellectual work. It should be an original piece of work, addressing an specific problem and discussing solutions or lessons learnt in deadling with this problem. A thesis can range from more practical work to more theoretical and data collection work (more on possible contributions [here](project-planning)).
 
 A thesis wants to assess 
-_
+
 - Can you think and deal with chaos? 
 - Can you define a problem? 
 - Can you plan and use reserach methods? 
 - Can you present results clearly? 
 - Can you be creative and critical about methods and solutions?
 - Can you reflect and discuss your work? 
-- Do you know the context of your well enough?
-_
+- Do you know the context of your work well enough?
+- 
 
 ## Who "owns" a Dissertation? 
 
