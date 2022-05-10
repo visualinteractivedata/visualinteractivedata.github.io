@@ -3,6 +3,7 @@ This page lists resources and links around working with and in data visualizatio
 # Resources for Students (MSc, PhD)
 
 * [Considering a Phd at the VisHub?](students/considering-phd)
+* [How to (survive) a Design Informatics MSc Dissertation](students/mscdissertation)
 * [Project planning](students/project-planning)
 * [How to Literature Research](students/literature)
 * [How to Technical Writing](students/technical-writing)
