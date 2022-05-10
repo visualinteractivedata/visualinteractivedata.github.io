@@ -72,7 +72,6 @@ Use the below list to **plan your project** and include specific weeks into your
 * **Evaluate** your work in some way. This can include a controlled user study, informal interviews, questionnaires, observations, data-tracking, etc. The specific method depends on your question and the technique. I will help with that.
 * **Writing** takes time and there is no formal training in technical writing. Start as early as possible, iterate, collect your ideas, and tell a nice story that demonstrate your knowledge of the topic and you ability to put the contribution into context. More information here.
 
-
 ## Links
 
 * [https://lithub.com/how-academics-survive-the-writing-grind-some-anecdotal-advice](https://lithub.com/how-academics-survive-the-writing-grind-some-anecdotal-advice/)
