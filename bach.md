@@ -12,7 +12,7 @@
 
 # Benjamin Bach
 
-Benjamin is a Reader in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the [VisHub](https://vishub.net) Lab. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
+Benjamin is a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the [VisHub](https://vishub.net) Lab. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
 
 This website lists a selection of acedemic activities. For a full reference see my * [Full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing). 
 
