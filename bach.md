@@ -48,7 +48,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * 2013 IEEE VIS Best Poster Award: Visualizing Dense Dynamic Networks with Matrix Cubes
 * 2013 ACH CHI Best Paper Award: Weighted graph comparison techniques for brain connectivity analysis
 
-## Current PhD Students (for graduation list, see [full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit#)
+## Current PhD Students
 
 1. John Harper-Lee (since 2018), 2nd 
 1. Mashael Alkadi (since 2019), 1st
@@ -58,6 +58,10 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 1. Kun-Ting Chen (since 2020), 3rd 
 1. Sarah Schöttler (since 2021), 1st
 1. Magdalena Boucher (since 2022), 2nd
+
+## Graduated PhD Students
+1. Zezhong Wang (2021) 
+
 
 ## Professional Activities (selection)
 
