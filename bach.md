@@ -50,15 +50,16 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 ## Current PhD Students (for graduation list, see [full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit#)
 
-* John Harper-Lee (since 2018), 2nd 
-* Mashael Alkadi (since 2019), 1st
-* Tobias Kauer (since 2019), 1st
-* Ryan Bowler (since 2019), 1st
-* Lucy Heavens (since 2020), 2nd 
-* Kun-Ting Chen (since 2020), 3rd 
-* Sarah Schöttler (since 2021), 1st
+1. John Harper-Lee (since 2018), 2nd 
+1. Mashael Alkadi (since 2019), 1st
+1. Tobias Kauer (since 2019), 1st
+1. Ryan Bowler (since 2019), 1st
+1. Lucy Heavens (since 2020), 2nd 
+1. Kun-Ting Chen (since 2020), 3rd 
+1. Sarah Schöttler (since 2021), 1st
+1. Magdalena Boucher (since 2022), 2nd
 
-## Professional Activities
+## Professional Activities (selection)
 
 * ACM ISS Workshop Chair (2020)
 * ACM CHI Paper Associate Chair (2018, 2019, 2021)
@@ -66,7 +67,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * ACM CHI Work-in-Progress Program Committee (2015)
 * IEEE InfoVis Program Committee (since 2018)
 * IEEE InfoVis Organizing Committee (since 2020)
-** IEEE VAST Program Committee (2018)
+* IEEE VAST Program Committee (2018)
 * GraphDrawing Program Committee
 * TransImage Conference: Conference Co-chair 2018
 
@@ -120,6 +121,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 ## Scientific Workshops
 
+* **[4rd Workshop on the Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization](https://nms.kcl.ac.uk/c4pgv)** Benjamin Bach, Alfie Abdul-Rahman, Alexandra Diehl, IEEE VIS 2022
 * **[2nd IEEE VIS Workshop on Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing](https://visactivities.github.io/)**, Samuel Huron, Benjamin Bach, Uta Hinrichs, Sheelagh Carpendale, IEEE VIS 2021
 * **[IEEE VIS Workshop on Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing](https://visactivities.github.io/)**, Samuel Huron, Benjamin Bach, Uta Hinrichs, Sheelagh Carpendale, IEEE VIS 2020
 * **[3rd Workshop on the Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization](https://nms.kcl.ac.uk/c4pgv)** Alfie Abdul-Rahman, Alexandra Diehl, Benjamin Bach, IEEE VIS 2020
