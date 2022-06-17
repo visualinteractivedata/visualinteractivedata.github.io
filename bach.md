@@ -97,6 +97,8 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * IEEE VR: 2019, 2021
 
 ## Invited Talks
+* June 2022: Open Your Eyes, Finding Shapes for Your Data. Summer Institute in Computational Social Sciences, University of Edinburgh
+* June 2022: The Role of Visualization in Exploring and Communicating Text. Text & Data Analysis Summer School, University of Edinburgh
 * February 2022: *Data Comics for Data-Driven Storytelling*, University of Magdeburg, Germany
 * January 2022: *Tools, Users, and Methods in Data Visualizations*, Potioc Team, Inria, France
 * December 2021: [Data Comics for Data-Driven Storytelling
