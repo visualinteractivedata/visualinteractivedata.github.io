@@ -127,6 +127,7 @@ Discussions have two purposes: reflection and outlook. Reflections critically di
 * Are there any take-home messages you want to highlight? E.g., a set of main findings, guidelines, etc.
 * What are the unsolved problems (technical, conceptual, global) and what are the things you can talk about with some more certainty. 
 * How does your work enable others (!) in their research. See your work in the larger context.
+
 During writing, it helps listing candidates for a discussion. When you finally write that section, you will know better what you can keep and what to drop. You do not have to discuss everything.
 
 
