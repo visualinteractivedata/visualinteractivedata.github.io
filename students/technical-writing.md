@@ -120,7 +120,14 @@ Relate your work on the related work (hence the name). Make this relation explic
 
 ### Discussion Section ('Discussion')
 
-Discussions have two purposes: reflection and outlook. Reflections critically discuss your own work, its achievement, and limitations. Research is flux and each work (should) bring some certainty and some more knowledge about the uncertainty we’re facing with this certainty. What did you we (you) learn? What are the unsolved problems (technical, conceptual, global) and what are the things you can talk about with some more certainty. During writing, it helps listing candidates for a discussion. When you finally write that section, you will know better what you can keep and what to drop. You do not have to discuss everything.
+Discussions have two purposes: reflection and outlook. Reflections critically discuss your own work, its achievement, and limitations. Research is flux and each work (should) bring some certainty and some more knowledge about the uncertainty we’re facing with this certainty. 
+* What did you achive in your work? Where is this novel?
+* What did you you learn? How well does your solution/approach work?
+* What are the limtiations of your solution/approacha and how does it affect the interpretation and generalizability of your results? 
+* Are there any take-home messages you want to highlight? E.g., a set of main findings, guidelines, etc.
+* What are the unsolved problems (technical, conceptual, global) and what are the things you can talk about with some more certainty. 
+* How does your work enable others (!) in their research. See your work in the larger context.
+During writing, it helps listing candidates for a discussion. When you finally write that section, you will know better what you can keep and what to drop. You do not have to discuss everything.
 
 
 ### Conclusion/Summary
