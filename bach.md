@@ -55,7 +55,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 ## Current PhD Students
 
-1. John Harper-Lee (since 2018), 2nd 
+1. John Harper-Lee (since 2018), 2nd supervisor
 1. Mashael Alkadi (since 2019), 1st
 1. Tobias Kauer (since 2019), 1st
 1. Ryan Bowler (since 2019), 1st
