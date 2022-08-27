@@ -53,4 +53,13 @@ Example response: _No personal data will be recorded at any time. Voice recordin
 
 What information about participants or data subjects will you collect or use? 
 
+## Data Collection for Research Purpose
 
+When you collect data for your MSc/PhD research, keep the following principles in mind: 
+
+* **Lawfulness, fairness and transparency**: respect GDPR laws for data collection and inform your participants about any data collection and research purpose (e.g., on the Participant information sheet).
+* **Purpose limitation**: do not use data for any other purposes than those necessary for the research.
+* **Data minimisation**: do not collect more than absolutely necessary for your research. Don't collect data that is not absolutely necessary for your research.
+* **Accuracy**: every reasonable step must be taken” to erase or rectify data that is inaccurate or incomplete
+* **Storage limitation**: limit data storage to an absolute minimum. Remove data after the study is done. 
+* **Integrity and confidentiality** (better known as 'information security'): protect any data you have collected and treat them as confidential as possible.
