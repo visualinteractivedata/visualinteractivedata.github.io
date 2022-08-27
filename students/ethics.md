@@ -63,3 +63,23 @@ When you collect data for your MSc/PhD research, keep the following principles i
 * **Accuracy**: every reasonable step must be taken” to erase or rectify data that is inaccurate or incomplete
 * **Storage limitation**: limit data storage to an absolute minimum. Remove data after the study is done. 
 * **Integrity and confidentiality** (better known as 'information security'): protect any data you have collected and treat them as confidential as possible.
+
+## Personal Data
+
+**All Personal Data is Equal**. The term 'public domain' has no relevance in data protection regulations.
+All personal data is equal in the sense that it can only legally be processed in accordance with the Principles. That means that for harvesting publicly available personal data for research, you must:
+Provide the PIS if possible Ensure you have your legal basis and, for special category data, meet the requirements, i.e. have the technical and organisational safeguards in place and ensure that your research is in the public interest
+
+* Names, contact details, other factual information
+* Answers to questions, for example in questionnaires or interviews, whether factual or the participant's opinion
+* Photographs, film, video, audio, transcripts of interviews etc.
+* Human biological material, e.g. blood, tissue, when linked to an identifier such as CHI number, name etc.
+* racial or ethnic origin
+* political opinions
+* religious or philosophical beliefs
+* trade union membership
+* physical or mental health 
+* sex life or sexual orientation
+* genetic information
+* biometric information
+
