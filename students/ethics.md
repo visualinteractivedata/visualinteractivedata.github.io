@@ -1,6 +1,6 @@
 # Ethics Form at Informatics
 
-For any study that involves human (or animal) participants, Informatics requires ethics clearance. That is, you need to submit for ethics approval and cannot start the study before approval throgh the school's ethics board. 
+For any study that involves human (or animal) participants, Informatics requires ethics clearance. That is, you need to submit for ethics approval and cannot start the study before approval through the school's ethics board. 
 
 Before filling and submitting the form, read through this page, prepare any of the material you need to submit alongside the request and discuss with your supervisor.
 
@@ -9,15 +9,29 @@ Before filling and submitting the form, read through this page, prepare any of t
 * [Informatics Website](http://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure)
 * [Ethics submission Form](https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT)
 
-## What you need before submitting the [Form](https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT)
+## What you need before submitting the [Ethics Form to Informatics](https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT)
 
 ### 1. Ethics training
 
 You __need__ to pass the [basic training in data protction](http://www.ed.ac.uk/records-management/training/data-protection)
 
-### 2. A consent form which will be signed by any of your participants
+### 2. A Participant Information Sheet (PIS) and a participant consent form which will be signed by any of your participants
 
 See an example [here](/material/Consent_form_Study_Visualisation_Cheatsheet.pdf)
+
+These forms can be the same document, or separate. In total, they must include the following information:
+* Who is the data controller (the organisation with the overall responsibility - this will be the University represented by the lead researcher for staff research)
+* Enough information, in lay language, for the participants to understand what the project is about and what is required of them
+* Any significant risks to the participants involved
+* Where required, safeguards put in place to limit risks
+* Consent to participate in the research
+* What the legal basis is that you rely on to make the research lawful (see below “Legal basis for personal data”)
+* Who participants can contact for more information (lead researcher’s contact details), a complaints contact and the contact details of this organisation’s Data Protection Officer (dpo@ed.ac.uk)
+* Details of how people can exercise their rights (see below “Research Participants Rights”)
+* Assurances that their data will be held securely
+* For special categories of personal data, compliance with the common law duty of confidentiality
+* A note that if the research project changes in any way, the amended PIS will be shown on the project’s, Research Centre’s, Institute’s or School’s website.
+
 
 ### 3. A 100 word description
 
