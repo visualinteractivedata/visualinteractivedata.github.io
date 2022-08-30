@@ -45,27 +45,29 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 ## Awards
 
-* 2021 New Significant Researcher Award, IEEE VIS
+* 2022 Best Paper Honorable Mention, IEEE VIS (Dashboard Design Patterns)
+* 2022 Best Paper Honorable Mention, IEEE VIS (Exploring Interactions with Printed Data Visualizations in Augmented Reality)
+* **2021 New Significant Researcher Award, IEEE VIS**
 * 2021 ACM CHI Best Paper Honorable Mention: Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking.
-* 2019 Eurographics Young Researcher Award, IEEE/EG Eurographics
+* **2019 Eurographics Young Researcher Award, IEEE/EG Eurographics**
 * 2018 BioVis Best Poster Award: Feature Centric Visual Exploration of Genomic Interaction Matrices
-* 2014 VGTC Best Ph.D. Thesis 2014, Honorable Mention, IEEE VIS
+* **2014 VGTC Best Ph.D. Thesis 2014, Honorable Mention, IEEE VIS**
 * 2013 IEEE VIS Best Poster Award: Visualizing Dense Dynamic Networks with Matrix Cubes
 * 2013 ACH CHI Best Paper Award: Weighted graph comparison techniques for brain connectivity analysis
 
 ## Current PhD Students
 
-1. John Harper-Lee (since 2018), 2nd supervisor
-1. Mashael Alkadi (since 2019), 1st
-1. Tobias Kauer (since 2019), 1st
-1. Ryan Bowler (since 2019), 1st
-1. Lucy Heavens (since 2020), 2nd 
-1. Kun-Ting Chen (since 2020), 3rd 
-1. Sarah Schöttler (since 2021), 1st
-1. Magdalena Boucher (since 2022), 2nd
+1. John Harper-Lee (since 2018), assistant supervisor
+1. Mashael Alkadi (since 2019), main
+1. Tobias Kauer (since 2019), main
+1. Ryan Bowler (since 2019), main
+1. Lucy Heavens (since 2020), assistant 
+1. Sarah Schöttler (since 2021), main
+1. Magdalena Boucher (since 2022), assistant
 
 ## Graduated PhD Students
-1. Zezhong Wang (2021) 
+1. Zezhong Wang (2021), main
+1. Kun-Ting Chen (2022), assistant 
 
 
 ## Professional Activities (selection)
