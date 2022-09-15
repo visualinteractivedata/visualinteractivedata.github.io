@@ -35,6 +35,7 @@ A more up to date collection can be found on [VisTools.net](http://vistools.net)
 * NodeXL: Commercial Excel plugin to convert excel tables into nodelink visualizations
 * NetworkX (python): Python library for network analytics. No visualization
 * [KDNuggets](http://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html)
+* [Graphia](https://graphia.app/): Data driven dynamic visualization of large scale graphs in 3D
 
 ## Humanity-driven tools
 Some of the tools below are still being developed further.
