@@ -4,11 +4,14 @@ title: People
 ---
 
 ## Alumni (date left)
+- [Iain Carson](https://www.linkedin.com/in/iain-carson/?originalSubdomain=uk) (Teacher, 2021) 
+- [Philip Heslop](https://www.northumbria.ac.uk/about-us/our-staff/h/philip-heslop/) (PostDoc, 2021)
+- [Zezhong Wang](https://zezhongwang.com) (PhD, 2018-2022)
 - Vebjørn Halvfjerdvik (Master by Research, 2021)
-- Dr. Aba-Sah Dadzie (University Teacher, 2021) 
-- [Dr. Arran Ridley](https://uclab.fh-potsdam.de/people/arran-ridley/), Research Assistant (2020)
-- [Dr. Dave Murray-Rust](http://dave.murray-rust.org), Senior Lecturer (2020)
-- [Dr. Renaud Blanch](http://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
+- Aba-Sah Dadzie (University Teacher, 2021) 
+- [Arran Ridley](https://uclab.fh-potsdam.de/people/arran-ridley/), Research Assistant (2020)
+- [Dave Murray-Rust](http://dave.murray-rust.org), Senior Lecturer (2020)
+- [Renaud Blanch](http://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
 - [Zhutian Chen](https://chenzhutian.org/), PhD Intern, Honkong University (2019)
 - [Jingtao Zhou](http://www.tzingtao.com), Research Intern, 2020
 - Qiuyuan Ren, MRes student (2018)
