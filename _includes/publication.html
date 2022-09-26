@@ -1,13 +1,16 @@
 <div class="pubWrapper">
 	<div class="pubImage">
-		<img src="/figures/{{ include.item.img }}" alt="{{ include.item.img_alt }}" />
+		<img
+			src="/figures/{{ include.item.img }}"
+			alt="{{ include.item.img_alt }}"
+		/>
 	</div>
 
 	<div class="pubText">
 		<p>
 			<a
 				href="{{ include.item.paperlink }}"
-				style="font-weight: bold;"
+				style="font-weight: bold"
 				target="_blank"
 				>{{ include.item.title }}</a
 			>: {{ include.item.authors }}.
@@ -16,6 +19,10 @@
 			<a href="{{ include.item.weblink }}" target="_blank">[WEB]</a>
 			{% endif %} {% if include.item.videolink %}
 			<a href="{{ include.item.videolink }}" target="_blank">[VIDEO]</a>
+			{% endif %}{% if include.item.awards %}
+			<span style="font-weight: bold; text-transform: uppercase"
+				>{{ include.item.awards }}</span
+			>
 			{% endif %}
 		</p>
 	</div>
