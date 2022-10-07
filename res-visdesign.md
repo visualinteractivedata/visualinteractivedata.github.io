@@ -70,3 +70,9 @@ These guidelines can be seen as a little checklist. Go through them once you hav
 * Don’t use circle size to encode precise quantities. Look at the below example. Would you have guessed that the largest circle has an area more than twice as large than its right neighbor? Have a look at the numbers to convince yourself. Use alternatives such as bar charts, e.g.
 
 ![](design/circles.png)
+
+
+
+# More References
+
+* Good examples and overview for perception in vis: [http://paldhous.github.io/ucb/2016/dataviz/week2.html](http://paldhous.github.io/ucb/2016/dataviz/week2.html)
