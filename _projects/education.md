@@ -12,6 +12,8 @@ people:
 - Mashael AlKadi
 - Uta Hinrichs
 publications:
+- "Dashboard Design Patterns"
+- "Understanding Barriers to Network Exploration with Visualization: A Report from the Trenches"
 - "Teaching Data Visualization and Storytelling with Data Comic Workshops"
 - "Towards Open-World Scenarios: Teaching the Social Side of Data Science"
 - "The VisTools Marketplace: An Activity to Understand the Landscape of Visualisation Tools"
