@@ -6,6 +6,7 @@ description: Designing visualization activities and teaching resources for educa
 people:
 - Benjamin Bach
 publications:
+- "Exploring Interactions with Printed Data Visualizations in Augmented Reality"
 - "Grand Challenges in Immersive Analytics"
 - "Augmenting Static Visualizations with PapARVis Designer"
 - "DXR: A Toolkit for Building Immersive Data Visualizations"
