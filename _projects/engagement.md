@@ -7,6 +7,7 @@ people:
 - Tobias Kauer
 - Benjamin Bach
 publications:
+- "Narrative medical visualization to communicate disease data"
 - "The Public Life of Data: Investigating Reactions to Visualizations on Reddit" 
 - "Participatory Deep Maps: Towards Discursive User Engagement with Data Visualizations" 
 ---
