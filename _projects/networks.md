@@ -9,6 +9,7 @@ people:
 - Sarah Schöttler 
 - Mashael AlKadi
 publications:
+- "Understanding Barriers to Network Exploration with Visualization: A Report from the Trenches"
 - "GAN’SDA Wrap: Geographic And Network Structured Data on surfaces that Wrap around"
 - "Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies"
 - "Visualizing and Interacting with Geospatial Networks: A Survey and Design Space"
