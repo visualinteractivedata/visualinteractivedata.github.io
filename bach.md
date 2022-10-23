@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td><img src="https://vishub.net/people/bach.png" height="300px"/></td>
-<td>Benjamin is a <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader (Associate Professor)</a> in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the VisHub (https://vishub.net) Lab. Benjamin is an Associate Professor at the University of Edinburgh where he is co-leading the VisHub Lab (<a hrf="https://vishub.net">https://vishub.net</a>). His research investigates more effective and efficient data visualizations, interfaces, and tools for data analysis, communication, and education. In 2021 Benjamin was named TVCG Significant New Researcher.
+<td>Benjamin is a <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader (Associate Professor)</a> in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the VisHub (https://vishub.net) Lab. Benjamin is an Associate Professor at the University of Edinburgh where he is co-leading the VisHub Lab (<a hrf="https://vishub.net">https://vishub.net</a>). His research investigates more effective and efficient data visualizations, interfaces, and tools for data analysis, communication, and education. In 2021 Benjamin was named  Significant New Researcher by the IEEE VIS conference.
 </td>
 </tr>
 </table>
