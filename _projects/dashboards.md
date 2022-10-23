@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Dashboards
-image: figures/vistorian.png
+image: figures/dashboard-covid-scotland.png
 description: Studying and designing dashboards for a range of applications, including peace analytics, learning analytics, energy, public health. 
 people:
 - Benjamin Bach
