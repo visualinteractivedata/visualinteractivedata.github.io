@@ -12,10 +12,10 @@
 
 # Benjamin Bach
 
-Benjamin is a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the [VisHub](https://vishub.net) Lab. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
+Benjamin is a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (Associate Professor) in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the [VisHub](https://vishub.net) Lab. Benjamin is an Associate Professor at the University of Edinburgh where he is co-leading the VisHub Lab (https://vishub.net). His research investigates more effective and efficient data visualizations, interfaces, and tools for data analysis, communication, and education. Benjamin was a postdoc at Harvard University (Visual Computing Group), Monash University (Immersive Analytics Lab), Microsoft-Research, and a visiting scholar at the Brain Imaging Center at the University of Washington. Benjamin has received a TVCG Significant New Researcher (2021) and an Eurographics Young Researcher (2019) award. His PhD thesis on the visualization of dynamic network has received a VGTC Best Thesis honorable mention award (2014). Benjamin is an active member of the programme and organization committees of the primar venues for visualization (IEEE VIS) and human-computer interaction (ACM CHI). He is a co-founder of the Edinburgh Data Vis meetup with more than 1300 participants. 
 
-This website lists a selection of acedemic activities. For a full reference see my * [Full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing). 
-
+**[Full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing). 
+**
 
 ## Contact
 **Office:** [Informatics Forum (IF 4.30), 10 Crichton St, Edinburgh](https://www.google.com/maps/place/10+Crichton+St,+Edinburgh+EH8+9AB,+UK/data=!4m2!3m1!1s0x4887c78381f1372f:0x8f0142034b156141?sa=X&ved=2ahUKEwjljc_o9NnmAhVj7nMBHX0QBJAQ8gEwAHoECAsQAQ)
@@ -29,15 +29,12 @@ This website lists a selection of acedemic activities. For a full reference see 
 ## Research Interest
 
 * Network Visualization
-* Visualization of spatio-temporal data
+* [Dashboards (learning analytics, health, public, energy, ... )](projects/covid19_vis.html)
+* Visualization of spatio and temporal data
 * Data-driven storytelling
 * Visualization in Augmented and Virtual Reality (Immersive Analytics)
-* Non-digital visualization
 * Teaching and learning visualization
-
-## Short Bio
-
-Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc at Harvard University ([Visual Computing Group](https://www.google.com/url?q=https%3A%2F%2Fvcg.seas.harvard.edu%2F&sa=D&sntz=1&usg=AFQjCNHrOk6QL6lA3f7dQ3s5JLepEn9MiA)), [Monash University](https://ialab.it.monash.edu/), as well as the [Microsoft-Research Inria Joint Centre](https://www.google.com/url?q=https%3A%2F%2Fwww.inria.fr%2Fen%2Fcontent%2Fview%2Ffull%2F4829&sa=D&sntz=1&usg=AFQjCNGBfXkOUQap4XpJvpznhGybg2rRdA). Benjamin was visiting researcher at the University of Washington and Microsoft Research in 2015. He obtained his PhD in 2014 from the Université Paris Sud where he worked at the Aviz Group at Inria. The PhD thesis entitled [Connections, Changes, and Cubes: Unfolding Dynamic Networks for Visual Exploration](https://drive.google.com/file/d/1X3Ockv7Nn3D6x-8BQOeM0rw4ebcySvrL/view?usp=sharing) got awarded an honorable mention as the Best Thesis by the IEEE Visualization Committee. In 2019, Benjamin got awarded the [Eurographics Young Researcher Award](https://www.google.com/url?q=https%3A%2F%2Fwww.eg.org%2Fwp%2Feurographics-awards-programme%2Fthe-young-researcher-award%2F&sa=D&sntz=1&usg=AFQjCNGLooUCw7B6d4RvS-VgDruG9qrC8w) and the [TVCG 2021 Visualization Significant New Researcher Award](https://virtual.ieeevis.org/year/2021/awards.html). 
+* Peace and conflict analysis
 
 ## [Publications (linked here)](publications.html)
 
