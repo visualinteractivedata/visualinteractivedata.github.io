@@ -13,7 +13,7 @@
 # Benjamin Bach
 
 <p><img src="https://vishub.net/people/bach.png" width="150px" style="float: right;"/>
-Benjamin is a <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader (Associate Professor)</a> in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the <a href="https://vishub.net">VisHub</a> Lab. His research investigates more effective and efficient data visualizations, interfaces, and tools for data analysis, communication, and education. He is regularly collaborating with social scientists, historians, biologists, peace reserachers, and public organizations. Benjamin was named  Significant New Researcher by the IEEE VIS conference (2021) and Eurographics Young Researcher (2019). His PhD received a VGTC Best Thesis honorable mention award (2014).
+Benjamin is a <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader (Associate Professor)</a> in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the <a href="https://vishub.net">VisHub</a> Lab. His research investigates more effective and efficient <b>data visualizations, interfaces, and tools for data analysis, communication, and education</b>. He is regularly collaborating with social scientists, historians, biologists, peace reserachers, and public organizations. Benjamin was named  Significant New Researcher by the IEEE VIS conference (2021) and Eurographics Young Researcher (2019). His PhD received a VGTC Best Thesis honorable mention award (2014).
 </p>
 
 ## Contact and Links
