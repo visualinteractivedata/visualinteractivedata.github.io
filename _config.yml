@@ -12,6 +12,7 @@ collections:
     output: true
     order:
       - dashboards.md
+      - tools.md
       - education.md
       - networks.md
       - covid19_vis.md
