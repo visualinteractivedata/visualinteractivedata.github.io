@@ -11,6 +11,7 @@ collections:
   projects:
     output: true
     order:
+      - dashboards.md
       - education.md
       - networks.md
       - covid19_vis.md
