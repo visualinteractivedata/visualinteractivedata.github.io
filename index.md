@@ -2,7 +2,7 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 
 # News
 - [Lara Johnson and Rea Michalopoulou](people.html) joining us as PhD students.
-- **3 [Full papers](publications.html) accepted for [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome)!!**
+- **3 [Full papers](publications.html) accepted for [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome)**, two of which have won **honorable mention**s!!
 - **Vistorian Updated Version launched *(Jan 2022)*:** The Vistorian network visualization platform comes with an new wizard making data upload easier. Visit the Vistorian and our training reseources on [http://vistorian.net](http://vistorian.net).
 - **2 [full papers](publications.html) accepted for [ACM CHI 2022](https://chi2022.acm.org)!!** 
 - **Open PhD positions (*Dec 2021*):** Check at [Positions/PhD](https://visactivities.github.io/jobs) and get in touch with Uta Hinrichs and Ben Bach.
