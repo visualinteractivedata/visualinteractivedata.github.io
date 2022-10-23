@@ -12,7 +12,13 @@
 
 # Benjamin Bach
 
-Benjamin is a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (Associate Professor) in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the [VisHub](https://vishub.net) Lab. Benjamin is an Associate Professor at the University of Edinburgh where he is co-leading the VisHub Lab (https://vishub.net). His research investigates more effective and efficient data visualizations, interfaces, and tools for data analysis, communication, and education. Benjamin was a postdoc at Harvard University (Visual Computing Group), Monash University (Immersive Analytics Lab), Microsoft-Research, and a visiting scholar at the Brain Imaging Center at the University of Washington. Benjamin has received a TVCG Significant New Researcher (2021) and an Eurographics Young Researcher (2019) award. His PhD thesis on the visualization of dynamic network has received a VGTC Best Thesis honorable mention award (2014). Benjamin is an active member of the programme and organization committees of the primar venues for visualization (IEEE VIS) and human-computer interaction (ACM CHI). He is a co-founder of the Edinburgh Data Vis meetup with more than 1300 participants. 
+<table>
+<tr>
+<td><img src="https://vishub.net/people/bach.png" width="200px"></img></td>
+<td>Benjamin is a <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader (Associate Professor)</a> in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the [VisHub](https://vishub.net) Lab. Benjamin is an Associate Professor at the University of Edinburgh where he is co-leading the VisHub Lab (<a hrf="https://vishub.net">https://vishub.net</a>). His research investigates more effective and efficient data visualizations, interfaces, and tools for data analysis, communication, and education. Benjamin was a postdoc at Harvard University (Visual Computing Group), Monash University (Immersive Analytics Lab), Microsoft-Research, and a visiting scholar at the Brain Imaging Center at the University of Washington. Benjamin has received a TVCG Significant New Researcher (2021) and an Eurographics Young Researcher (2019) award. His PhD thesis on the visualization of dynamic network has received a VGTC Best Thesis honorable mention award (2014). Benjamin is an active member of the programme and organization committees of the primar venues for visualization (IEEE VIS) and human-computer interaction (ACM CHI). He is a co-founder of the Edinburgh Data Vis meetup with more than 1300 participants. 
+</td>
+</tr>
+</table>
 
 **[Full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing). 
 **
