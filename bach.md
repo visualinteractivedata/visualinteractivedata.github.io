@@ -14,16 +14,14 @@
 
 <table>
 <tr>
-<td><img src="https://vishub.net/people/bach.png" width="400px"/></td>
+<td><img src="https://vishub.net/people/bach.png" max-width="200px"/></td>
 <td>Benjamin is a <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader (Associate Professor)</a> in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the [VisHub](https://vishub.net) Lab. Benjamin is an Associate Professor at the University of Edinburgh where he is co-leading the VisHub Lab (<a hrf="https://vishub.net">https://vishub.net</a>). His research investigates more effective and efficient data visualizations, interfaces, and tools for data analysis, communication, and education. In 2021 Benjamin was named TVCG Significant New Researcher.
 </td>
 </tr>
 </table>
 
-**[Full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing). 
-**
 
-## Contact
+## Contact and Links
 **Office:** [Informatics Forum (IF 4.30), 10 Crichton St, Edinburgh](https://www.google.com/maps/place/10+Crichton+St,+Edinburgh+EH8+9AB,+UK/data=!4m2!3m1!1s0x4887c78381f1372f:0x8f0142034b156141?sa=X&ved=2ahUKEwjljc_o9NnmAhVj7nMBHX0QBJAQ8gEwAHoECAsQAQ)
 
 * **Email:** [bbach@inf.ed.ac.uk](mailtp:bbach@inf.ed.ac.uk)
@@ -34,46 +32,49 @@
 
 ## Research Interest
 
-* Network Visualization
+* [Network Visualization](projects/networks.html)
 * [Dashboards (learning analytics, health, public, energy, ... )](projects/covid19_vis.html)
-* Visualization of spatio and temporal data
-* Data-driven storytelling
-* Visualization in Augmented and Virtual Reality (Immersive Analytics)
-* Teaching and learning visualization
-* Peace and conflict analysis
+* [Visualization of spatio and temporal data](projects/geographic.html)
+* [Data-driven storytelling](projects/data_comics.html)
+* [Visualization in Augmented and Virtual Reality (Immersive Analytics)](projects/immersive_analytics.html)
+* [Visualization Literacy and Education in visualization](projects/education.html)
+* [Peace and conflict analysis](projects/peace_analytics.html)
+* [Engagement with Visaulization](projects/engagement.html)
 
 ## Short Bio
 Before joining the University of Edinburgh, Benjamin was a postdoc at Harvard University (Visual Computing Group), Monash University (Immersive Analytics Lab), Microsoft-Research, and a visiting scholar at the Brain Imaging Center at the University of Washington. Benjamin has received a TVCG Significant New Researcher (2021) and an Eurographics Young Researcher (2019) award. His PhD thesis on the visualization of dynamic network has received a VGTC Best Thesis honorable mention award (2014). Benjamin is an active member of the programme and organization committees of the primar venues for visualization (IEEE VIS) and human-computer interaction (ACM CHI). He is a co-founder of the Edinburgh Data Vis meetup with more than 1300 participants. 
 
-## [Publications (linked here)](publications.html)
+## [Publications (linked)](publications.html)
 
-## [Projects (linked here)](index.html##projects)
+## [Projects (linked)](index.html##projects)
 
 ## Awards
 
-* 2022 Best Paper Honorable Mention, IEEE VIS (Dashboard Design Patterns)
-* 2022 Best Paper Honorable Mention, IEEE VIS (Exploring Interactions with Printed Data Visualizations in Augmented Reality)
-* **2021 New Significant Researcher Award, IEEE VIS**
-* 2021 ACM CHI Best Paper Honorable Mention: Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking.
-* **2019 Eurographics Young Researcher Award, IEEE/EG Eurographics**
+* 2022 **Best Paper Honorable Mention**, IEEE VIS (Dashboard Design Patterns)
+* 2022 **Best Paper Honorable Mention**, IEEE VIS (Exploring Interactions with Printed Data Visualizations in Augmented Reality)
+* 2021 **New Significant Researcher Award, IEEE VIS**
+* 2021 ACM CHI **Best Paper Honorable Mention**: Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking.
+* 2019 **Eurographics Young Researcher Award, IEEE/EG Eurographics**
 * 2018 BioVis Best Poster Award: Feature Centric Visual Exploration of Genomic Interaction Matrices
-* **2014 VGTC Best Ph.D. Thesis 2014, Honorable Mention, IEEE VIS**
-* 2013 IEEE VIS Best Poster Award: Visualizing Dense Dynamic Networks with Matrix Cubes
-* 2013 ACH CHI Best Paper Award: Weighted graph comparison techniques for brain connectivity analysis
+* 2014 VGTC **Best Ph.D. Thesis Honorable Mention**, IEEE VIS
+* 2013 IEEE VIS **Best Poster Award**: Visualizing Dense Dynamic Networks with Matrix Cubes
+* 2013 ACH CHI **Best Paper Award**: Weighted graph comparison techniques for brain connectivity analysis
 
 ## Current PhD Students
 
-1. John Harper-Lee (since 2018), assistant supervisor
-1. Mashael Alkadi (since 2019), main
-1. Tobias Kauer (since 2019), main
-1. Ryan Bowler (since 2019), main
-1. Lucy Heavens (since 2020), assistant 
-1. Sarah Schöttler (since 2021), main
-1. Magdalena Boucher (since 2022), assistant
+1. John Harper-Lee (since 2018, Visualizing biological networks), assistant supervisor
+1. Mashael Alkadi (since 2019, Understanding network visualization in the wild), main
+1. Tobias Kauer (since 2019, public engagement with data visualizations), main
+1. Ryan Bowler (since 2019, Inclusive HCI), main
+1. Lucy Heavens (since 2020, Language bias in cultural collections), assistant 
+1. Sarah Schöttler (since 2021, Responsive visualization design), main
+1. Magdalena Boucher (since 2022, Educational comics), assistant
+1. Lara Johnson (since 2022, Public health communication), assistant
+1. Rea Michalopoulou (since 2022, VR for health), assistant
 
 ## Graduated PhD Students
-1. Zezhong Wang (2021), main
-1. Kun-Ting Chen (2022), assistant 
+1. Zezhong Wang (2021, Data comics design), main
+1. Kun-Ting Chen (2022, Network visualization), assistant 
 
 
 ## Professional Activities (selection)
