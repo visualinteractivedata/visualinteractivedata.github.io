@@ -1,5 +1,7 @@
 # Applying for a PhD at Edinburgh University
 
+## [Possible PhD Topics](phd-topics) 
+
 ## PhD in the UK
 A PhD in the UK is set for 3 years and requires a Master or equivalent. This system is similar to the German and French one, but slightly different from the US and Canadian one. A PhD in the UK is research-only with no need to take classes. Research proposals and 1st supervisor are required at the time of application. If you wish, you can get extra pay for getting involved in teaching as a teaching assistant.
 A PhD comes with a salary for 3 years and tuition fees apply, depending on your nationality (see below). You can apply and start a PhD all around the year, though there are stricter deadlines for scholarships (usually between Oct-Feb).
