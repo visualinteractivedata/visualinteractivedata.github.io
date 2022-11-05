@@ -6,6 +6,8 @@
 | [Our goals](#goals-and-scenarios)
 | [Questions](#questions)
 
+![](figures/kit-teaser.png)
+
 The VisHub provides [equipment for visualization and interaction (Kit)](#kit-types) to foster research, collaboration, learning, and outreach to researchers across the University. With this kit, the VisHub aims to support especially early career researchers (ECRs) in exploring novel ways to include interactive data visalizations into their research. The funding is coming from a capital grant to support the purchase of advanced tools for data visualization that has been received by the College of Science and Engineering at the University of Edinburgh.
 
 As data visualization is facing ever increasing challenges in terms of data size and complexity, tasks, collaboration, and communication, novel technology have become into the focus of attention. How can we exploit advanced display and interaction technology support better perception, interaction, exploration, and engagement with data? Technologies such as touch-screens, augmented reality head-sets, virtual reality, and 3D printing have reached an unprecedented quality and accessibility. Most of these hardware can be set up easily and is mobile to be transported between labs and workplaces.
