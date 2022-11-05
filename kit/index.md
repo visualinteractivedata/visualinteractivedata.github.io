@@ -12,9 +12,9 @@ As data visualization is facing ever increasing challenges in terms of data size
 
 ## Kit Types
 
-* **[Mixed and Virtual Reality](lab-immersive.html):** VR and mixed reality (MR) headsets. AR-tablets.
-* **[Making and 3D printing](lab-printmake.html):** 3D printing and laser cutting hardware.
-* **[Large Pen & Touch Screens](lab-touchscreen.html):** Touch displays, white boards, large displays. 
+* **[Mixed and Virtual Reality](immersive):** VR and mixed reality (MR) headsets. AR-tablets.
+* **[Making and 3D printing](making):** 3D printing and laser cutting hardware.
+* **[Large Pen & Touch Screens](screens):** Touch displays, white boards, large displays. 
 <!-- * **[Miscallaneous](lab-touchscreen.html):**  -->
 
 ## Goals and Scenarios
