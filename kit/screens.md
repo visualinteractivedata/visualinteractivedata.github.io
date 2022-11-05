@@ -54,7 +54,7 @@ Specs:
 
 ## [XGIMI Aura Ultra-short throw projector](https://uk.xgimi.com/products/aura)
 
-<img style="float: right; width: 200px; margin-left: 10px;" src="figures/xgimi-aura.jpg">
+<img style="float: right; width: 200px; margin-left: 10px;" src="figures/xgimi-aura.png">
 
 This projector can be placed at any wall and will project on that wall. It is an ultra-short throw projector. That means that people can comfortably stand in front of the projection without creating any shadow. The projector stops as soon as someone moves their head too close to the laser. Includes a sound system. The projector can be used as a 2nd screen, connected to a computer. 
 
@@ -63,7 +63,7 @@ This projector can be placed at any wall and will project on that wall. It is an
 
 ## [XGIMI Halo+ portable projector](https://uk.xgimi.com/products/halo-plus?gclid=Cj0KCQjwk5ibBhDqARIsACzmgLSsBlZ0ydiHdNth1wl1wHdsp8HTRwbmIrtPuuH3IccSeH80HuFi1ysaAiZiEALw_wcB)
 
-<img style="float: right; width: 200px; margin-left: 10px;" src="figures/xgimi-haloplus.jpg">
+<img style="float: right; width: 200px; margin-left: 10px;" src="figures/xgimi-haloplus.png">
 
 Small portable projector as second screen. Comes with battery and doesn't need electricity. Sound system in-built.
 
