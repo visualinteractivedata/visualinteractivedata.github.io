@@ -1,17 +1,27 @@
 # Pen, Touch, Screens, and Projection
 
 
-### Microsoft Surface Hub
+## [Microsoft Surface Hub S2](https://www.microsoft.com/en-gb/surface/business/surface-hub-2)
+<img style="float: right; width: 200px; margin-left: 10px;" src="[figures/ms-hub.png](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4U6u7)">
+
+* 85'' 3840 x 2560 pixels display
+* Intel® UHD Graphics 620
+* Microsoft Surface Hub 2 Pen (active)
+* Resolution: 3840 x 2160
+
+## Microsoft Surface Hub
+
 <img style="float: right; width: 200px; margin-left: 10px;" src="figures/ms-hub.png">
 84'' pen + touch display on movable stand, running either on battery or plug electiciy. 
 
-* 84'' 3840 x 2560 pixels display
+* 50'' 3840 x 2560 pixels display
 * Intel® UHD Graphics 620
 * Microsoft Surface Hub 2 Pen (active)
+* Resolution: 3840 x 2560
 
 [Link](https://www.microsoft.com/en-gb/surface/business/surface-hub-2)
 
-### Microsoft Surface Studio 2
+## Microsoft Surface Studio 2
 
 <img style="float: right; width: 200px; margin-left: 10px;" src="figures/ms-studio-2.jpg">
 28'' pen and touch display. Movable from screen-mode (vertical screen) to studio-mode (almost horizontal). Great for skeching, large screen visualizaion, collaborative touch applications.
@@ -25,7 +35,7 @@
 [Link](https://www.microsoft.com/en-gb/surface/devices/surface-studio-2/tech-specs)
 
 
-### Microsoft Surface Book 2
+## Microsoft Surface Book 2
 
 <img style="float: right; width: 200px; margin-left: 10px;" src="figures/ms-book-2.png">
 13'' and 15'' laptop with detachable display and pen+touch surface. Ready for touch applications and AR.x
