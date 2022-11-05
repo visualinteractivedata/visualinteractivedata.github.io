@@ -4,20 +4,21 @@
 ## [Microsoft Surface Hub S2](https://www.microsoft.com/en-gb/surface/business/surface-hub-2)
 <img style="float: right; width: 200px; margin-left: 10px;" src="figures/surfacehub-s2.png">
 
-* 85'' 3840 x 2560 pixels display
+Large, portable touch screen. 
+
+* 85'' 3840 x 2160 pixels display
 * Intel® UHD Graphics 620
 * Microsoft Surface Hub 2 Pen (active)
-* Resolution: 3840 x 2160
-
 ## Microsoft Surface Hub
 
 <img style="float: right; width: 200px; margin-left: 10px;" src="figures/ms-hub.png">
-84'' pen + touch display on movable stand, running either on battery or plug electiciy. 
+50'' pen + touch display on movable stand, running either on battery or plug electiciy. 
+
+Large, portable touch screen.
 
 * 50'' 3840 x 2560 pixels display
 * Intel® UHD Graphics 620
 * Microsoft Surface Hub 2 Pen (active)
-* Resolution: 3840 x 2560
 
 [Link](https://www.microsoft.com/en-gb/surface/business/surface-hub-2)
 
