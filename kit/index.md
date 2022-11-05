@@ -37,7 +37,18 @@ Collaborating across the University and beyond will stimulate research on novel 
 ### Teaching, demonstration and public engagement
 Besides pure research, the VisHub will be a center for demonstration, teaching, and public engagement. This will help ECRs create impact around their work, gaining experience and visibility. Many of these activities will happen inside the Inspace facility, but others will happen in the atrium of the Bayes Centre or the Edinburgh Futures Institute. These provide a highly visible and engaging platform for showcasing research. We have emphasised portable equipment rather than fixed installations, as this enables cutting edge technology to be taken to events outside the university.
 
+
+
 ## Questions
 
-If you have any questions, [get in touch](mailto:bbach@ed.ac.uk)
+Al general quetions should go to [Benjamin Bach](mailto:bbach@ed.ac.uk)
+
+### Where to get the kit? 
+Most of our kit is stored at the [Informatics Forum](https://www.google.com/maps/place/Informatics+Forum,+Newington,+Edinburgh+EH8+9AB/data=!4m2!3m1!1s0x4887c78380560aa5:0xabe2f9d4a73bf5f5?sa=X&ved=2ahUKEwja3bzNvJf7AhV9nf0HHZFrBxYQ8gF6BAhoEAE). 
+
+### How long can we have the kit? 
+That will depend on a) your project, b) where you move it to, and c) demand. Get in touch with us
+
+### How can I transport kit
+Some stuff is small, others you can easily move within Infomratics and Bayes. Again, others are too heavy to be moved away from Informatics. 
 
