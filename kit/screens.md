@@ -2,7 +2,7 @@
 
 
 ## [Microsoft Surface Hub S2](https://www.microsoft.com/en-gb/surface/business/surface-hub-2)
-<img style="float: right; width: 200px; margin-left: 10px;" src="[figures/ms-hub.png](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4U6u7)">
+<img style="float: right; width: 200px; margin-left: 10px;" src="figures/surfacehub-s2.png">
 
 * 85'' 3840 x 2560 pixels display
 * Intel® UHD Graphics 620
