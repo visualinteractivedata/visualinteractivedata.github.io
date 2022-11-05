@@ -2,7 +2,7 @@
 
 ![](figures/kit-teaser.png)
 
-[Kit Types](#kit-types) 
+**Navigation:** [Kit Types](#kit-types) 
 | [Immersive and virtual reality](immersive)
 | [Making and 3D printing](making)
 | [Large Pen & Touch Screens](screens)
