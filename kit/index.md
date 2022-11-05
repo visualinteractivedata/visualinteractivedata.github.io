@@ -25,7 +25,7 @@ As data visualization is facing ever increasing challenges in terms of data size
 ### Collaborative data analytics
 researchers and data analysts typically rely solely on their desktop or laptop computers to interact with their data. These are limited in display size and interaction techniques. Our labs will support complex data analytic tasks with large screens for collaborative co-located decision making, direct touch interaction, and virtual reality, as well as exploring the possibilities of touch devices, physical tokens, and mobile devices.
 
-c## Create novel research areas and support grant proposals
+## Create novel research areas and support grant proposals
 At the intersection of data analytics and the traditional science domains, novel display and visualization technology will lead to new research questions. The equipment in this grant will make it easy for researchers to carry out proof of concept studies in novel areas, equipping them with evidence for carrying out further research.
 
 ### Establish collaborations across the domain boundaries
