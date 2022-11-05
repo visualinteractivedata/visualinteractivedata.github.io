@@ -51,3 +51,23 @@ Specs:
 * 512 GB storage 
 
 [Link](https://www.microsoft.com/en-gb/p/surface-book-2/8mcpzjjcc98c?s_kwcid=AL!4249!3!379043953098!e!!g!!surface+book+2&ef_id=CjwKCAiAmNbwBRBOEiwAqcwwpX_aSaPtJteE-PKTtKnmlBCklzd82cFNjbE2-6kmx3b2y-sijhoH3BoCtDAQAvD_BwE%3aG%3as&invsrc=search&cl_vend=google&cl_ch=sem&cl_camp=976592773&cl_adg=48767308499&cl_crtv=379043953098&cl_kw=surface+book+2&cl_pub=google.com&cl_place=&cl_dvt=c&cl_pos=1t2&cl_mt=e&cl_gtid=kwd-300551366843&cl_pltr=&cl_dim0=CjwKCAiAmNbwBRBOEiwAqcwwpX_aSaPtJteE-PKTtKnmlBCklzd82cFNjbE2-6kmx3b2y-sijhoH3BoCtDAQAvD_BwE%3aG%3as&OCID=AID2000006_SEM_CjwKCAiAmNbwBRBOEiwAqcwwpX_aSaPtJteE-PKTtKnmlBCklzd82cFNjbE2-6kmx3b2y-sijhoH3BoCtDAQAvD_BwE%3aG%3as&activetab=pivot%3aoverviewtab) 
+
+## [XGIMI Aura Ultra-short throw projector](https://uk.xgimi.com/products/aura)
+
+<img style="float: right; width: 200px; margin-left: 10px;" src="figures/xgimi-aura.jpg">
+
+This projector can be placed at any wall and will project on that wall. It is an ultra-short throw projector. That means that people can comfortably stand in front of the projection without creating any shadow. The projector stops as soon as someone moves their head too close to the laser. Includes a sound system. The projector can be used as a 2nd screen, connected to a computer. 
+
+* 120'', 4k display
+* sound system
+
+## [XGIMI Halo+ portable projector](https://uk.xgimi.com/products/halo-plus?gclid=Cj0KCQjwk5ibBhDqARIsACzmgLSsBlZ0ydiHdNth1wl1wHdsp8HTRwbmIrtPuuH3IccSeH80HuFi1ysaAiZiEALw_wcB)
+
+<img style="float: right; width: 200px; margin-left: 10px;" src="figures/xgimi-aura.jpg">
+
+Small portable projector as second screen. Comes with battery and doesn't need electricity. Sound system in-built.
+
+* 4k display
+* sound system
+* Battery powered
+
