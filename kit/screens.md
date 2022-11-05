@@ -63,7 +63,7 @@ This projector can be placed at any wall and will project on that wall. It is an
 
 ## [XGIMI Halo+ portable projector](https://uk.xgimi.com/products/halo-plus?gclid=Cj0KCQjwk5ibBhDqARIsACzmgLSsBlZ0ydiHdNth1wl1wHdsp8HTRwbmIrtPuuH3IccSeH80HuFi1ysaAiZiEALw_wcB)
 
-<img style="float: right; width: 200px; margin-left: 10px;" src="figures/xgimi-aura.jpg">
+<img style="float: right; width: 200px; margin-left: 10px;" src="figures/xgimi-haloplus.jpg">
 
 Small portable projector as second screen. Comes with battery and doesn't need electricity. Sound system in-built.
 
