@@ -1,10 +1,10 @@
-[Kit Types](#kit-types) 
-| [Immersive and virtual reality]()
-| [Making and 3D printing]()
-| [Large Pen & Touch Screens]()
-| [Our goals](#Goals-and-Scenarios)
-
 # VisHub Kit: Visualization and Interaction Equipment
+[Kit Types](#kit-types) 
+| [Immersive and virtual reality](immersive)
+| [Making and 3D printing](making)
+| [Large Pen & Touch Screens](screens)
+| [Our goals](#goals-and-scenarios)
+| [Questions](#questions)
 
 The VisHub provides [equipment for visualization and interaction (Kit)](#kit-types) to foster research, collaboration, learning, and outreach to researchers across the University. With this kit, the VisHub aims to support especially early career researchers (ECRs) in exploring novel ways to include interactive data visalizations into their research. The funding is coming from a capital grant to support the purchase of advanced tools for data visualization that has been received by the College of Science and Engineering at the University of Edinburgh.
 
