@@ -17,7 +17,7 @@ As data visualization is facing ever increasing challenges in terms of data size
 ## Kit Types
 
 * **[Mixed and Virtual Reality](immersive):** VR and mixed reality (MR) headsets. AR-tablets.
-* **[Making and 3D printing](making):** 3D printing and laser cutting hardware.
+* **Making and 3D printing:** 3D printing and laser cutting hardware.
 * **[Large Pen & Touch Screens](screens):** Touch displays, white boards, large displays. 
 <!-- * **[Miscallaneous](lab-touchscreen.html):**  -->
 
@@ -25,7 +25,7 @@ As data visualization is facing ever increasing challenges in terms of data size
 ### Collaborative data analytics
 researchers and data analysts typically rely solely on their desktop or laptop computers to interact with their data. These are limited in display size and interaction techniques. Our labs will support complex data analytic tasks with large screens for collaborative co-located decision making, direct touch interaction, and virtual reality, as well as exploring the possibilities of touch devices, physical tokens, and mobile devices.
 
-## Create novel research areas and support grant proposals
+### Create novel research areas and support grant proposals
 At the intersection of data analytics and the traditional science domains, novel display and visualization technology will lead to new research questions. The equipment in this grant will make it easy for researchers to carry out proof of concept studies in novel areas, equipping them with evidence for carrying out further research.
 
 ### Establish collaborations across the domain boundaries
