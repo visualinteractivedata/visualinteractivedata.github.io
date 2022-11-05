@@ -1,3 +1,9 @@
+[Kit Types](#kit-types) 
+| [Immersive and virtual reality]()
+| [Making and 3D printing]()
+| [Large Pen & Touch Screens]()
+| [Our goals](#Goals-and-Scenarios)
+
 # Visualization and Interaction Equipment (VisHub Kit)
 
 The VisHub provides [equipment for visualization and interaction (Kit)](#kit-types) to foster research, collaboration, learning, and outreach to researchers across the University. With this kit, the VisHub aims to support especially early career researchers (ECRs) in exploring novel ways to include interactive data visalizations into their research. The funding is coming from a capital grant to support the purchase of advanced tools for data visualization that has been received by the College of Science and Engineering at the University of Edinburgh.
@@ -7,11 +13,11 @@ As data visualization is facing ever increasing challenges in terms of data size
 ## Kit Types
 
 * **[Mixed and Virtual Reality](lab-immersive.html):** VR and mixed reality (MR) headsets. AR-tablets.
-* **[Physical Data Visualization Lab](lab-printmake.html):** 3D printing and laser cutting hardware.
-* **[Large and Touch Screens](lab-touchscreen.html):** Touch displays, white boards, large displays. 
+* **[Making and 3D printing](lab-printmake.html):** 3D printing and laser cutting hardware.
+* **[Large Pen & Touch Screens](lab-touchscreen.html):** Touch displays, white boards, large displays. 
 <!-- * **[Miscallaneous](lab-touchscreen.html):**  -->
 
-## Our Goals
+## Goals and Scenarios
 ### Collaborative data analytics
 researchers and data analysts typically rely solely on their desktop or laptop computers to interact with their data. These are limited in display size and interaction techniques. Our labs will support complex data analytic tasks with large screens for collaborative co-located decision making, direct touch interaction, and virtual reality, as well as exploring the possibilities of touch devices, physical tokens, and mobile devices.
 
