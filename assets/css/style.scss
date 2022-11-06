@@ -65,3 +65,71 @@ img[alt~="people"] {
 .personText {
 	grid-column: 2;
 }
+
+/*make content section wider*/
+.wrapper {
+	width: 960px; /*originally 860px*/
+}
+section {
+	width: 600px; /*originally 500px*/
+}
+/*media query also needs to be +100px so this is all copied from theme*/
+/*need to copy in ALL media queries because they get overwritten with the edits here*/
+/*would probably be best to just fork the theme to do this properly - another time! */
+@media print, screen and (max-width: 1060px) {
+	div.wrapper {
+		width: auto;
+		margin: 0;
+	}
+
+	header,
+	section,
+	footer {
+		float: none;
+		position: static;
+		width: auto;
+	}
+
+	header {
+		padding-right: 420px;
+	}
+
+	section {
+		border: 1px solid #e5e5e5;
+		border-width: 1px 0;
+		padding: 20px 0;
+		margin: 0 0 20px;
+	}
+
+	header a small {
+		display: inline;
+	}
+
+	header ul {
+		position: absolute;
+		right: 50px;
+		top: 52px;
+	}
+}
+
+@media print, screen and (max-width: 720px) {
+	header {
+		padding: 0;
+	}
+
+	header ul,
+	header p.view {
+		position: static;
+	}
+}
+
+@media print, screen and (max-width: 480px) {
+	header ul {
+		width: 99%;
+	}
+
+	header li,
+	header ul li + li + li {
+		width: 33%;
+	}
+}
