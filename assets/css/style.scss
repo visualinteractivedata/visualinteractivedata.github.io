@@ -7,8 +7,13 @@ body {
 	font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+/*maintain same font weight on mouseover*/
+/*bold links stay bold, normal links stay normal*/
+a {
+	font-weight: inherit;
+}
 a:hover {
-	font-weight: normal;
+	font-weight: inherit;
 	text-decoration: underline;
 }
 
