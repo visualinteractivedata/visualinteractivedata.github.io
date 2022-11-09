@@ -1,3 +1,5 @@
+# Immersive Visualization in Mixed and Virtual Reality
+
 ![](https://vishub.net/figures/immersiveanalytics.png)
 
 **Problem:** Lots of data is embedded into specific spatial contexts, such as, sensors, transportation, architecture, data about books in libraries, or even on an infographic on paper, poster, or screen. Visualizing these data on displays causes a mismatch between the specific local context (e.g., where exactly is the sensor located?) and the representation of the respective data. This mismatch can be bridged by mixed reality that projects visual representations directly into a viewers' field of view, overlaying it with reality. 
