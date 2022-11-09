@@ -1,3 +1,4 @@
+# Guidance and Tools for Efficient Dashboard Design
 ![phd-dashboard](https://user-images.githubusercontent.com/1230497/200613504-582e691d-b418-438b-b88b-090b500b4dea.png)
 
 **Problem:** Dashboards are ubiquitous across many domains including health, energy, governance, business etc. With the recent Covid pandemic, dashboards have found their way into the mainstream media with may news outlets publishing dashboards on public health, climate change, and other public issues. However, there is very little applicable guidance on what makes a dashboard effective and how to design effective dashboards. 
