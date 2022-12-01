@@ -67,14 +67,14 @@
     "Personal Site": null,
     "Bio": "PhD student working on <i>Learning Analytics</i>.",
     "Type": "Research Student",
-    "Image": "/people/default.png"
+    "Image": null,
   },
   "John Harper-Lee": {
     "Google Scholar": null,
     "Personal Site": null,
     "Bio": "working on <i>Biological Data Analysis</i>.",
     "Type": "Research Student",
-    "Image": "/people/default.png"
+    "Image": null,
   },
   "Ryan Bowler": {
     "Google Scholar": null,
@@ -93,7 +93,7 @@
   "Sarah Schöttler": {
     "Google Scholar": "https://scholar.google.com/citations?hl=en&user=WpKVOq0AAAAJ",
     "Personal Site": "https://sarahschoettler.com",
-    "Bio": "PhD student working on <i>non-map-based ways of visualizing geographic data</i>.",
+    "Bio": "PhD student working on responsive geographic visualization.",
     "Type": "Research Student",
     "Image": "/people/schoettler.jpg"
   }, 
@@ -108,7 +108,13 @@
     "Bio": "PhD student researching health outcomes in later life.  She is interested in effective ways to communicate about emotionally difficult health topics which the general public may have a limited awareness of as well as negative or erroneous perceptions.",
     "Type": "Research Student",
     "Image": "/people/Lara_Johnson.jpg"
-  }
- 
-  
+  },
+    "Ran Chen": {
+    "Bio": "visiting PhD student from Zhejiang University working on designing effective and user-friendly Data Science Software to facilitate data preparation, analytics, mining, and visualization.",
+    "Type": "Research Student",
+    "Image": null,
+    "Personal Site": "https://crcrcry.github.io",
+    "Google Scholar": "https://scholar.google.com/citations?user=uUmjTkgAAAAJ&hl=en"
+
+  },
 }

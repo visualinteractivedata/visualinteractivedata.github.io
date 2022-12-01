@@ -2,13 +2,20 @@
     <td style="vertical-align: top; width: 100px;"> -->
 <div class="personWrapper">
     <div class="personImage">
-        <img src="{{include.person[1].Image}}" alt="Photograph of {{include.person[0]}}" />
+        {% if include.person[1]['Image'] %}
+        <img
+            src="{{include.person[1].Image}}"
+            alt="Photograph of {{include.person[0]}}"
+        />
+        {% else %}
+        <img src="/people/default.png" alt="Smiley face placeholder image" />
+        {% endif %}
     </div>
 
     <div class="personText">
         {% if include.person[1]['Personal Site'] %}
         <b
-            ><a href="{{include.person[1]['Personal Site']}}"
+            ><a href="{{include.person[1]['Personal Site']}}" target="_blank"
                 >{{include.person[0]}}</a
             ></b
         >, {% else %} <b>{{include.person[0]}}</b>, {% endif %}
@@ -16,7 +23,9 @@
         <br />
 
         {% if include.person[1]['Google Scholar'] %}
-        <a href="{{include.person[1]['Google Scholar']}}">Google Scholar</a>
+        <a href="{{include.person[1]['Google Scholar']}}" target="_blank"
+            >Google Scholar</a
+        >
         {% endif %}
     </div>
 </div>
