@@ -101,6 +101,7 @@ Before joining the University of Edinburgh, Benjamin was a postdoc at Harvard Un
 * IEEE VR: 2019, 2021
 
 ## Invited Talks
+* June 2023: [Why, What, How: Data Visualization for Exploration and Communication](https://docs.google.com/presentation/d/1OhPfbCqM3QHu70j2mtaN-ggwJeNMQQpOCzBFdEBIp74/edit?usp=sharing), Annual Conference of the Centre for Statistics, Edinburgh 
 * November 2022: [Interacting with Data, Visualizing Information: How to Use Data Visualization for Effective Exploration and Explanation.](https://docs.google.com/presentation/d/1pgluACqCAApUyhU6mTejX5vlErlUTWQpzrAsijQSVYU/edit?usp=sharing), ETH AI Center, Zurich.
 * November 2022: [Thinking Visualization / Designing for Knowledge](https://docs.google.com/presentation/d/1eePKydPQdk29rNU6zvS_F8NJoGC8Uj8gF4f6_qkC-fs/edit?usp=sharing), University of Zurich (UZH), Zurich.
 * June 2022: [Open Your Eyes, Finding Shapes for Your Data](https://docs.google.com/presentation/d/1nUVXhqPdUi2Ut8GUpafC0U65c8jU8pjo332KQIlDNss/edit?usp=sharing). Summer Institute in Computational Social Sciences, University of Edinburgh
