@@ -101,6 +101,7 @@ Before joining the University of Edinburgh, Benjamin was a postdoc at Harvard Un
 * IEEE VR: 2019, 2021
 
 ## Invited Talks
+* July 2023: [Sifting Through the Haystack: From Data to Stories with Visualization](https://docs.google.com/presentation/d/1UDlLYk_ORcUZK0PRCHmSeMBOQSn0mqA6avw8I4HpzaA/edit?usp=sharing), Keynote GrapHNR Conference, Mainz
 * June 2023: [Show me the Data: From Data to Insights and Stories with Visualizations](https://docs.google.com/presentation/d/1LiVS9lFjDLCcv2sdH-e2e8RCXDXyh-VWICbkYJxikHI/edit?usp=sharing), HEIBRIDS Spring School, Berlin
 * June 2023: [Designing for Understanding: How to Empower People to Create+Use Visualizations?
 ](https://docs.google.com/presentation/d/1ENmz27PEKIXK5m3FBCEKufGk4dgyZlyBKtNw1ZCiobg/edit?usp=sharing), Keynote for Journe de la Visu, Paris-Saclay
