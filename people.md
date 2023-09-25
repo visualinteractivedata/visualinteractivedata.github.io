@@ -4,11 +4,15 @@ title: People
 ---
 
 ## Alumni (date left)
-- [Iain Carson](https://www.linkedin.com/in/iain-carson/?originalSubdomain=uk) (Teacher, 2021) 
-- [Philip Heslop](https://www.northumbria.ac.uk/about-us/our-staff/h/philip-heslop/) (PostDoc, 2021)
-- [Zezhong Wang](https://zezhongwang.com) (PhD, 2018-2022)
-- Vebjørn Halvfjerdvik (Master by Research, 2021)
-- Aba-Sah Dadzie (University Teacher, 2021) 
+
+- [James Scott-Brown](http://jamesscottbrown.com), PostDoc (2023)
+- John Harper-Lee, Research Student (2023)
+- [Ran Chen](https://crcrcry.github.io), Visiting Student (2022)
+- [Iain Carson](https://www.linkedin.com/in/iain-carson/?originalSubdomain=uk), Teacher (2021)
+- [Philip Heslop](https://www.northumbria.ac.uk/about-us/our-staff/h/philip-heslop/), PostDoc (2021)
+- [Zezhong Wang](https://zezhongwang.com), PhD (2018-2022)
+- Vebjørn Halvfjerdvik, Master by Research (2021)
+- Aba-Sah Dadzie, University Teacher (2021)
 - [Arran Ridley](https://uclab.fh-potsdam.de/people/arran-ridley/), Research Assistant (2020)
 - [Dave Murray-Rust](http://dave.murray-rust.org), Senior Lecturer (2020)
 - [Renaud Blanch](http://iihm.imag.fr/en/member/blanch), Visiting Researcher, Université Grenoble Alpes (2020)
