@@ -5,6 +5,7 @@ title: People
 
 ## Alumni (date left)
 
+- [Devanjan Bhattacharya](https://sites.google.com/site/bhattacharyadevanjan/home), PostDoc (2023)
 - [James Scott-Brown](http://jamesscottbrown.com), PostDoc (2023)
 - John Harper-Lee, Research Student (2023)
 - [Ran Chen](https://crcrcry.github.io), Visiting Student (2022)
