@@ -1,6 +1,7 @@
 The **VisHub is an interdisciplinary research lab and hub for teaching, collaboration, and outreach around data visualization** hosted by the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). We research creative methods for interactive, exploratory and explanatory data visualizations across domains and environments (e.g., screen, physical, immersion). Our goal is to make data visualiztion and data analytics understandable by everyone. Find out more about our [research](#projects) and [outreach](#community-activities) below and don't hestitate to get in touch.
 
 # News
+- Hiring for a [permanent teaching position](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html) at the intersection of data, design and technology.
 - We are hosting the international [Information+ conference](https://informationplusconference.com/) on information design and data visualization in Edinburgh in November 2023.
 - [Join us for a **PhD** and check our topics](jobs/index.html)
 - [Lara Johnson and Rea Michalopoulou](people.html) joining us as PhD students.
