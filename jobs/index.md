@@ -2,7 +2,7 @@
 
 ## PhD Projects
 
-Competitive __[PhD scholarships](phd-edinburgh.html)__ are available **all year around** through the School of Informatics or the [centre for doctoral training in Natual Language Processing](https://web.inf.ed.ac.uk/cdt/natural-language-processing). We are always interested in ambitious students in all areas of our [research](https://vishub.net/index#projects). Get in touch with us to discuss. Keep in mind that funding is extremely competitive and any funding thought by the student will help the process.
+Competitive __[PhD scholarships](../phd-edinburgh.html)__ are available **all year around** through the School of Informatics or the [centre for doctoral training in Natual Language Processing](https://web.inf.ed.ac.uk/cdt/natural-language-processing). We are always interested in ambitious students in all areas of our [research](https://vishub.net/index#projects). Get in touch with us to discuss. Keep in mind that funding is extremely competitive and any funding thought by the student will help the process.
 
 * [Visualizing Cultural Collections](phd-visCulturalCollections.html)
 * [Re-thinking Visualization as Part of Humanities Research](phd-vishumanities-nov2021.html)
