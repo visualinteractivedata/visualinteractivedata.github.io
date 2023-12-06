@@ -14,6 +14,8 @@ Competitive __[PhD scholarships](../phd-edinburgh.html)__ are available **all ye
 
 ## Other Positions
 
+* [Permanent Teaching position](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990) at the Institute for Design Informatics (deadline Jan 5, 2024) (https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990)
+
 ## Internships and collaborations
 
 We always welcome ambitious and enthusistaic MSc and PhD students to join our research across all areas of our [research](https://vishub.net/index#projects) and to work with our PhD students and postdocs. In some cases, there might be project money available. Get in touch with us to learn about possible projects or propose your own project. 
