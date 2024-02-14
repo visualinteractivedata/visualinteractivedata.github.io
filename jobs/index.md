@@ -7,14 +7,11 @@ Competitive __[PhD scholarships](../phd-edinburgh.html)__ are available **all ye
 * [Visualizing Cultural Collections](phd-visCulturalCollections.html)
 * [Re-thinking Visualization as Part of Humanities Research](phd-vishumanities-nov2021.html)
 * [Dashboard design and visualization](../phds/dashboards) ([apply by Nov 25, 2022](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=491)) 
-* [Network visualization](../phds/networks) ([apply by Nov 25, 2022](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=491))
-* [Immersive Analytics](../phds/immersive) ([apply by Nov 25, 2022](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=491))
-* [Visualization Literacy and Education](../phds/literacy) ([apply by Nov 25, 2022](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=491))
-* [Peace and Conflict Analysis](../phds/peaceandconflict) ([apply by Nov 25, 2022](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=491))
 
 ## Other Positions
 
 * [Permanent Teaching position](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990) at the Institute for Design Informatics (deadline Jan 5, 2024) (https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990)
+* [Visualization Researcher / Desiger / Developer] for late March to April 2024
 
 ## Internships and collaborations
 
