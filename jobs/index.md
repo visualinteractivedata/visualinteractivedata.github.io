@@ -11,7 +11,7 @@ Competitive __[PhD scholarships](../phd-edinburgh.html)__ are available **all ye
 ## Other Positions
 
 * [Permanent Teaching position](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990) at the Institute for Design Informatics (deadline Jan 5, 2024) (https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990)
-* [Visualization Researcher / Desiger / Developer] for late March to April 2024
+* [Visualization Researcher / Desiger / Developer](visres2024) for late March to April 2024
 
 ## Internships and collaborations
 
