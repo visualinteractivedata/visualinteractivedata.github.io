@@ -13,17 +13,16 @@
 # Benjamin Bach
 
 <p><img src="https://vishub.net/people/bach.png" width="150px" style="float: right;"/>
-Benjamin is a <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader (Associate Professor)</a> in Design Informatics and Visualization at the University of Edinburgh. He established and is now co-leading the <a href="https://vishub.net">VisHub</a> Lab. His research investigates more effective and efficient <b>data visualizations, interfaces, and tools for data analysis, communication, and education</b>. He is regularly collaborating with social scientists, historians, biologists, peace reserachers, and public organizations. Benjamin was named  Significant New Researcher by the IEEE VIS conference (2021) and Eurographics Young Researcher (2019). His PhD received a VGTC Best Thesis honorable mention award (2014).
+
+Benjamin is a researcher at Inria with the [Bivwac Team](https://www.bivwac.fr), France. He is also an Associate Professor ([Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank) in Design Informatics and Visualization at the University of Edinburgh where he founded the <a href="https://vishub.net">VisHub</a> research group. Benjamin's research investigates more effective and efficient <b>data visualizations, interfaces, and tools for data analysis, communication, and education</b>. He is regularly collaborating with social scientists, historians, biologists, peace reserachers, and public organizations. Benjamin was named  Significant New Researcher by the IEEE VIS conference (2021) and Eurographics Young Researcher (2019). His PhD received a VGTC Best Thesis honorable mention award (2014).
 </p>
 
 ## Contact and Links
-**Office:** [Informatics Forum (IF 4.30), 10 Crichton St, Edinburgh](https://www.google.com/maps/place/10+Crichton+St,+Edinburgh+EH8+9AB,+UK/data=!4m2!3m1!1s0x4887c78381f1372f:0x8f0142034b156141?sa=X&ved=2ahUKEwjljc_o9NnmAhVj7nMBHX0QBJAQ8gEwAHoECAsQAQ)
 
-* **Email:** [bbach@inf.ed.ac.uk](mailtp:bbach@inf.ed.ac.uk)
+* **Email:** [benjamin.bach@inria.fr](mailto:benjamin.bach@inria.fr), [bbach@inf.ed.ac.uk](mailto:bbach@inf.ed.ac.uk)
 * **Twitter:** [@benjbach](https://twitter.com/benjbach)
 * **[Full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing)**
 * **[Google Scholar](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ)**
-* **[Office Hours](https://forms.gle/Xjud1PjxKP9rZX2B6)** 
 
 ## Research Interest
 
