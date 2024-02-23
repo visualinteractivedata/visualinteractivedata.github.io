@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% assign grouped = site.data.projects | group_by: 'year' | sort:'year' | reverse %}
+
+<ul class="menu">
+	{% for yr in grouped %}
+	<li><a href="#{{ yr.name }}">{{ yr.name }}</a></li>
+	{% endfor %}
+</ul>
+
+<h1>Projects/Tools</h1>
+
+{% for yr in grouped %}
+
+<h2>{{ yr.name }}</h2>
+
+{% for item in yr.items %}
+{% include project.html item=item %}
+{% endfor %}
+
+{% endfor %}
