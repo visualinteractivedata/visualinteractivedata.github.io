@@ -1,30 +1,29 @@
-<div class="pubWrapper">
-	<div class="pubImage">
-		<img
-			src="/figures/{{ include.item.img }}"
-			alt="{{ include.item.img_alt }}"
-		/>
-	</div>
+<h2>
+	<a
+		href="{{ include.item.website }}"
+		style="font-weight: bold"
+		target="_blank"
+		>{{ include.item.title }}</a
+	>
+</h2>
 
-	<div class="pubText">
-		<p>
-			<a
-				href="{{ include.item.website }}"
-				style="font-weight: bold"
-				target="_blank"
-				>{{ include.item.title }}</a
-			>: {{ include.item.authors }}.
-			({{ include.item.year}}).
+<img
+	src="/figures/{{ include.item.img }}"
+	alt="{{ include.item.img_alt }}"
+/>
 
-			{% if include.item.partners %}
-			Partners: <span style="font-weight: bold;"> {{ include.item.partners }}</span>
-			{% endif %}
-		</p>
+<p>
+	{{ include.item.authors }}.
+	({{ include.item.year}}).
 
-		<p>
-			{% if include.item.description %}
-			{{ include.item.description }}
-			{% endif %}
-		</p>
-	</div>
-</div>
+	<br>
+	{% if include.item.partners %}
+	Partners: <span style="font-weight: bold;"> {{ include.item.partners }}</span>
+	{% endif %}
+</p>
+
+<p>
+	{% if include.item.description %}
+	{{ include.item.description }}
+	{% endif %}
+</p>
