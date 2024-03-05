@@ -27,3 +27,42 @@
 	{{ include.item.description }}
 	{% endif %}
 </p>
+
+<p>
+	{% if include.item.publications %}
+		<h3>Publications</h3>
+		{% assign pubs = include.item.publications | split: "," %}
+
+		<!-- Convert to an array on integers -->
+		{% assign integers = "" | split: "" %}
+		{% for item in pubs %}
+		  {% assign num = item | plus: -2 %}
+		  {% assign integers = integers | push: num %}
+		{% endfor %}
+
+		{% for pInd in integers %}
+			{% assign pub = site.data.publications[pInd] %}
+
+			<div class="pubText">
+			<p>
+			<a
+				href="{{ pub.paperlink }}"
+				style="font-weight: bold"
+				target="_blank"
+				>{{ pub.title }}</a
+			>: {{ pub.authors }}.
+			<i>{{ pub.journal_conf }}.</i>
+			({{ pub.year}}). {% if pub.weblink %}
+			<a href="{{ pub.weblink }}" target="_blank">[WEB]</a>
+			{% endif %} {% if pub.videolink %}
+			<a href="{{ pub.videolink }}" target="_blank">[VIDEO]</a>
+			{% endif %}{% if pub.awards %}
+			<span style="font-weight: bold; text-transform: uppercase"
+				>{{ pub.awards }}</span>
+			{% endif %}
+			</p>
+			</div>
+
+		{% endfor %}
+	{% endif %}
+</p>
