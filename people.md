@@ -7,6 +7,7 @@ title: People
 - Sofia Creatio (visiting PhD student, 2023)
 - Valentin Edelsbrunner (visiting MSc student, 2023)
 - [Xinhuan Shu](https://shuxinhuan.github.io), PostDoc (2023)
+- Ryan Bowler, PhD student (until 2023)
 - [Devanjan Bhattacharya](https://sites.google.com/site/bhattacharyadevanjan/home), PostDoc (2023)
 - [James Scott-Brown](http://jamesscottbrown.com), PostDoc (2023)
 - John Harper-Lee, Research Student (2023)
