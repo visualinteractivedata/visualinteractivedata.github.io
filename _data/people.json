@@ -1,17 +1,17 @@
 {
-  "Benjamin Bach": {
-    "Google Scholar": "https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao",
-    "Personal Site": "https://visualinteractivedata.github.io/bach",
-    "Bio": "Reader (Associate Professor) in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.",
-    "Type": "Faculty",
-    "Image": "bach.png"
-  },
   "Uta Hinrichs": {
     "Google Scholar": "https://scholar.google.com/citations?user=kGPAR0YAAAAJ&hl=en",
     "Personal Site": "http://utahinrichs.de/",
     "Bio": "Reader (Associate Professor) in Data Visualisation and researcher at Design Informatics and the Edinburgh Futures Institute at the University of Edinburgh. Visualization as part of Humanities Research, Digital Humanities, Visualization of Cultural Collections, Data Physicalization, Visualization and Interaction Design Processes and Prototyping, Visualization Teaching & Learning, Qualitative Research Methods.",
     "Type": "Faculty",
     "Image": "hinrichs.jpg"
+  },
+  "Benjamin Bach": {
+    "Google Scholar": "https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao",
+    "Personal Site": "https://visualinteractivedata.github.io/bach",
+    "Bio": "Reader (Associate Professor) in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.",
+    "Type": "Faculty",
+    "Image": "bach.png"
   },
   "Bettina Nissen": {
     "Google Scholar": "https://scholar.google.com/citations?user=yv5H92AAAAAJ&hl=en&oi=ao",
@@ -34,13 +34,6 @@
     "Personal Site": "https://alexispister.github.io/",
     "Type": "Research and Teaching"
   },
-  "Xinhuan Shu": {
-    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=S4bByOIAAAAJ",
-    "Personal Site": "https://shuxinhuan.github.io/",
-    "Bio": "postdoctoral researcher working on the Vistorian network visualization project. Her research explores innovative approaches to facilitate human-data interaction in data-driven communication and decision-making.",
-    "Type": "Research and Teaching",
-    "Image": "xinhuan.png"
-  },
   "Tomas Vancisin": {
     "Google Scholar": "https://scholar.google.com/citations?user=N21-2bIAAAAJ&hl=en&oi=ao",
     "Bio": "research associate in Data Visualization at PeaceRep (School of Law), focusing on visualization of transition trajectories, and the mediation space of peace and transition processes. His research interests include Visualization as part of Humanities Research, Visualization of Historical Cultural Collections, Provenance Visualization and Digital Humanities.",
@@ -52,23 +45,8 @@
     "Bio": "PhD student working on <i>Learning Analytics</i>.",
     "Type": "Research Student"
   },
-  "Ryan Bowler": {
-    "Bio": "informatics PhD student researching ways to understand and implement the complexities of human time within Human-Computer-Interactions.",
-    "Type": "Research Student",
-    "Image": "bowler.jpg"
-  },
-  "Sofia Cretaio": {
-    "Bio": "Visiting PhD student from Polytechnic of Turin working on data-driven approaches to innovate spatial and organizational dynamics in the workplace, fostering safety and sustainability.",
-    "Type": "Research Student",
-    "Image": "sofia_cretaio.jpg"
-  },
   "Sarah Dunn": {
     "Bio": "PhD student",
-    "Type": "Research Student"
-  },
-  "Valentin Edelsbrunner": {
-    "Bio": "visiting computer science student from the Technical University of Graz working on techniques for visualizing geographic networks.",
-    "Image": "valentin_edelsbrunner.jpg",
     "Type": "Research Student"
   },
   "Lucy Havens": {
@@ -77,11 +55,6 @@
     "Bio": "PhD Student on Retrieving Bias in Cultural Collections using Natural Language Processing and Visualization.",
     "Type": "Research Student",
     "Image": "LucyHavens.jpg"
-  },
-  "Lara Johnson": {
-    "Bio": "PhD student researching health outcomes in later life.  She is interested in effective ways to communicate about emotionally difficult health topics which the general public may have a limited awareness of as well as negative or erroneous perceptions.",
-    "Type": "Research Student",
-    "Image": "Lara_Johnson.jpg"
   },
   "Tobias Kauer": {
     "Google Scholar": "https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao",
