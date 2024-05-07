@@ -45,8 +45,9 @@
     "Type": "Research Student"
   },
   "Sarah Dunn": {
-    "Bio": "PhD student",
-    "Type": "Research Student"
+    "Bio": "PhD student researching healthcare data communication to patients and their families in the hospital setting via 'Data Comics'",
+    "Type": "Research Student",
+    "Image": "sarah_dunn.jpg"
   },
   "Tobias Kauer": {
     "Google Scholar": "https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao",
