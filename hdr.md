@@ -3,10 +3,10 @@ _This page is for jury members only, please do not circulate_.
 
 ## _Understanding Data, One Visualization at a Time: Forms, Tools, and Skills for Big-Data Visual Exploration and Communication_ 
 
-This thesis presents novel forms and tools to communicating data and creating visualizations. With the proliferation of data-driven practices, data visualizations are essential for the analysis of data as well as the communication to diverse stakeholders. Yet, the design of visualization and communication of data are made challenging by the complexity of the real-world phenomena represented by the data, the datasets themselves, and the expertise of the analysts and communicators. Hence, in this thesis, I seek answers to the question \textit{How to make people understand complex phenomena through data?} and summarize some of my research addressing three respective key challenges within this context: 
-(i) the creation and study of \textbf{forms for data-driven storytelling and communication} (data comics, dashboards, visualization atlases, visualization articles, dataGIFs);
-(ii) the \textbf{design and implementation of tools to design, create and use visualization} (authoring interactive data comics, semi-automatic data tours, a network visualization grammar); 
-and (iii) the \textbf{education in skills} related to visualization literacy and design (challenges experienced in exploring networks, challenges in visualization education, automatic explanation of visual patterns). 
+This thesis presents novel forms and tools to communicating data and creating visualizations. With the proliferation of data-driven practices, data visualizations are essential for the analysis of data as well as the communication to diverse stakeholders. Yet, the design of visualization and communication of data are made challenging by the complexity of the real-world phenomena represented by the data, the datasets themselves, and the expertise of the analysts and communicators. Hence, in this thesis, I seek answers to the question _How to make people understand complex phenomena through data?_ and summarize some of my research addressing three respective key challenges within this context: 
+(i) the creation and study of __forms for data-driven storytelling and communication__ (data comics, dashboards, visualization atlases, visualization articles, dataGIFs);
+(ii) the __design and implementation of tools to design, create and use visualization__ (authoring interactive data comics, semi-automatic data tours, a network visualization grammar); 
+and (iii) the __education in skills__ related to visualization literacy and design (challenges experienced in exploring networks, challenges in visualization education, automatic explanation of visual patterns). 
 I conclude with a discussion of future research directions around novel forms of storytelling, visualization authoring and design, and visualization education. 
 
 
