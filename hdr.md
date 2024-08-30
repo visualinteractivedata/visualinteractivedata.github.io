@@ -102,9 +102,9 @@ There are other roles like the President of the jury but those are usually fulfi
 
 # Timeline 
 
-1. Ben sends you the thesis document through email: early September
-2. Rapporteurs send their rapports to the University: early November (at least one month after receiving the thesis document. You have about 2 months time)
-3. Planned defense: mid December. 
+1. Ben sends you the thesis document through email: **early September**
+2. Rapporteurs send their rapports to the University: **early November** (at least one month after receiving the thesis document. You have about 2 months time)
+3. Planned defense: **mid December**. 
 
 # Questions?
 Please ask me if you have any question. As we progress through the administrative process, you will be put in touch with administrative assistants to whom you will also be able to ask questions.
