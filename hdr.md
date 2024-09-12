@@ -18,8 +18,6 @@ Some liken the HDR to academic tenure (US) but the HDR does not change anything 
 The HDR process is __modeled after the PhD process, but it is lighter__: many consider it a formality. The candidate first requests the authorization to apply for an HDR from their institution, who grants the request if their CV shows enough experience (having co-advised a single PhD student is often sufficient). The candidate then __writes a thesis (the HDR manuscript) that summarizes their past research or a subset__ of it. This manuscript is then read by three external reviewers who write a report. If the three reports authorize the defense, the candidate defends in front of a jury who asks questions. The jury then writes a short defense report and – unless there is a very serious problem – grants the HDR.
 
 
-
-
 # The thesis document 
 
 My thesis document is planned to contain 
@@ -32,55 +30,49 @@ My thesis document is planned to contain
 
 ### Part I: Formats for Communication and Presentation 
 1. Bach, B., Wang, Z., Farinella, M., Murray-Rust, D. and Henry Riche, N., 2018,
-April. Design patterns for data comics. In Proceedings of the 2018 chi conference
+April. [Design patterns for data comics](https://dl.acm.org/doi/10.1145/3173574.3173612). In Proceedings of the 2018 chi conference
 on human factors in computing systems (pp. 1-12).
 
 2. Wang, Z., Wang, S., Farinella, M., Murray-Rust, D., Henry Riche, N. and Bach,
-B., 2019, May. Comparing effectiveness and engagement of data comics and infograph-
-ics. In Proceedings of the 2019 CHI Conference on Human Factors in Comput-
+B., 2019, May. [Comparing effectiveness and engagement of data comics and infographics](https://dl.acm.org/doi/10.1145/3290605.3300483). In Proceedings of the 2019 CHI Conference on Human Factors in Comput-
 ing Systems (pp. 1-12).
 
 3. Bach, B., Freeman, E., Abdul-Rahman, A., Turkay, C., Khan, S., Fan, Y. and
-Chen, M., 2022. Dashboard design patterns. IEEE Transactions on Visualization
+Chen, M., 2022. [Dashboard design patterns](https://www.computer.org/csdl/journal/tg/2023/01/09903550/1GZolSVvsPu). IEEE Transactions on Visualization
 and Computer Graphics, 29(1), pp.342-352.
 
-4. Wang J., Bach B., Hinrichs U., 2024, Visualization Atlases: Explaining and Explor-
-ing Complex Topics through Data, Visualization, and Narration. IEEE Transactions
+4. Wang J., Bach B., Hinrichs U., 2024, [Visualization Atlases: Explaining and Explor-
+ing Complex Topics through Data, Visualization, and Narration](https://arxiv.org/abs/2408.07483). IEEE Transactions
 on Visaulizations and Computer Graphics, to appear.
-
-5. Hao, S., Wang, Z., Bach, B. and Pschetz, L., 2024, May. Design Patterns for Data-
-Driven News Articles. In Proceedings of the CHI Conference on Human Factors
-in Computing Systems (pp. 1-16).
 
 ### Part II: Tools for visualization design and data-driven storytelling
 
-6. Wang, Z., Romat, H., Chevalier, F., Riche, N.H., Murray-Rust, D. and Bach, B.,
-2021. Interactive data comics. IEEE Transactions on Visualization and Computer
+5. Wang, Z., Romat, H., Chevalier, F., Riche, N.H., Murray-Rust, D. and Bach, B.,
+2021. [Interactive data comics](https://ieeexplore.ieee.org/document/9552591/). IEEE Transactions on Visualization and Computer
 Graphics, 28(1), pp.944-954.
 
-7. Li, W., Schöttler, S., Scott-Brown, J., Wang, Y., Chen, S., Qu, H. and Bach, B.,
-2023, April. NetworkNarratives: Data tours for visual network exploration and anal-
-ysis. In Proceedings of the 2023 CHI Conference on Human Factors in Com-
+6. Li, W., Schöttler, S., Scott-Brown, J., Wang, Y., Chen, S., Qu, H. and Bach, B.,
+2023, April. [NetworkNarratives: Data tours for visual network exploration and analysis](https://arxiv.org/abs/2303.06456). In Proceedings of the 2023 CHI Conference on Human Factors in Com-
 puting Systems (pp. 1-15).
 
-8. Scott-Brown, J., Pister A., and Bach B., 2024, NetworkPanorama: A Declarative
-Grammar for Network Construction, Transformation, and Interactive Visualization,
+7. Scott-Brown, J., Pister A., and Bach B., 2024, [NetworkPanorama: A Declarative
+Grammar for Network Construction, Transformation, and Interactive Visualization](https://arxiv.org/abs/2310.18902),
 Arxiv.
 
 ### Part III: Skills for visualization, data-driven storytelling, and visualization design 
 
-9. AlKadi, M., Serrano, V., Scott-Brown, J., Plaisant, C., Fekete, J.D., Hinrichs, U.
-and Bach, B., 2022. Understanding barriers to network exploration with visualiza-
-tion: A report from the trenches. IEEE Transactions on Visualization and Com-
+8. AlKadi, M., Serrano, V., Scott-Brown, J., Plaisant, C., Fekete, J.D., Hinrichs, U.
+and Bach, B., 2022. [Understanding barriers to network exploration with visualiza-
+tion: A report from the trenches](https://ieeexplore.ieee.org/document/9903291). IEEE Transactions on Visualization and Com-
 puter Graphics, 29(1), pp.907-917.
 
-10. Bach, B., Keck, M., Rajabiyazdi, F., Losev, T., Meirelles, I., Dykes, J., Laramee,
-R.S., AlKadi, M., Stoiber, C., Huron, S. and Perin, C., 2023. Challenges and op-
-portunities in data visualization education: A call to action. IEEE Transactions on
+9. Bach, B., Keck, M., Rajabiyazdi, F., Losev, T., Meirelles, I., Dykes, J., Laramee,
+R.S., AlKadi, M., Stoiber, C., Huron, S. and Perin, C., 2023. [Challenges and op-
+portunities in data visualization education: A call to action](https://arxiv.org/abs/2308.07703). IEEE Transactions on
 visualization and computer graphics.
 
-11. Shu, X., Pister, A., Tang, J., Chevalier, F. and Bach, B., 2024. Does This Have
-a Particular Meaning? Interactive Pattern Explanation for Network Visualizations.
+11. Shu, X., Pister, A., Tang, J., Chevalier, F. and Bach, B., 2024. [Does This Have
+a Particular Meaning? Interactive Pattern Explanation for Network Visualizations](https://www.arxiv.org/abs/2408.01272).
 arXiv preprint arXiv:2408.01272
 
 
