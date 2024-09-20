@@ -18,9 +18,11 @@ Some liken the HDR to academic tenure (US) but the HDR does not change anything 
 The HDR process is __modeled after the PhD process, but it is lighter__: many consider it a formality. The candidate first requests the authorization to apply for an HDR from their institution, who grants the request if their CV shows enough experience (having co-advised a single PhD student is often sufficient). The candidate then __writes a thesis (the HDR manuscript) that summarizes their past research or a subset__ of it. This manuscript is then read by three external reviewers who write a report. If the three reports authorize the defense, the candidate defends in front of a jury who asks questions. The jury then writes a short defense report and – unless there is a very serious problem – grants the HDR.
 
 
-# The thesis document 
+# The thesis document
 
-My thesis document is planned to contain 
+## You can [download the document here](https://drive.google.com/file/d/1_M2TbCDCF_qQ8vvazNM8KLerr30uTiL0/view?usp=sharing).  
+
+My thesis document is contains 
 * __around 100 pages__ with a light single column style
 * abbreviated versions of the below 11 papers, 
 * a general intro 
