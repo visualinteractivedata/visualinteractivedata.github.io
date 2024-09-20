@@ -3,6 +3,8 @@ _This page is for jury members only, please do not circulate_.
 
 ## _Understanding Data, One Visualization at a Time: Forms, Tools, and Skills for Big-Data Visual Exploration and Communication_ 
 
+## You can [download the document here](https://drive.google.com/file/d/1_M2TbCDCF_qQ8vvazNM8KLerr30uTiL0/view?usp=sharing).  
+
 This thesis presents novel forms and tools to communicating data and creating visualizations. With the proliferation of data-driven practices, data visualizations are essential for the analysis of data as well as the communication to diverse stakeholders. Yet, the design of visualization and communication of data are made challenging by the complexity of the real-world phenomena represented by the data, the datasets themselves, and the expertise of the analysts and communicators. Hence, in this thesis, I seek answers to the question _How to make people understand complex phenomena through data?_ and summarize some of my research addressing three respective key challenges within this context: 
 (i) the creation and study of __forms for data-driven storytelling and communication__ (data comics, dashboards, visualization atlases, visualization articles, dataGIFs);
 (ii) the __design and implementation of tools to design, create and use visualization__ (authoring interactive data comics, semi-automatic data tours, a network visualization grammar); 
@@ -19,8 +21,6 @@ The HDR process is __modeled after the PhD process, but it is lighter__: many co
 
 
 # The thesis document
-
-## You can [download the document here](https://drive.google.com/file/d/1_M2TbCDCF_qQ8vvazNM8KLerr30uTiL0/view?usp=sharing).  
 
 My thesis document is contains 
 * __around 100 pages__ with a light single column style
