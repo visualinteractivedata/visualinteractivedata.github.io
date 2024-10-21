@@ -96,4 +96,7 @@ Benjamin Bach ([https://vishub.net/bach](https://vishub.net/bach)) is a Reader i
 
 **Andrew Sudmant** ([https://scholar.google.co.uk/citations?user=ouhz-GsAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=ouhz-GsAAAAJ&hl=en)) is a researcher at the Edinburgh Climate Change Institute. Andrew's research focuses on quantifying and mapping the co-benefits of climate action in the UK. His work at the Edinburgh Climate Change Institute and with other collaborators has led to the development of models that estimate social, economic, and environmental benefits from climate interventions. One notable finding from his latest research shows that for every £1 spent on climate mitigation, up to £14 in social benefits are realized, particularly in areas like public health and urban connectivity. 
 
+**Jinrui Wang** [https://www.jinruiw.com](https://www.jinruiw.com)is a PhD student at Design Informatics and the VisHub lab at the University of Edinburgh. Her research investigates and creates visualiztion atlases for large complex data sets and topics.
+
 **Alexis Pister** is data visualization engineer working on visual analytics applications often applied to the humanities and using network, temporal, and spatial visualization techniques. He will support the atlas prototyping through web-development. 
+
