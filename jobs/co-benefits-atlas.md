@@ -1,5 +1,8 @@
 # Research Associate in Visualization Co-Design (2024-2025)
 
+![atlases-examples](https://github.com/user-attachments/assets/68b8f0a5-e255-4787-bf4d-aa8616185025)
+
+
 The UK Co-Benefits Atlas project—run by researchers from Design Informatics, the School of Informatics, the University of St. Andrews and the Edinburgh Climate Change Institute—is seeking a research associate (grade 7) for around 25-30% FTE between now and July 2025. 
 
 The project envisions facilitation and co-design of an interactive web-based data interface, the UK Co-benefits Atlas, to visualise emission reduction co-benefits on, e.g., health, energy bills and other measures, across the entire UK [1]. Inspired by our previous analysis of visualization atlases [2], this project will co-design and deploy a first version of the atlas, informed by extensive engagement with future atlas stakeholders such as the Scottish Research Alliance for Energy Homes and Livelihoods, PWC Sustainability, and Department of Energy Security and Net Zero. By the open data and analyses published through our atlas, we aim to inform decision making by:
