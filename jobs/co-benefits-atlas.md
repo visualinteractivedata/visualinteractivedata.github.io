@@ -12,9 +12,8 @@ The project envisions facilitation and co-design of an interactive web-based dat
 
 The successful candidate will be embedded within the VisHub research group (vishub.net, Benjamin Bach) at Informatics and EFI as well as the ECCI (Andrew Sudmant) and closely work with all of the staff on the project (see below).
 
-[1] Sudmant, A., Boyle, D., Higgins‐Lavery, R., Gouldson, A., Boyle, A., Fulker, J., & Brogan, J. (2024). Climate policy as social policy? A comprehensive assessment of the economic impact of climate action in the UK. Journal of Environmental Studies and Sciences, 1-15.
-
-[2] Wang, J., Shu X., Bach B., Hinrichs U., (2024). Visualization Atlases: Explaining and Exploring Complex Topics through Data, Visualization, and Narration. Transactions on Visualization and Computer Graphics. https://arxiv.org/abs/2408.07483
+- [1] Sudmant, A., Boyle, D., Higgins‐Lavery, R., Gouldson, A., Boyle, A., Fulker, J., & Brogan, J. (2024). Climate policy as social policy? A comprehensive assessment of the economic impact of climate action in the UK. Journal of Environmental Studies and Sciences, 1-15.
+- [2] Wang, J., Shu X., Bach B., Hinrichs U., (2024). Visualization Atlases: Explaining and Exploring Complex Topics through Data, Visualization, and Narration. Transactions on Visualization and Computer Graphics. https://arxiv.org/abs/2408.07483
 
 
 ## Job Description
