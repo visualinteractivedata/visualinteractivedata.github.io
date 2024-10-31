@@ -31,13 +31,9 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 
 <h1 id="community-activities">Community Activities</h1>
 
-<a href="https://groups.google.com/g/vishub-community" style="font-size:1.2em; font-weight:bold;">VisHub Community Mailing List</a>
-
-Join our mailing list focusing on data visualization in Edinburgh, Scotland, the UK and beyond. The group is open to everyone and aims to share news, events, discussions, jobs, etc.
-
 {% for vishubproject in site.vishubprojects %}
 
-  <p>
+<p>
   {% if vishubproject.link %}
   <a href="{{vishubproject.link }}" style="font-size:1.2em; font-weight:bold;">{{ vishubproject.title }}</a>
   {% else %}
@@ -45,5 +41,4 @@ Join our mailing list focusing on data visualization in Edinburgh, Scotland, the
   {% endif %}
   {{ vishubproject.description | markdownify }}
 </p>
-<br/>
 {% endfor %}

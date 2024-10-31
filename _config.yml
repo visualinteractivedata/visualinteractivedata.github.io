@@ -36,6 +36,7 @@ collections:
   vishubprojects:
     output: true
     order:
+      - mailinglist.md
       - professionals_course.md
       - datafairs.md
       - datavismeetup.md
