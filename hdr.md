@@ -3,7 +3,7 @@ _This page is for jury members only, please do not circulate_.
 
 ## _Understanding Data, One Visualization at a Time: Forms, Tools, and Skills for Big-Data Visual Exploration and Communication_ 
 
-## You can [download the document here](https://drive.google.com/file/d/1_M2TbCDCF_qQ8vvazNM8KLerr30uTiL0/view?usp=sharing).  
+## You can [download the document here](https://drive.google.com/file/d/1_M2TbCDCF_qQ8vvazNM8KLerr30uTiL0/view?usp=sharing), as well as my [full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?tab=t.0). 
 
 This thesis presents novel forms and tools to communicating data and creating visualizations. With the proliferation of data-driven practices, data visualizations are essential for the analysis of data as well as the communication to diverse stakeholders. Yet, the design of visualization and communication of data are made challenging by the complexity of the real-world phenomena represented by the data, the datasets themselves, and the expertise of the analysts and communicators. Hence, in this thesis, I seek answers to the question _How to make people understand complex phenomena through data?_ and summarize some of my research addressing three respective key challenges within this context: 
 (i) the creation and study of __forms for data-driven storytelling and communication__ (data comics, dashboards, visualization atlases, visualization articles, dataGIFs);
