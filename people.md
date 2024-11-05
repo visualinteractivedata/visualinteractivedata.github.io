@@ -4,7 +4,8 @@ title: People
 ---
 
 ## Alumni (date left)
-- Sofia Creatio (visiting PhD student, 2023)
+
+- Sofia Cretaio (visiting PhD student, 2023)
 - Valentin Edelsbrunner (visiting MSc student, 2023)
 - [Xinhuan Shu](https://shuxinhuan.github.io), PostDoc (2023)
 - Ryan Bowler, PhD student (graduated 2023)
