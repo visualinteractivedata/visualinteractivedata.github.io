@@ -98,7 +98,32 @@ There are other roles like the President of the jury but those are usually fulfi
 
 1. Ben sends you the thesis document through email: **early September**
 2. Rapporteurs send their rapports to the University: **early November** (at least one month after receiving the thesis document. You have about 2 months time)
-3. Planned defense: **mid December**. 
+3. Planned defense: **mid December**.
+ 
+# Travel information for those attending in person (@Min, @Petra, @Niklas subject to confirmation) 
+- we will be having the defence at the **LaBRI at the campus of the University of Bordeaux **([https://www.google.com/maps/search/?api=1&query=labri%20bordeaux](https://www.google.com/maps/search/?api=1&query=labri%20bordeaux)). It’s easily reachable by tram and bus from many places but most likely we will you meet at the Inria building (see below). 
+
+You may want to arrive the day prior, Thursday Dec 12. Given that we may finish late on Friday, you may want to stay until Saturday Dec 14.. Both nights and travel will be covered by us and someone will get in touch with you shortly to help arrange your travel. I will arrange for meeting you at the **Inria building in the morning (**[https://www.google.com/maps/search/?api=1&query=inria%20bordeaux](https://www.google.com/maps/search/?api=1&query=inria%20bordeaux)). More information will follow. 
+
+# Online attendance will happen through zoom which I will start 15min earlier to the starting date (around 3/4pm, subject to confirmation).
+
+**PRESENTATION ROOM
+https://ed-ac-uk.zoom.us/j/9015871567
+Meeting ID: 901 587 1567
+Passcode: Pd2ZW59n
+**
+
+We would need to see your face at least for the beginning so the President of the jury can verify your identity. We can do a tech check prior to the date if you would like to.
+
+# During the presentation discussion, the committee and public may ask as many questions as they would like. 
+
+8/ After the discussion, the committee will deliberate the outcome. I will organise a separate room for that where the in-person and remote committee members can meet and discuss. The zoom link will be another one, which I will launch after the discussion, then make one of you host and then I will leave the room. During the discussion, the President de jury will explain you the further technical steps. After deliberation, we all join the public virtual and physical room (link above) again to announce the outcome publicly. 
+
+**COMMITTEE-ONLY DELIBERATION ROOM
+https://ed-ac-uk.zoom.us/j/89899198602
+Meeting ID: 898 9919 8602
+Passcode: 2kpB4H5R
+**
 
 # Questions?
 Please ask me if you have any question. As we progress through the administrative process, you will be put in touch with administrative assistants to whom you will also be able to ask questions.
