@@ -2,8 +2,8 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 
 # News
 
-- Hiring a [visualization designer / workshop facilitator](jobs/co-benefits-atlas) for a project on building a UK-wide Co2 emission-reduction Co-Benefits atlas. Starting now untli July 2025.
-- Weloming [Dorkey Kaufmann](https://www.linkedin.com/in/dorseykaufmann) in our group!
+- Hiring a [visualization designer / workshop facilitator](jobs/co-benefits-atlas) for a project on building a UK-wide Co2 emission-reduction Co-Benefits atlas. Starting now until July 2025.
+- Weloming [Dorsey Kaufmann](https://www.linkedin.com/in/dorseykaufmann) in our group!
 - [4 full papers and 1 VISAPP paper](publications.html) accepted to IEEE VIS.
 - ~~Hiring for a [visualization researcher / designer / developer](jobs/visres2024) for March-June 2024.~~
 - ~~Hiring for a [permanent teaching position](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990) at the intersection of data, design and technology.~~
