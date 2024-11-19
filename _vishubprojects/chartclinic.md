@@ -32,7 +32,7 @@ Since this is a pilot, the ChartClinic is currently only open only to University
 
 ## Resources
 
-Feel free to browse some of our resources: books, blogs, and collections on visulization.
+Feel free to browse some of our resources: books, blogs, and collections on visualization.
 
-- [Books](res-books.html)
-- [Blogs and Collections](res-collections.html)
+- [Books]({% link resources/books.md %})
+- [Blogs and Collections]({% link resources/collections.md %})
