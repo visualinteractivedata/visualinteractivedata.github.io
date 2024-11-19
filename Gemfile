@@ -12,6 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-titles-from-headings"
   gem "jekyll-relative-links"
+  gem "jekyll-resize", git: "https://github.com/MichaelCurrin/jekyll-resize"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

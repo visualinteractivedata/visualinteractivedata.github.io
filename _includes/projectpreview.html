@@ -1,18 +1,21 @@
 <div class="pubWrapper">
-	<div class="pubImage">
-		<img src="{{ include.item.image }}" alt="{{ include.item.img_alt }}" />
-	</div>
+  <div class="pubImage">
+    {% if include.item.image %}
+    <img
+      src='{{ include.item.image | resize: "800x800>" }}'
+      alt="{{ include.item.img_alt }}" />
+    {% endif %}
+  </div>
 
-	<div class="pubText">
-		<p>
-			<a
-				href="{{ include.item.url }}"
-				style="font-weight: bold; font-size: 1.2em;"
-			   
-				target="_blank"
-				>{{ include.item.title }}</a
-			>: {{ include.item.description }}.
-		</p>
-		<br/>
-	</div>
+  <div class="pubText">
+    <p>
+      <a
+        href="{{ include.item.url }}"
+        style="font-weight: bold; font-size: 1.2em"
+        target="_blank"
+        >{{ include.item.title }}</a
+      >: {{ include.item.description }}.
+    </p>
+    <br />
+  </div>
 </div>
