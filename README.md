@@ -46,7 +46,15 @@ Permalinks have been used in the `resources` and `jobs` folders to preserve the 
 
 To edit the main navigation, edit the html in the default layout at [`_layouts/default.html`](_layouts/default.html).
 
+## GitHub Actions
+
+The site is automatically rebuilt using GitHub Actions when a commit is pushed to the `master` branch. There is one exception: it does not rebuild the page when only `README.md` (this file) is edited. The GitHub Actions workflow is located at [`.github/workflows`](.github/workflows).
+
+If the workflow fails (for example because of formatting issues in the newly committed code), a red X will be displayed next to the commit and there may be warning emails to the repository owners. However, an unsuccessful build will not make the website go offline, GitHub will just continue serving the most recent successful build. Any updates will only go online once a successful build has happened, i.e., once the issues that caused the build to fail have been resolved.
+
 ## How to work on this site locally
+
+Small to medium content changes that only concern one or a few files can easily be done on the GitHub website. For bigger changes involving many files, potentially broken links, and new features, it is better to test these locally first.
 
 - Make sure you have [Ruby and Jekyll installed](https://jekyllrb.com/docs/installation/)
 - Clone this repo to your computer
