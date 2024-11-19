@@ -20,7 +20,13 @@ To add a new project page, create a new `.md` file in [`\_projects/](./_projects
 
 You can also edit [`_config.yml`](./_config.yml) to set the order in which projects are listed on the homepage; projects without a specified position will appear at the end of the list.
 
-## Adding new pages
+## Updating news
+
+To update the news displayed on the homepage, edit the [`news.md`](news.md) file. Add new items at the top of the list, since they are displayed in the order shown in the file.
+
+The homepage shows all items until the `<!-- more news -->` line in between the bullet points. Move this line to where you want the news on the homepage to cut off. The cut off older news will still be available when following the 'More news...' link.
+
+## Adding new pages & permalinks
 
 To add a new page, simply create a new `.md` (Markdown) file. The structure of the website generally mirrors the folder structure in the repo. For example, if you create a new file at `resources/newpage.md`, the link to that page on the website will be `vishub.net/resources/newpage`.
 
