@@ -20,6 +20,12 @@ To add a new project page, create a new `.md` file in [`_projects/](./_projects)
 
 You can also edit [`_config.yml`](./_config.yml) to set the order in which projects are listed on the homepage; projects without a specified position will appear at the end of the list.
 
+## Updating news
+
+To update the news displayed on the homepage, edit the [`news.md`](news.md) file. Add new items at the top of the list, since they are displayed in the order shown in the file.
+
+The homepage shows all items until the `<!-- more news -->` line in between the bullet points. Move this line to where you want the news on the homepage to cut off. The cut off older news will still be available when following the 'More news...' link. 
+
 ## How to work on this site locally
 
 -   Make sure you have [Ruby and Jekyll installed](https://jekyllrb.com/docs/installation/)
