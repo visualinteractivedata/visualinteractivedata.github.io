@@ -12,6 +12,7 @@ github: [metadata]
 relative_links:
   enabled: true
   collections: true
+page_excerpts: true
 plugins:
   - jekyll-seo-tag
   - jekyll-default-layout
