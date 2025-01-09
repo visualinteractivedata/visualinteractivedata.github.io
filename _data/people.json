@@ -80,5 +80,12 @@
     "Bio": "research associate in the Grasping Data project, exploring ways to physicalize children's personal data. She is a qualitative researcher focusing on the intersection of Human-Computer Interaction (HCI), Computer Supported Cooperative Work (CSCW), and Social Sciences with a particular interest in Sustainability, Information Visualisation, and Data Physicalization domains. ",
     "Type": "Research and Teaching",
     "Image": "dushani_perera.png"
+  },
+  "Dorsey Kaufmann": {
+    "Google Scholar": "https://scholar.google.com/citations?user=j4j1vnYAAAAJ&hl=en",
+    "Personal Site": "https://www.dorseykaufmann.com",
+    "Bio": "University Teacher (Assistant Professor) lecturing in Data Visualisation in Design Informatics and Edinburgh Futures Institute. Her multimedia artwork and studio design practice translate data into embodied experiences that can be seen, heard, and felt. Her research examines the use of visualisation as a creative medium to increase data literacy and shape human cognition, attitudes and behaviour in relation to the natural environment.",
+    "Type": "Faculty",
+    "Image": "dorsey_kaufmann.png"
   }
 }
