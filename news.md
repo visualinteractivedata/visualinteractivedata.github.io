@@ -6,11 +6,12 @@ excerpt_separator: <!-- more news -->
 # The line that says '<!-- more news -->' in the bullet list below marks the cut-off for what is displayed on the homepage. Everything below is available via the 'more news' link on the homepage. Move that line to where you want news to cut off. Make sure not to edit the line itself at all (no added or removed spaces, for example - it needs to match the excerpt separator as defined above exactly)
 ---
 
-- Hiring a [visualization designer / workshop facilitator](jobs/co-benefits-atlas) for a project on building a UK-wide Co2 emission-reduction Co-Benefits atlas. Starting now until July 2025.
+- Hiring a [a data visualization designer/developer](jobs/b-ready) for joining the World Bank’s B-ready team in 2025 Summer Internship.
+<!-- - Hiring a [visualization designer / workshop facilitator](jobs/co-benefits-atlas) for a project on building a UK-wide Co2 emission-reduction Co-Benefits atlas. Starting now until July 2025. -->
 - Welcoming [Dorsey Kaufmann](https://www.linkedin.com/in/dorseykaufmann) in our group!
 - [4 full papers and 1 VISAPP paper](publications.html) accepted to IEEE VIS.
-- ~~Hiring for a [visualization researcher / designer / developer](jobs/visres2024) for March-June 2024.~~
-- ~~Hiring for a [permanent teaching position](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990) at the intersection of data, design and technology.~~
+<!-- - ~~Hiring for a [visualization researcher / designer / developer](jobs/visres2024) for March-June 2024.~~ -->
+<!-- - ~~Hiring for a [permanent teaching position](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990) at the intersection of data, design and technology.~~ -->
 - We are hosting the international [Information+ conference](https://informationplusconference.com/) on information design and data visualization in Edinburgh in November 2023.
 - [Join us for a **PhD** and check our topics](jobs/index.html)
 - [Lara Johnson and Rea Michalopoulou](people.html) joining us as PhD students.
