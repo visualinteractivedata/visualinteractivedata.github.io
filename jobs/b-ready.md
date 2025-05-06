@@ -36,7 +36,7 @@ The successful candidate needs to…
 -	Spend most of their time in Edinburgh 
 
 ## Application
-Interested candidates are encouraged to send their CV, Cover Letter, and a Portfolio link or file via email with a subject line **“Last Name, First Name – B-READY Summer 2025 Internship Application”** (e.g., Doe, Jane – B-Ready Summer 2025 Internship Application). 
+Interested candidates are encouraged to send their CV, Cover Letter, and a Portfolio link or file via email with a subject line **“Last Name, First Name – B-READY Summer 2025 Internship Application”** (e.g., Doe, Jane – B-Ready Summer 2025 Internship Application) to [BReadyInternships@worldbank.org](BReadyInternships@worldbank.org) and CC [dkaufma2@ed.ac.uk](dkaufma2@ed.ac.uk).
 
 Your email should include your …
 -	Resume/CV
@@ -44,6 +44,7 @@ Your email should include your …
 -	Why you are interested in this project
 -	How your expertise responds to the call
 -	Link to online portfolio or send portfolio as an attachment
+
 Applications are accepted and reviewed on a rolling basis until 11:59PM (Washington DC time) on Wednesday May 14, 2025. Only shortlisted candidates will be contacted. The position will be filled by the end of May and the internship will commence in early June. 
 
 If you have any questions, please contact Dorsey Kaufmann [dkaufma2@ed.ac.uk](dkaufma2@ed.ac.uk).
