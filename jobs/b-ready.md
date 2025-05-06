@@ -46,6 +46,6 @@ Your email should include your …
 -	Link to online portfolio or send portfolio as an attachment
 Applications are accepted and reviewed on a rolling basis until 11:59PM (Washington DC time) on Wednesday May 14, 2025. Only shortlisted candidates will be contacted. The position will be filled by the end of May and the internship will commence in early June. 
 
-If you have any questions, please contact Dorsey Kaufmann (dkaufma2@ed.ac.uk)
+If you have any questions, please contact Dorsey Kaufmann [dkaufma2@ed.ac.uk](dkaufma2@ed.ac.uk).
 
 More Information can be found here: [B_Ready_Summer_Internship](../pdfs/b_ready_internship.pdf)
