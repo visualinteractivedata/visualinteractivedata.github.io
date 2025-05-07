@@ -1,5 +1,5 @@
 # 2025 Summer Intern with B-Ready Project
-The VisHub group is looking for a data visualization designer/ developer for a paid student internship from early June to late August (3 months), part-time (around 50% FTE or up to 20 hours a week), UE Grade 3 (£13/hour).
+The VisHub group is looking for a data visualization designer/ developer for a paid student internship from early June to late August (3 months), part-time (around 50% FTE or up to 20 hours a week), UE Grade 4 – UE Grade 5 (depending on candidate’s experience).
 A highly motivated summer 2025 cycle intern is invited to join the World Bank’s B-ready team to work closely with Dorsey Kaufmann, School of Informatics, and B-ready’s website team. The position requires good knowledge of data visualization, UI-UX design, and object-oriented programming in JavaScript.
 
 ## Project Background:
