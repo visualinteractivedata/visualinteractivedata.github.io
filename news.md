@@ -6,7 +6,11 @@ excerpt_separator: <!-- more news -->
 # The line that says '<!-- more news -->' in the bullet list below marks the cut-off for what is displayed on the homepage. Everything below is available via the 'more news' link on the homepage. Move that line to where you want news to cut off. Make sure not to edit the line itself at all (no added or removed spaces, for example - it needs to match the excerpt separator as defined above exactly)
 ---
 
-- Hiring [a data visualization designer/developer](jobs/b-ready) for joining the World Bank’s B-ready team in 2025 Summer Internship.
+- Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their workshop accepted in Eurovis 2025, titled “[Grasping Data Through Play: Exploring Co-Design Activities for Children's Engagement with Personal Data] (https://visgames2025.netlify.app/_astro/paper4.BKJEMBNk.pdf)”
+- Sarah Schöttler passed her PhD Viva and is joining Eindhoven University as an Assistant Professor.
+- Sarah Dunn won the first place prize at the CHI student competition for her work on Personalised Health Data comics.
+- <!-- more news -->
+- - Hiring [a data visualization designer/developer](jobs/b-ready) for joining the World Bank’s B-ready team in 2025 Summer Internship.
 <!-- - Hiring a [visualization designer / workshop facilitator](jobs/co-benefits-atlas) for a project on building a UK-wide Co2 emission-reduction Co-Benefits atlas. Starting now until July 2025. -->
 - Welcoming [Dorsey Kaufmann](https://www.linkedin.com/in/dorseykaufmann) in our group!
 - [4 full papers and 1 VISAPP paper](publications.html) accepted to IEEE VIS.
@@ -17,7 +21,6 @@ excerpt_separator: <!-- more news -->
 - [Lara Johnson and Rea Michalopoulou](people.html) joining us as PhD students.
 - **3 [Full papers](publications.html) accepted for [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome)**, two of which have won **honorable mention**s!!
 - **Vistorian Updated Version launched _(Jan 2022)_:** The Vistorian network visualization platform comes with an new wizard making data upload easier. Visit the Vistorian and our training resources on [http://vistorian.net](http://vistorian.net).
-<!-- more news -->
 - **2 [full papers](publications.html) accepted for [ACM CHI 2022](https://chi2022.acm.org)!!**
 - **Open PhD positions (_Dec 2021_):** Check at [Positions/PhD](https://visactivities.github.io/jobs) and get in touch with Uta Hinrichs and Ben Bach.
 - **4 IEEE VIS papers (_Oct 2021_):** VisHub involved in 4 full papers and 2 workshops at [IEEE VIS 2021](http://ieeevis.org): [Workshop on VisActivities](https://visactivities.github.io) and Workshop on Visualization for Digital Humanities [VIS4DH](http://www.vis4dh.org/). Check the [VIS papers here](publications.html).
