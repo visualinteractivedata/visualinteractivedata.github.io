@@ -9,6 +9,12 @@ This page lists resources and links around working with and in data visualizatio
 - [How to Technical Writing](/students/technical-writing)
 - [How to Ethics Approval](/students/ethics)
 
+# Equipment in the Lab
+
+VisHub provides equipment for designing and building immersive visualizations and data physicalizations. The Visualization and Interaction Kit supports research, collaboration, learning, and outreach across the University — a full list of available tools is provided here.
+
+- [Kit List (to be updated)]({% link kit/index.md %})
+
 # Visualization Collections
 
 - [Visualization Collections]({% link resources/collections.md %})
