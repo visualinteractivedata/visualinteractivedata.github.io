@@ -7,7 +7,7 @@ excerpt_separator: <!-- more news -->
 ---
 
 - Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their workshop accepted in Eurovis 2025, titled “[Grasping Data Through Play: Exploring Co-Design Activities for Children's Engagement with Personal Data](https://visgames2025.netlify.app/_astro/paper4.BKJEMBNk.pdf)”.
-- Sarah Schöttler passed her PhD Viva and is joining Eindhoven University as an Assistant Professor.
+<!-- - Sarah Schöttler passed her PhD Viva and is joining Eindhoven University as an Assistant Professor. -->
 - Sarah Dunn won the first place prize at the CHI student competition for her work on Personalised Health Data comics.
 <!-- more news -->
 - Hiring [a data visualization designer/developer](jobs/b-ready) for joining the World Bank’s B-ready team in 2025 Summer Internship.
