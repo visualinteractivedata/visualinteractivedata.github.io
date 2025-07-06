@@ -25,12 +25,12 @@
     "Bio": "data visualization engineer working on visual analytics applications often applied to the humanities and using network, temporal, and spatial visualization techniques.",
     "Image": "alexis_pister.png",
     "Personal Site": "https://alexispister.github.io/",
-    "Type": "Research and Teaching"
+    "Type": "Research and Design"
   },
   "Tomas Vancisin": {
     "Google Scholar": "https://scholar.google.com/citations?user=N21-2bIAAAAJ&hl=en&oi=ao",
     "Bio": "research associate in Data Visualization at PeaceRep (School of Law), focusing on visualization of transition trajectories, and the mediation space of peace and transition processes. His research interests include Visualization as part of Humanities Research, Visualization of Historical Cultural Collections, Provenance Visualization and Digital Humanities.",
-    "Type": "Research and Teaching",
+    "Type": "Research and Design",
     "Image": "tomas_vancisin.png"
   },
   "Sarah Dunn": {
@@ -70,7 +70,12 @@
     "Google Scholar": "https://scholar.google.com/citations?user=eLEFA-MAAAAJ&hl=en",
     "Personal Site": "https://dushaniimeshaperera.wordpress.com",
     "Bio": "research associate in the Grasping Data project, exploring ways to physicalize children's personal data. She is a qualitative researcher focusing on the intersection of Human-Computer Interaction (HCI), Computer Supported Cooperative Work (CSCW), and Social Sciences with a particular interest in Sustainability, Information Visualisation, and Data Physicalization domains. ",
-    "Type": "Research and Teaching",
+    "Type": "Research and Design",
     "Image": "dushani_perera.png"
+  },
+  "Sian Pillips": {
+    "Bio": "research assitant in UK Co-Benefit Atlas project, creating interactive web-based data visualisations. She holds a bachelor's degree in Mathematics and Statistics from the University of Edinburgh and a master’s degree in Data Visualisation from the University of Warwick. Originally from Edinburgh, she is passionate about working with data to create designs that promote positive change in the world and encourage innovation and inclusivity. ",
+    "Type": "Research and Design",
+    "Image": "sian_phillips.png"
   }
 }

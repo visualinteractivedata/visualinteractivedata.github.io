@@ -22,7 +22,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-resize
 collections:
-  projects:
+  research:
     output: true
     order:
       - dashboards.md
@@ -35,6 +35,12 @@ collections:
       - immersive_analytics.md
       - peace_analytics.md
       - clinical_guidelines.md
+  project:
+    output: true
+    order:
+      - graspingdata.md
+      - atlas.md
+      - peacerep.md
   vishubprojects:
     output: true
     order:
