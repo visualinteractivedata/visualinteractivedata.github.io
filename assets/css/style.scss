@@ -47,6 +47,18 @@ img[alt~="people"] {
 	display: inline-block;
 }
 
+.linkedin {
+	display: inline-flex;
+	align-items: center;
+	background-color: #0077b5;
+	color: white;
+	padding: 4px 8px;
+	font-family: sans-serif;
+	font-size: 14px;
+	border-radius: 8px;
+	text-decoration: none;
+}
+
 .pubWrapper,
 .personWrapper {
 	display: grid;
