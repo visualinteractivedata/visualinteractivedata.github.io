@@ -2,7 +2,7 @@
 layout: project
 title: Visualizations in Peace & Conflict
 image: figures/peacerep.png
-description: PeaceRep is a leading developer of PeaceTech and peace data. Our innovative datasets,tools, and visualisations support adaptive management of peace and transition processes.
+description: PeaceRep is a leading developer of PeaceTech and peace data. Our innovative datasets,tools, and visualisations support adaptive management of peace and transition processes
 people:
 - Tomas Vancisin
 - Jinrui Wang

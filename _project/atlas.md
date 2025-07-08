@@ -2,7 +2,7 @@
 layout: project
 title: UK Co-Benefit Atlas
 image: figures/atlas.png
-description: This project builds an interactive visualization atlas to represent data about reaching NetZero in the UK. Data about socio-economic benefits is from the Edinburgh Climate Change Institute.
+description: This project builds an interactive visualization atlas to represent data about reaching NetZero in the UK. Data about socio-economic benefits is from the Edinburgh Climate Change Institute
 people:
 - Jinrui Wang
 - Alexis Pister
