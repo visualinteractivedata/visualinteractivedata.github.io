@@ -30,8 +30,8 @@ More tools and links to tutorials be found on [VisTools.net](https://vistools.ne
 
 # Visualization Tools
 
-- [Charticulator](https://charticulator.com/docs/getting-started.html)
-- [Data Illustrator](http://data-illustrator.com/tutorial.php)
+- [Charticulator](https://donghaoren.org/charticulator/)
+- [Data Illustrator](http://data-illustrator.cs.umd.edu)
 - [Tableau Training Videos](https://www.tableau.com/en-gb/learn/training/20204)
 
 # Programming Libraries
