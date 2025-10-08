@@ -55,9 +55,9 @@ Some of the tools below are still being developed further.
 
 ## Tools for Styling and Communication
 
-- [Charticulator](https://charticulator.com/index.html): interactive authoring tool that enables the creation of bespoke and reusable chart layouts. Charticulator is our response to most existing chart construction interfaces that require authors to choose from predefined chart layouts, thereby precluding the construction of novel charts. Charticulator can export chart designs into reusable templates that can be imported into other visualization tools.
-- [Data Illustrator](http://www.zcliu.org/di): similar to Charticulator
-- [iVOLVER](https://ivolver.cs.st-andrews.ac.uk/#tryit) is a tool that allows users to create visualizations without textual programming. It is designed to enable flexible acquisition of many types of data (text, colors, shapes, quantities, dates) from multiple source types (bitmap charts, webpages, photographs, SVGs, CSV files) and, within the same canvas, supports transformation of that data through simple widgets to construct interactive animated visuals.
+- [Charticulator](https://donghaoren.org/charticulator/): interactive authoring tool that enables the creation of bespoke and reusable chart layouts. Charticulator is our response to most existing chart construction interfaces that require authors to choose from predefined chart layouts, thereby precluding the construction of novel charts. Charticulator can export chart designs into reusable templates that can be imported into other visualization tools.
+- [Data Illustrator](http://data-illustrator.cs.umd.edu): similar to Charticulator
+<!-- - [iVOLVER](https://ivolver.cs.st-andrews.ac.uk/#tryit) is a tool that allows users to create visualizations without textual programming. It is designed to enable flexible acquisition of many types of data (text, colors, shapes, quantities, dates) from multiple source types (bitmap charts, webpages, photographs, SVGs, CSV files) and, within the same canvas, supports transformation of that data through simple widgets to construct interactive animated visuals. -->
 
 ## More Tool Collections
 
