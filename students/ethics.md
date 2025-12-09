@@ -6,8 +6,8 @@ Before filling and submitting the form, read through this page, prepare any of t
 
 ## General Infomation
 
-* [Informatics Website]([http://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure](https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics-and-integrity.aspx))
-* [Ethics procedure]([https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT](https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics-procedure.aspx))
+* [Informatics Website]([https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics.aspx])
+* [Ethics procedure]([https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics-resources.aspx])
 
 ## What you need before submitting the Ethics Form to Informatics
 
@@ -29,7 +29,7 @@ These forms can be the same document, or separate. In total, they must include t
 * A note that if the research project changes in any way, the amended PIS will be shown on the project’s, Research Centre’s, Institute’s or School’s website.
 
 
-### 3. A 100 word description
+### 2. A 100 word description
 
 Please provide a brief summary of the goal and methods of your research. You should cover the following:
 * What is the goal of the study?
@@ -39,13 +39,13 @@ Please provide a brief summary of the goal and methods of your research. You sho
 
 It's enough to give high level descriptions of tasks and analysis methods. It helps if you can provide references.
 
-### 4. Anonymization Policy
+### 3. Anonymization Policy
 
 How do you ensure confidentiality? Describe your procedures for anonymisation / pseudonymisation, ensuring differential privacy, and other relevant procedures. Recommended length: 50 words. 
 
 Example response: _No personal data will be recorded at any time. Voice recordings will be stored on an encrypted HD for the duration of the study and erased afterwards._
 
-### 5. Participant data
+### 4. Participant data
 
 What information about participants or data subjects will you collect or use? 
 
