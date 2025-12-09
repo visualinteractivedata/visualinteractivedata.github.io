@@ -6,16 +6,12 @@ Before filling and submitting the form, read through this page, prepare any of t
 
 ## General Infomation
 
-* [Informatics Website](http://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure)
-* [Ethics submission Form](https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT)
+* [Informatics Website]([http://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure](https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics-and-integrity.aspx))
+* [Ethics procedure]([https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT](https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics-procedure.aspx))
 
-## What you need before submitting the [Ethics Form to Informatics](https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT)
+## What you need before submitting the Ethics Form to Informatics
 
-### 1. Ethics training
-
-You __need__ to pass the [basic training in data protction](http://www.ed.ac.uk/records-management/training/data-protection)
-
-### 2. A Participant Information Sheet (PIS) and a participant consent form which will be signed by any of your participants
+### 1. A Participant Information Sheet (PIS) and a participant consent form which will be signed by any of your participants
 
 See an example [here](/material/Consent_form_Study_Visualisation_Cheatsheet.pdf)
 
