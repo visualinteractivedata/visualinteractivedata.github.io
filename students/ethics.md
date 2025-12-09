@@ -6,8 +6,8 @@ Before filling and submitting the form, read through this page, prepare any of t
 
 ## General Infomation
 
-* [Informatics Website]([https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics.aspx])
-* [Ethics procedure]([https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics-resources.aspx])
+* [Informatics Website](https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics.aspx)
+* [Ethics procedure](https://uoe.sharepoint.com/sites/inf-researchservices/SitePages/Ethics-resources.aspx)
 
 ## What you need before submitting the Ethics Form to Informatics
 
