@@ -9,6 +9,8 @@ people:
 - Sian Pillips
 - Uta Hinrichs
 - Benjamin Bach
+tags:
+- Visualization atlas
 ---
 
 The UK Co-Benefits Atlas is an interactive online visualisation atlas presenting and explaining data on the potential socio-economic impacts of achieving climate action targets in the UK. The data includes 11 co-benefits and co-costs of climate actions for 46,000 data zones, connected with 17 socio-economic attributes. Analyses and visualisations aim to make these data accessible, understandable, and useful for businesses, investors, researchers, third sector organisations and policymakers across Scotland and the wider UK.

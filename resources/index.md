@@ -2,18 +2,18 @@ This page lists resources and links around working with and in data visualizatio
 
 # Resources for Students (MSc, PhD)
 
-- [Considering a Phd at the VisHub?](/students/considering-phd)
-- [How to (survive) a Design Informatics MSc Dissertation](/students/mscdissertation)
-- [Project planning](/students/project-planning)
-- [How to Literature Research](/students/literature)
-- [How to Technical Writing](/students/technical-writing)
-- [How to Ethics Approval](/students/ethics)
+- [Considering a Phd at the VisHub?](resources/students/considering-phd)
+- [How to (survive) a Design Informatics MSc Dissertation](resources/students/mscdissertation)
+- [Project planning](resources/students/project-planning)
+- [How to Literature Research](resources/students/literature)
+- [How to Technical Writing](resources/students/technical-writing)
+- [How to Ethics Approval](resources/students/ethics)
 
 # Equipment in the Lab
 
 VisHub provides equipment for designing and building immersive visualizations and data physicalizations. The Visualization and Interaction Kit supports research, collaboration, learning, and outreach across the University — a full list of available tools is provided here.
 
-- [Kit List (to be updated)]({% link kit/index.md %})
+- [Kit List (to be updated)]({% link resources/kit/index.md %})
 
 # Visualization Collections
 

@@ -14,7 +14,7 @@ layout: default
 
 {% for yr in grouped %}
 
-<h2>{{ yr.name }}</h2>
+<h2 id="{{ yr.name }}">{{ yr.name }}</h2>
 
 {% for item in yr.items %}
 {% include publication.html item=item %}

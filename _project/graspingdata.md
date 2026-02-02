@@ -9,6 +9,8 @@ people:
 - Uta Hinrichs
 publications:
 - "Grasping Data Through Play: Exploring Co-Design Activities for Children's Engagement with Personal Data"
+tags:
+- Physicalization
 ---
 
 The project works with 270 children (aged 3-8) in schools, in partnership with SSERC, Edinburgh Zoo and Glasgow Science Centre to construct physical representations of personal data that children can touch, explore, talk about and learn with. It aims to contribute knowledge to early learning, cognitive psychology, child-centred design, data ethics, data visualization and computer science. 

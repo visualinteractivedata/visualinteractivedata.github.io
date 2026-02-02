@@ -1,0 +1,19 @@
+<div class="project-tile" data-tags="{% if include.item.tags %}{{ include.item.tags | join: ',' | downcase }}{% endif %}">
+  <a class="project-tile__link" href="{{ include.item.url | relative_url }}">
+    {% if include.item.image %}
+    <div class="project-tile__image">
+      <img src='{{ include.item.image | resize: "900x900>" }}' alt="{{ include.item.title }}" />
+    </div>
+    {% endif %}
+    <div class="project-tile__overlay">
+      <div class="project-tile__title">{{ include.item.title }}</div>
+      {% if include.item.tags %}
+      <!-- <div class="project-tile__tags">
+        {% for tag in include.item.tags %}
+        <span>{{ tag }}</span>
+        {% endfor %}
+      </div> -->
+      {% endif %}
+    </div>
+  </a>
+</div>

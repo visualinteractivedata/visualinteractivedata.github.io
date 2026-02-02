@@ -13,7 +13,7 @@ Before filling and submitting the form, read through this page, prepare any of t
 
 ### 1. A Participant Information Sheet (PIS) and a participant consent form which will be signed by any of your participants
 
-See an example [here](/material/Consent_form_Study_Visualisation_Cheatsheet.pdf)
+See an example [here](/pdfs/Consent_form_Study_Visualisation_Cheatsheet.pdf)
 
 These forms can be the same document, or separate. In total, they must include the following information:
 * Who is the data controller (the organisation with the overall responsibility - this will be the University represented by the lead researcher for staff research)

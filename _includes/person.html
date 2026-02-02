@@ -21,10 +21,19 @@
     {{include.person[1].Bio}}
     <br />
 
-    {% if include.person[1]['Google Scholar'] %}
+    <!-- {% if include.person[1]['Google Scholar'] %}
     <a href="{{include.person[1]['Google Scholar']}}" target="_blank"
       >Google Scholar</a
     >
-    {% endif %}
+    {% endif %} -->
+
+    {% assign skip = "Bio,Personal Site,Type,Image" | split: "," %}
+    {% for field in include.person[1] %}
+      {% assign key = field[0] %}
+      {% assign val = field[1] %}
+      {% unless skip contains key or val == "" %}
+        <a href="{{ val }}" target="_blank">{{ key }}</a>{% unless forloop.last %} · {% endunless %}
+      {% endunless %}
+    {% endfor %}
   </div>
 </div>

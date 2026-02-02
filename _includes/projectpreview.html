@@ -1,4 +1,4 @@
-<div class="pubWrapper">
+<div class="pubWrapper project-card" data-tags="{% if include.item.tags %}{{ include.item.tags | join: ',' | downcase }}{% endif %}">
   <div class="pubImage">
     {% if include.item.image %}
     <img
@@ -8,14 +8,20 @@
   </div>
 
   <div class="pubText">
-    <p>
+    <p class="project-preview-description">
       <a
         href="{{ include.item.url }}"
         style="font-weight: bold; font-size: 1.2em"
-        target="_blank"
-        >{{ include.item.title }}</a
+      target="_blank"
+      >{{ include.item.title }}</a
       >: {{ include.item.description }}.
     </p>
-    <br />
+    {% if include.item.tags %}
+    <div class="tag-list">
+      {% for tag in include.item.tags %}
+      <span class="tag">#{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
   </div>
 </div>
