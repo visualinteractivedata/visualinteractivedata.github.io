@@ -12,9 +12,19 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 
 <h1 id="project">Projects</h1>
 
-{% for project in site.project %}
+<!-- {% for project in site.project %}
 {% include projectpreview.html item=project %}
+{% endfor %} -->
+
+<div class="project-grid">
+{% for project in site.project limit:6 %}
+  {% include projecttile.html item=project %}
 {% endfor %}
+</div>
+
+<br />
+[More projects...]({% link project.md %})
+
 
 <!-- <h1 id="projects">Research Topics</h1> -->
 
