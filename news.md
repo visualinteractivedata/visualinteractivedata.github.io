@@ -5,14 +5,15 @@ excerpt_separator: <!-- more news -->
 # Add new news items at the top.
 # The line that says '<!-- more news -->' in the bullet list below marks the cut-off for what is displayed on the homepage. Everything below is available via the 'more news' link on the homepage. Move that line to where you want news to cut off. Make sure not to edit the line itself at all (no added or removed spaces, for example - it needs to match the excerpt separator as defined above exactly)
 ---
-
+- _**Jan 2026**:_ [Christina Stoiber](https://icmt.ustp.at/en/team/christina-stoiber) is visiting our lab for six weeks. Welcome!
+- _**July 2025**:_ Jenny Long exhibited her Build and Connect Puzzle Physicalization at the Glasgow Women's Library.
 - _**Jul 2025**:_ Sarah Schöttler passed her PhD Viva and is joining [the Visualization Cluster](https://vis.win.tue.nl/) at TU Eindhoven as an Assistant Professor. Congratulation!
 - _**May 2025**:_ Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their workshop accepted in Eurovis 2025, titled “[Grasping Data Through Play: Exploring Co-Design Activities for Children's Engagement with Personal Data](https://visgames2025.netlify.app/_astro/paper4.BKJEMBNk.pdf)”.
 - _**May 2025**:_ Sarah Dunn won the first place prize at the CHI student competition for her work on Personalised Health Data comics.
+<!-- more news -->
 - _**May 2025**:_ Hiring [a data visualization designer/developer](jobs/b-ready) for joining the World Bank’s B-ready team in 2025 Summer Internship.
 <!-- - Hiring a [visualization designer / workshop facilitator](jobs/co-benefits-atlas) for a project on building a UK-wide Co2 emission-reduction Co-Benefits atlas. Starting now until July 2025. -->
 - _**Sept 2024**:_ Welcoming [Dorsey Kaufmann](https://www.linkedin.com/in/dorseykaufmann) in our group!
-<!-- more news -->
 - _**Aug 2024**:_ [4 full papers and 1 VISAPP paper](publications.html) accepted to IEEE VIS.
 <!-- - ~~Hiring for a [visualization researcher / designer / developer](jobs/visres2024) for March-June 2024.~~ -->
 <!-- - ~~Hiring for a [permanent teaching position](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8990) at the intersection of data, design and technology.~~ -->
