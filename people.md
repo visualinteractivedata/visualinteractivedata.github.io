@@ -4,6 +4,8 @@ title: People
 ---
 
 ## Alumni (date left)
+- [Alexis Pister](https://alexispister.github.io/), Data visualization engineer (2025)
+- [Sarah Schöttler](https://sarahschoettler.com), PhD Student (graduated 2025)
 - [Tobias Kauer](https://tobiaskauer.org/), PhD Student (graduated 2024)
 - Mashael AlKadi, PhD Student (graduated 2024)
 - Sofia Creatio (visiting PhD student, 2023)
