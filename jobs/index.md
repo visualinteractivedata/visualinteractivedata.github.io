@@ -1,4 +1,10 @@
-# Work with us
+# Get in Touch
+
+## Join Our Mailing List
+Join our mailing list focusing on data visualization in Edinburgh, Scotland, the UK and beyond. The group is open to everyone and aims to share news, events, discussions, jobs, etc.
+
+- [Sign up here](https://groups.google.com/g/vishub-community)
+
 
 ## PhD Projects
 
