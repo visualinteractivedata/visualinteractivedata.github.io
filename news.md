@@ -5,6 +5,7 @@ excerpt_separator: <!-- more news -->
 # Add new news items at the top.
 # The line that says '<!-- more news -->' in the bullet list below marks the cut-off for what is displayed on the homepage. Everything below is available via the 'more news' link on the homepage. Move that line to where you want news to cut off. Make sure not to edit the line itself at all (no added or removed spaces, for example - it needs to match the excerpt separator as defined above exactly)
 ---
+- _**Jun 2026**:_ We are hosting a new Edinburgh Visualisation Meetup on [Visualizing Climate Change](https://www.eventbrite.co.uk/e/visualizing-climate-change-tickets-1989815316175)!
 - _**Jan 2026**:_ [Christina Stoiber](https://icmt.ustp.at/en/team/christina-stoiber) is visiting our lab for six weeks. Welcome!
 - _**July 2025**:_ Jenny Long exhibited her Build and Connect Puzzle Physicalization at the Glasgow Women's Library.
 - _**Jul 2025**:_ Sarah Schöttler passed her PhD Viva and is joining [the Visualization Cluster](https://vis.win.tue.nl/) at TU Eindhoven as an Assistant Professor. Congratulation!
