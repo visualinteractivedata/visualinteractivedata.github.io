@@ -11,7 +11,7 @@ excerpt_separator: <!-- more news -->
 - _**Jun 2026**:_ Jenny Long, Jinrui Wang, Tomas Vancisin, Dorsey Kaufmann, and Uta Hinrichs presented their work at the [Design Informatics FAB26 Showcase](https://fab26.designinformatics.org/)
 <!-- more news -->
 - _**Jun 2026**:_ We are hosting a new Edinburgh Visualisation Meetup on [Visualizing Climate Change](https://www.eventbrite.co.uk/e/visualizing-climate-change-tickets-1989815316175)!
--_**May 2026**:_ Andres Ramirez-Duque, Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their CHI 2026 paper accepted, [From Squishing to Meaning: Exploring Data Physicalization Through Children’s Embodied Experiences](https://dl.acm.org/doi/10.1145/3772318.3791846)
+- _**May 2026**:_ Andres Ramirez-Duque, Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their CHI 2026 paper accepted, [From Squishing to Meaning: Exploring Data Physicalization Through Children’s Embodied Experiences](https://dl.acm.org/doi/10.1145/3772318.3791846)
 - _**Mar 2026**:_ Tomas Vancisin published [Visualising Historical University Records to Explore the Colonial Connections of the Students and Alumni of the University of St Andrews, 1700–1897](https://www.tandfonline.com/doi/full/10.1080/0046760X.2026.2631124)
 - _**Nov 2026**:_ Dorsey Kaufmann launched [Feeling Data Studio](https://feelingdata.studio/)
 - _**Nov 2026**:_ Dorsey Kaufmann’s exhibition [Digital Ghosts](https://inspace.ed.ac.uk/digital-ghosts/) opened at Inspace Gallery
