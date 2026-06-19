@@ -4,14 +4,22 @@ excerpt_separator: <!-- more news -->
 # INSTRUCTIONS:
 # Add new news items at the top.
 # The line that says '<!-- more news -->' in the bullet list below marks the cut-off for what is displayed on the homepage. Everything below is available via the 'more news' link on the homepage. Move that line to where you want news to cut off. Make sure not to edit the line itself at all (no added or removed spaces, for example - it needs to match the excerpt separator as defined above exactly)
----
+- _**Jun 2026**: Sarah Dunn won a Best Paper Award at DIS 2026 for [The Trials of Designing Communication Aids for Clinical Trials](https://dl.acm.org/doi/10.1145/3800645.3812943)
+- _**Jun 2026**:: Dushani Perera presented the DIS 2026 paper [Supporting Engagement and Collaborative Exploration with Household Consumption Practices through a Data Sculpture](https://programs.sigchi.org/dis/2026/program/content/257203)
+- _**Jun 2026**: Jenny Long presented the DRS 2026 paper [Build & Connect: Designing a Constructive, Participatory Physicalization Activity & Toolkit for Community Reflection](https://dl.designresearchsociety.org/drs-conference-papers/drs2026/researchpapers/137/)
+- _**Jun 2026**: Dorsey Kaufmann and Andrea Kocsis presented the DRS 2026 paper [Designing Digital Ghosts: Creative Access to Web Archives](https://dl.designresearchsociety.org/drs-conference-papers/drs2026/researchpapers/654/)
+- _**Jun 2026**: Jenny Long, Jinrui Wang, Tomas Vancisin, Dorsey Kaufmann, and Uta Hinrichs presented their work at the [Design Informatics FAB26 Showcase](https://fab26.designinformatics.org/)
+<!-- more news -->
 - _**Jun 2026**:_ We are hosting a new Edinburgh Visualisation Meetup on [Visualizing Climate Change](https://www.eventbrite.co.uk/e/visualizing-climate-change-tickets-1989815316175)!
+- **May 2026**: Andres Ramirez-Duque, Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their CHI 2026 paper accepted, [From Squishing to Meaning: Exploring Data Physicalization Through Children’s Embodied Experiences](https://dl.acm.org/doi/10.1145/3772318.3791846)
+- _**Mar 2026**: Tomas Vancisin published [Visualising Historical University Records to Explore the Colonial Connections of the Students and Alumni of the University of St Andrews, 1700–1897](https://www.tandfonline.com/doi/full/10.1080/0046760X.2026.2631124)
+- _**Nov 2026**: Dorsey Kaufmann launched [Feeling Data Studio](https://feelingdata.studio/)
+- _**Nov 2026**: Dorsey Kaufmann’s exhibition [Digital Ghosts](https://inspace.ed.ac.uk/digital-ghosts/) opened at Inspace Gallery
 - _**Jan 2026**:_ [Christina Stoiber](https://icmt.ustp.at/en/team/christina-stoiber) is visiting our lab for six weeks. Welcome!
 - _**July 2025**:_ Jenny Long exhibited her Build and Connect Puzzle Physicalization at the Glasgow Women's Library.
 - _**Jul 2025**:_ Sarah Schöttler passed her PhD Viva and is joining [the Visualization Cluster](https://vis.win.tue.nl/) at TU Eindhoven as an Assistant Professor. Congratulation!
 - _**May 2025**:_ Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their workshop accepted in Eurovis 2025, titled “[Grasping Data Through Play: Exploring Co-Design Activities for Children's Engagement with Personal Data](https://visgames2025.netlify.app/_astro/paper4.BKJEMBNk.pdf)”.
-- _**May 2025**:_ Sarah Dunn won the first place prize at the CHI student competition for her work on Personalised Health Data comics.
-<!-- more news -->
+- _**May 2025**:_ Sarah Dunn won first place in the ACM CHI 2025 Student Research Competition for [What Brings You Here Today?: Challenges for Clinicians Communicating Data to Patients](https://dl.acm.org/doi/10.1145/3706599.3719283)
 - _**May 2025**:_ Hiring [a data visualization designer/developer](jobs/b-ready) for joining the World Bank’s B-ready team in 2025 Summer Internship.
 <!-- - Hiring a [visualization designer / workshop facilitator](jobs/co-benefits-atlas) for a project on building a UK-wide Co2 emission-reduction Co-Benefits atlas. Starting now until July 2025. -->
 - _**Sept 2024**:_ Welcoming [Dorsey Kaufmann](https://www.linkedin.com/in/dorseykaufmann) in our group!
@@ -37,7 +45,3 @@ excerpt_separator: <!-- more news -->
 - _**May 2020**:_ <span class="red">James Scott-Brown</span> (postdoc) and <span class="red">Arran Ridley</span> (research assistant) join the team!
 - _**Feb 2020**:_ Position open for [University Teacher in Data Visualization](job-datavista) (postdoc level, no PhD).
 - _**Dec 2019**:_ _Visual+Interactive Data_ contributes towards four [papers](https://visualinteractivedata.github.io/publications) for [CHI 2020](https://chi2020.acm.org)! Congrats everyone!
-- _**Oct 2019**:_ Ryan Bowler joins as a PhD student, working on Temporal Design.
-- _**Oct 2019**:_ Mashael Hamad Alkadi joins as a PhD student, working on Learning Analytics and understanding visualizations.
-- _**Sept 2019**:_ [Tobias Kauer](https://twitter.com/tobi_vierzwo) joins as a PhD student, working on Discursive Visualizations.
-- _**July 2019**:_ Our [Survey on geographic networks](https://geographic-networks.github.io) goes online.
