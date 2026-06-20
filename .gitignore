@@ -6,3 +6,6 @@ vendor/
 .idea/
 .sass-cache/
 cache/
+.jekyll-metadata
+docker-compose.yaml
+Dockerfile
