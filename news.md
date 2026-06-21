@@ -20,7 +20,8 @@ excerpt_separator: <!-- more news -->
 - _**Nov 2026**:_ Dorsey Kaufmann’s exhibition [Digital Ghosts](https://inspace.ed.ac.uk/digital-ghosts/) opens at Inspace Gallery and runs from 5 Nov to 12 Nov!
 - _**Jan 2026**:_ [Christina Stoiber](https://icmt.ustp.at/en/team/christina-stoiber) is visiting our lab for six weeks. Welcome!
 - _**July 2025**:_ Jenny Long exhibiting her Build and Connect Puzzle Physicalization at the Glasgow Women's Library.
-- _**Jul 2025**:_ Sarah Schöttler passed her PhD Viva and is joining [the Visualization Cluster](https://vis.win.tue.nl/) at TU Eindhoven as an Assistant Professor. Congratulation!
+- _**Jul 2025**:_ Sarah Schöttler passed her PhD Viva and is joining [the Visualization Cluster](https://vis.win.tue.nl/) at TU Eindhoven as an Assistant Professor. Congratulations!
+- _**Jun 2025**:_ Dorsey Kaufmann exhibits her installation Ripple Effect at Hidden Door Festival
 - _**May 2025**:_ Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their workshop accepted in Eurovis 2025, titled “[Grasping Data Through Play: Exploring Co-Design Activities for Children's Engagement with Personal Data](https://visgames2025.netlify.app/_astro/paper4.BKJEMBNk.pdf)”.
 - _**May 2025**:_ Sarah Dunn won first place in the ACM CHI 2025 Student Research Competition for [What Brings You Here Today?: Challenges for Clinicians Communicating Data to Patients](https://dl.acm.org/doi/10.1145/3706599.3719283)
 - _**May 2025**:_ Hiring [a data visualization designer/developer](jobs/b-ready) for joining the World Bank’s B-ready team in 2025 Summer Internship.
