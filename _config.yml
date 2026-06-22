@@ -44,8 +44,7 @@ collections:
   vishubprojects:
     output: true
     order:
-      - mailinglist.md
-      - professionals_course.md
-      - datafairs.md
-      - datavismeetup.md
-      - chartclinic.md
+      - climate.md
+      - llm.md
+      - story.md
+      - grammar.md
