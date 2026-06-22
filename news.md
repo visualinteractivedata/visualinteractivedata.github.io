@@ -7,21 +7,21 @@ excerpt_separator: <!-- more news -->
 ---
 
 - _**Jun 2026**:_ Sarah Dunn won a Best Paper Award at DIS 2026 for [The Trials of Designing Communication Aids for Clinical Trials](https://dl.acm.org/doi/10.1145/3800645.3812943)
-- _**Jun 2026**:_ Dushani Perera presented the DIS 2026 paper [Supporting Engagement and Collaborative Exploration with Household Consumption Practices through a Data Sculpture](https://programs.sigchi.org/dis/2026/program/content/257203)
+- _**Jun 2026**:_ Dushani Perera presented the DIS 2026 paper [Supporting Engagement and Collaborative Exploration with Household Consumption Practices through a Data Sculpture](https://dl-acm-org.eux.idm.oclc.org/doi/10.1145/3800645.3813016)
 - _**Jun 2026**:_ Jenny Long presented the DRS 2026 paper [Build & Connect: Designing a Constructive, Participatory Physicalization Activity & Toolkit for Community Reflection](https://dl.designresearchsociety.org/drs-conference-papers/drs2026/researchpapers/137/)
 - _**Jun 2026**:_ Dorsey Kaufmann and Andrea Kocsis presented the DRS 2026 paper [Designing Digital Ghosts: Creative Access to Web Archives](https://dl.designresearchsociety.org/drs-conference-papers/drs2026/researchpapers/654/)
 - _**Jun 2026**:_ Jenny Long, Jinrui Wang, Tomas Vancisin, Dorsey Kaufmann, and Uta Hinrichs presented their work at the [Design Informatics FAB26 Showcase](https://fab26.designinformatics.org/)
 
 <!-- more news -->
-
 - _**Jun 2026**:_ We are hosting a new Edinburgh Visualisation Meetup on [Visualizing Climate Change](https://www.eventbrite.co.uk/e/visualizing-climate-change-tickets-1989815316175)!
-- _**May 2026**:_ Andres Ramirez-Duque, Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their CHI 2026 paper accepted, [From Squishing to Meaning: Exploring Data Physicalization Through Children’s Embodied Experiences](https://dl.acm.org/doi/10.1145/3772318.3791846)
+- _**May 2026**:_ Andres Ramirez-Duque, Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and Grasping Data team had their CHI 2026 paper accepted, [From Squishing to Meaning: Exploring Data Physicalization Through Children’s Embodied Experiences](https://dl.acm.org/doi/10.1145/3772318.3791846)
 - _**Mar 2026**:_ Tomas Vancisin published [Visualising Historical University Records to Explore the Colonial Connections of the Students and Alumni of the University of St Andrews, 1700–1897](https://www.tandfonline.com/doi/full/10.1080/0046760X.2026.2631124)
 - _**Nov 2026**:_ Dorsey Kaufmann launched [Feeling Data Studio](https://feelingdata.studio/)
-- _**Nov 2026**:_ Dorsey Kaufmann’s exhibition [Digital Ghosts](https://inspace.ed.ac.uk/digital-ghosts/) opened at Inspace Gallery
+- _**Nov 2026**:_ Dorsey Kaufmann’s exhibition [Digital Ghosts](https://inspace.ed.ac.uk/digital-ghosts/) opens at Inspace Gallery and runs from 5 Nov to 12 Nov!
 - _**Jan 2026**:_ [Christina Stoiber](https://icmt.ustp.at/en/team/christina-stoiber) is visiting our lab for six weeks. Welcome!
-- _**July 2025**:_ Jenny Long exhibited her Build and Connect Puzzle Physicalization at the Glasgow Women's Library.
-- _**Jul 2025**:_ Sarah Schöttler passed her PhD Viva and is joining [the Visualization Cluster](https://vis.win.tue.nl/) at TU Eindhoven as an Assistant Professor. Congratulation!
+- _**July 2025**:_ Jenny Long exhibiting her Build and Connect Puzzle Physicalization at the Glasgow Women's Library.
+- _**Jul 2025**:_ Sarah Schöttler passed her PhD Viva and is joining [the Visualization Cluster](https://vis.win.tue.nl/) at TU Eindhoven as an Assistant Professor. Congratulations!
+- _**Jun 2025**:_ Dorsey Kaufmann exhibits her installation Ripple Effect at Hidden Door Festival
 - _**May 2025**:_ Dushani Perera, Dorsey Kaufmann, Uta Hinrichs and team had their workshop accepted in Eurovis 2025, titled “[Grasping Data Through Play: Exploring Co-Design Activities for Children's Engagement with Personal Data](https://visgames2025.netlify.app/_astro/paper4.BKJEMBNk.pdf)”.
 - _**May 2025**:_ Sarah Dunn won first place in the ACM CHI 2025 Student Research Competition for [What Brings You Here Today?: Challenges for Clinicians Communicating Data to Patients](https://dl.acm.org/doi/10.1145/3706599.3719283)
 - _**May 2025**:_ Hiring [a data visualization designer/developer](jobs/b-ready) for joining the World Bank’s B-ready team in 2025 Summer Internship.
