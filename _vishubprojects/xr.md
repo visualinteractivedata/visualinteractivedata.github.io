@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Extra dimensional "XR" 
+title: Extra dimensional XR 
 image: figures/meetup/mt31.avif
 description: irjogiwer
 link: https://www.eventbrite.co.uk/e/visualizing-climate-change-tickets-1989815316175
