@@ -1,4 +1,4 @@
-<img src="/figures/banner.png" alt="Vishub group photo" style="width:100%; height:auto; margin-bottom: 0.5rem;">
+<img src="/figures/banner.png" alt="Vishub group photo" style="width:100%; height:auto; margin-bottom: 0.5rem; border-radius: 5px">
 
 
 The **VisHub is an interdisciplinary research lab and hub for teaching, collaboration, and outreach around data visualization** hosted by the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). We research creative methods for interactive, exploratory and explanatory data visualizations across domains and environments. Our goal is to make data visualization and data analytics understandable by everyone.
