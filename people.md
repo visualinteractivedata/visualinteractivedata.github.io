@@ -3,7 +3,8 @@ layout: people
 title: People
 ---
 
-## Alumni (date left)
+## Alumni (date left),
+- [Sian Phillips](https://www.linkedin.com/in/sian-phillips-a19a7124a), research assistant (2025)
 - [Alexis Pister](https://alexispister.github.io/), Data visualization engineer (2025)
 - [Sarah Schöttler](https://sarahschoettler.com), PhD Student (graduated 2025)
 - [Tobias Kauer](https://tobiaskauer.org/), PhD Student (graduated 2024)

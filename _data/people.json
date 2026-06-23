@@ -23,7 +23,7 @@
   },
   "Tomas Vancisin": {
     "Google Scholar": "https://scholar.google.com/citations?user=N21-2bIAAAAJ&hl=en&oi=ao",
-    "Personal Site":"https://tomasvancisin.co.uk/",
+    "Personal Site": "https://tomasvancisin.co.uk/",
     "Bio": "Data Visualization Engineer at Edinburgh Futures Institute and Research Associate in Data Visualization at Peace and Conflict Resolution Platform (PeaceRep). His research interests include Visualization, Digital Humanities, Visualization of Historical Cultural Collections, Provenance Visualization, and PeaceTech.",
     "Type": "Research and Design",
     "Image": "tomas_vancisin.png"
@@ -60,10 +60,5 @@
     "Bio": "research associate in the Grasping Data project, exploring ways to physicalize children's personal data. She is a qualitative researcher focusing on the intersection of Human-Computer Interaction (HCI), Computer Supported Cooperative Work (CSCW), and Social Sciences with a particular interest in Sustainability, Information Visualisation, and Data Physicalization domains. ",
     "Type": "Research and Design",
     "Image": "dushani_perera.png"
-  },
-  "Sian Pillips": {
-    "Bio": "research assitant in UK Co-Benefit Atlas project, creating interactive web-based data visualisations. She holds a bachelor's degree in Mathematics and Statistics from the University of Edinburgh and a master’s degree in Data Visualisation from the University of Warwick. Originally from Edinburgh, she is passionate about working with data to create designs that promote positive change in the world and encourage innovation and inclusivity. ",
-    "Type": "Research and Design",
-    "Image": "sian_phillips.png"
   }
 }
