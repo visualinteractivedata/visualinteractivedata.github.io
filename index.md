@@ -32,7 +32,7 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
   {% include projectpreview.html item=r %}
 {% endfor %} -->
 
-<h1 id="community-activities">Events</h1>
+<!-- <h1 id="community-activities">Events</h1>
 
 {% for vishubproject in site.vishubprojects %}
 
@@ -44,4 +44,4 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
   {% endif %}
   {{ vishubproject.description | markdownify }}
 </p>
-{% endfor %}
+{% endfor %} -->
