@@ -2,25 +2,66 @@
 layout: default
 ---
 
+<style>
+/* .project-thumbnail { max-width: 280px; height: auto; display: block; } */
+.photo-tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.75rem; margin-top: 0.5rem; }
+.photo-tiles img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; }
+/* .project-tags { margin: 0; } */
+.project-tags span { color: #888; font-size: 1em; margin-right: 0.5em; }
+</style>
+
 <h1>{{page.title}}</h1>
 
 {% if page.image %}
 
-<img src="../{{page.image}}" />
+<img src="../{{page.image}}" class="project-thumbnail" />
 
 {% endif %}
 
 {{content}}
 
+{% if page.tags %}
+<p class="project-tags">{% for tag in page.tags %}<span>#{{tag}}</span>{% endfor %}</p>
+{% endif %}
+
+{% if page.website %}
+<a href="{{page.website}}">{{page.website}}</a></p>
+{% endif %}
+
+
+
+
 <h2>People involved</h2>
 
 <ul>
     {% for person in page.people %}
-    <li>{{person}} 
+    <li>{{person}}
     {% if site.data.people[person]['Google Scholar'] %}(<a href="{{site.data.people[person]['Google Scholar']}}" target="_blank">Google Scholar</a>){% endif %}
     </li>
     {% endfor %}
 </ul>
+
+{% if page.partners %}
+<h2>Partners</h2>
+<p>{{page.partners}}</p>
+{% endif %}
+
+{% if page.outputs %}
+<h2>Outputs</h2>
+<ul>
+    {% for output in page.outputs %}
+    <li>{{ output | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+
+
+
+
+{% if page.student_led %}
+<p><em>This is a student-led project.</em></p>
+{% endif %}
 
 {% if page.publications %}
 <h2>Publications</h2>
@@ -32,4 +73,13 @@ layout: default
 		{% endif %}
 	{% endfor %}
 {% endfor %}
+{% endif %}
+
+{% if page.additional_photos %}
+<h2>Photos</h2>
+<div class="photo-tiles">
+    {% for photo in page.additional_photos %}
+    <img src="../figures/{{photo}}" alt="{{page.title}}" />
+    {% endfor %}
+</div>
 {% endif %}
