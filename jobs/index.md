@@ -8,11 +8,13 @@ Join our mailing list focusing on data visualization in Edinburgh, Scotland, the
 
 ## PhD Projects
 
-Competitive PhD scholarships are available **all year around** through the School of Informatics or the [centre for doctoral training in Designing Responsible NLP](https://www.responsiblenlp.org/). We are always interested in ambitious students in all areas of our [research](https://vishub.net/projects). Get in touch with us to discuss. Keep in mind that funding is extremely competitive and any funding thought by the student will help the process.
+Competitive PhD scholarships are available **all year around** through the [School of Informatics](https://study.ed.ac.uk/programmes/postgraduate-research/491-informatics-ilcc-language-processing-speech-technology) or the [centre for doctoral training in Designing Responsible NLP](https://www.responsiblenlp.org/). We are always interested in ambitious students in all areas of our [research](https://vishub.net/projects). Get in touch with us to discuss. Keep in mind that funding is extremely competitive and any funding thought by the student will help the process.
 
 - [Visualizing Cultural Collections](phd-visCulturalCollections.html)
 - [Re-thinking Visualization as Part of Humanities Research](phd-vishumanities-nov2021.html)
 <!-- - [Dashboard design and visualization](../phds/phd-dashboards) ([apply by Nov 25, 2022](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=491)) -->
+
+Read more about [Design Informatics PhD opportunities](https://designinformatics.org/study/design-informatics-phd/) here. 
 
 ## Other Positions
 
