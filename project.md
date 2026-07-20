@@ -26,7 +26,8 @@ permalink: /projects/
 </ul>
 
 <div id="project-list" class="project-grid">
-{% for project in site.project %}
+{% assign sorted_projects = site.project | sort: "date" | reverse %}
+{% for project in sorted_projects %}
   {% include projecttile.html item=project %}
 {% endfor %}
 </div>

@@ -28,11 +28,12 @@ layout: default
 <a href="{{page.website}}">{{page.website}}</a></p>
 {% endif %}
 
-
-
+{% if page.partners %}
+<h2>Partners</h2>
+<p>{{page.partners}}</p>
+{% endif %}
 
 <h2>People involved</h2>
-
 <ul>
     {% for person in page.people %}
     <li>{{person}}
@@ -41,10 +42,7 @@ layout: default
     {% endfor %}
 </ul>
 
-{% if page.partners %}
-<h2>Partners</h2>
-<p>{{page.partners}}</p>
-{% endif %}
+
 
 {% if page.outputs %}
 <h2>Outputs</h2>

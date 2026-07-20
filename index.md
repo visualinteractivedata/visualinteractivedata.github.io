@@ -17,7 +17,8 @@ The **VisHub is an interdisciplinary research lab and hub for teaching, collabor
 {% endfor %} -->
 
 <div class="project-grid">
-{% for project in site.project limit:6 %}
+{% assign sorted_projects = site.project | sort: "date" | reverse %}
+{% for project in sorted_projects limit:6 %}
   {% include projecttile.html item=project %}
 {% endfor %}
 </div>

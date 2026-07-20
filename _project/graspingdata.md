@@ -3,6 +3,7 @@ layout: project
 title: Grasping Data
 image: figures/graspingdata.png
 description: This project collaborates with children, their educators, and parents to co-create tangible representations of personal data that children can touch, explore, talk about, and learn from. Through hands-on activities, the project aims to empower young children to understand and benefit from their personal data
+date: 2024-10-01
 people:
 - Dushani Perera
 - Dorsey Kaufmann

@@ -3,6 +3,9 @@ layout: project
 title: Visualizations in Peace & Conflict
 image: figures/peacerep.png
 description: PeaceRep is a leading developer of PeaceTech and peace data. Our innovative datasets,tools, and visualisations support adaptive management of peace and transition processes
+date: 2019-10-01
+tags:
+- Digital Humanities
 people:
 - Tomas Vancisin
 - Jinrui Wang
@@ -12,6 +15,7 @@ people:
 - Uta Hinrichs
 - Benjamin Bach
 publications:
+- "Visualizing Peace Transitions: Interactive Visualizations to Support Innovation and Adaptive Management in Peace Processes"
 - "Designing an interactive real-time web-mapped dashboard to visualise conflict ceasefires data over COVID-19 infection rates: Facilities and the way ahead"
 - "Ways of Seeing: Peace Process Data-Viz as Research Practice"
 - "An interactive tracker for ceasefires in the time of COVID-19"

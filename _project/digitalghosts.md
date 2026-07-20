@@ -3,6 +3,7 @@ layout: project
 title: Digital Ghosts
 image: figures/Thumbnail_DG.png
 description: Exhibition that transforms web archive data into interactive visualizations, revealing how digital content disappears and what those absences tell us about memory, preservation, and loss.
+date: 2025-11-01
 people:
 - Dorsey Kaufmann
 - Andrea Kocsis
@@ -11,7 +12,7 @@ outputs:
 - "[Digital Ghosts: Visualising Presence and Absence in ScotlandÕs Web Archives. Workshop 2025.](https://inspace.ed.ac.uk/digital-ghosts-visualising-presence-and-absence-in-scotlands-web-archives/)"
 tags:
 - Digital Humanities
-- Uncertainty Visualization
+- Uncertainty
 - Physicalization
 publications:
 - "Designing Digital Ghosts: Creative access to web archives"
