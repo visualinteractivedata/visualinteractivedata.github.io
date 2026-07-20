@@ -3,34 +3,53 @@ layout: default
 ---
 
 <style>
-/* .project-thumbnail { max-width: 280px; height: auto; display: block; } */
+.project-thumbnail { max-width: 100%; height: auto; display: block; border-radius: 6px; margin: 20px 0 28px; }
 .photo-tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.75rem; margin-top: 0.5rem; }
 .photo-tiles img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; }
-/* .project-tags { margin: 0; } */
-.project-tags span { color: #888; font-size: 1em; margin-right: 0.5em; }
+
+.project-meta { margin: 24px 0 32px; display: flex; flex-direction: column; gap: 10px; }
+
+.project-tags { margin: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.project-tags span { display: inline-block; background: #f4f4f4; color: #676767; font-size: 0.85em; padding: 3px 10px; border-radius: 12px; }
+
+.project-website { margin: 0; font-size: 0.95em; }
+
+.project-partners { display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+.project-partners h3 { margin: 0; font-size: 1em; }
+.project-partners p { margin: 0; }
 </style>
 
 <h1>{{page.title}}</h1>
 
 {% if page.image %}
-
 <img src="../{{page.image}}" class="project-thumbnail" />
-
 {% endif %}
 
 {{content}}
 
-{% if page.tags %}
-<p class="project-tags">{% for tag in page.tags %}<span>#{{tag}}</span>{% endfor %}</p>
-{% endif %}
+{% if page.tags or page.website or page.partners %}
+<div class="project-meta">
+    {% if page.tags %}
+    <div class="project-partners">
+        <h3>Keywords</h3>
+        <p class="project-tags">{% for tag in page.tags %}<span>#{{tag}}</span>{% endfor %}</p>
+    </div>
+    {% endif %}
 
-{% if page.website %}
-<a href="{{page.website}}">{{page.website}}</a></p>
-{% endif %}
+    {% if page.website %}
+    <div class="project-partners">
+        <h3>Website</h3>
+        <p class="project-website"><a href="{{page.website}}">{{page.website}}</a></p>
+    </div>
+    {% endif %}
 
-{% if page.partners %}
-<h2>Partners</h2>
-<p>{{page.partners}}</p>
+    {% if page.partners %}
+    <div class="project-partners">
+        <h3>Partners</h3>
+        <p>{{page.partners}}</p>
+    </div>
+    {% endif %}
+</div>
 {% endif %}
 
 <h2>People involved</h2>
